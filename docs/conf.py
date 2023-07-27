@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "RSE TRE"
-copyright = "2022, RSE TRE"
-author = "RSE TRE"
+project = "UK TRE"
+copyright = "2022, UK TRE"
+author = "UK TRE"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

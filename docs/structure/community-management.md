@@ -3,7 +3,7 @@
 ## Summary
 
 - The Trusted Research Environment (TRE) Community Management and Engagement arm of the UK TRE Community aims to foster collaboration and facilitate the sharing and distribution of innovative ideas to support the success of all participants.
-- We steer the wider group in alignment with the principles of the [Newcastle Commitment](https://github.com/rse-tre/community/blob/main/docs/newcastle-commitment/index.md), working together to create a more secure, robust, and capable infrastructure, leading to enhanced research outcomes.
+- We steer the wider group in alignment with the principles of the [Newcastle Commitment](https://github.com/uk-tre/website/blob/main/docs/newcastle-commitment/index.md), working together to create a more secure, robust, and capable infrastructure, leading to enhanced research outcomes.
 - We operate as a volunteer-based, community-driven initiative under the umbrella of the DARE UK Community Group relying on the expertise and resources contributed by our members from UK universities, research institutions, and other relevant bodies.
 
 ## Focus Areas

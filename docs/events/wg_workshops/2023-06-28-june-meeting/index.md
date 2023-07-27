@@ -21,11 +21,11 @@ breakout-federation-standards
 
 - **JISC Mailing list**: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
 - **Slack channel**: https://ukrse.slack.com/archives/C045ETUPPD0
-- **Report from last meeting**: https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/2023-03-29-march-meeting/index.html
-- **Newcastle Commitment**: https://rse-tre-community.readthedocs.io/en/latest/newcastle-commitment/index.html
-- **Community GitHub**: https://github.com/rse-tre/community
+- **Report from last meeting**: https://uktre.readthedocs.io/en/latest/events/wg_workshops/2023-03-29-march-meeting/index.html
+- **Newcastle Commitment**: https://uktre.readthedocs.io/en/latest/newcastle-commitment/index.html
+- **Community GitHub**: https://github.com/uk-tre/website
 - **Mentimeter**: https://www.menti.com/algf3akq4q6g
-- **Read the docs**: https://rse-tre-community.readthedocs.io/en/latest/structure/index.html
+- **Read the docs**: https://uktre.readthedocs.io/en/latest/structure/index.html
 
 ## Schedule
 

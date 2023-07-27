@@ -4,7 +4,7 @@
 
 The open-source and open-standards TRE working group promotes the development and use of open standards and open infrastructure for secure environments.
 
-This includes supporting the community in developing and maintaining open-standards, and providing a forum for open-source TRE contributors to meet and share ideas, in-line with the principles of the [Newcastle Commitment](https://github.com/rse-tre/community/blob/main/docs/newcastle-commitment/index.md).
+This includes supporting the community in developing and maintaining open-standards, and providing a forum for open-source TRE contributors to meet and share ideas, in-line with the principles of the [Newcastle Commitment](https://github.com/uk-tre/website/blob/main/docs/newcastle-commitment/index.md).
 
 ## Focus Areas
 

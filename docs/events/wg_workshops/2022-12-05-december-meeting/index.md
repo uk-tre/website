@@ -21,8 +21,8 @@ Date: Monday 5th December 2022
 ## Useful links
 
 - **Slack channel**: https://ukrse.slack.com/archives/C045ETUPPD0
-- **RSECON Report (foundational event)**: https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/rsecon22/index.html
-- **Community GitHub**: https://github.com/rse-tre/community
+- **RSECON Report (foundational event)**: https://uktre.readthedocs.io/en/latest/events/wg_workshops/rsecon22/index.html
+- **Community GitHub**: https://github.com/uk-tre/website
 
 ## Schedule
 
@@ -197,7 +197,7 @@ Each of the 3 working groups updated us on their progress.
 
 ### Community management
 
-- [GitHub repository](https://github.com/rse-tre/community) and associated [ReadTheDocs site](https://rse-tre-community.readthedocs.io/) up and running. [Notes from first meeting](https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/rsecon22/index.html) posted on ReadTheDocs site.
+- [GitHub repository](https://github.com/uk-tre/website) and associated [ReadTheDocs site](https://uktre.readthedocs.io/) up and running. [Notes from first meeting](https://uktre.readthedocs.io/en/latest/events/wg_workshops/rsecon22/index.html) posted on ReadTheDocs site.
 - [Slack channel](https://ukrse.slack.com/archives/C045ETUPPD0) up and running. Mailing lis to come.
 - [Newcastle Commitment](https://docs.google.com/document/d/1F8TOilZlu0k8dojFFqbD-GuIyJIjCMCMhscJTEz7yKQ/edit): Principles for the community
 - Question: Should we require/allow people to sign the commitment? A: Seems to be a consensus to allow people to sign the commitment but not require it.
