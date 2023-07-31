@@ -7,7 +7,7 @@ You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji
 To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
 `@all-contributors please add @<username> for <keyword in the Type column>`
 
-Whatever your availability, there is a way to contribute to the RSE TRE repo!
+Whatever your availability, there is a way to contribute to the UK-TRE repo!
 
 ## 👋 I'm busy, I only have 5 minutes
 

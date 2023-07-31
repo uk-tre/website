@@ -20,9 +20,9 @@ breakout-tre-architectures
 
 - **JISC Mailing list**: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
 - **Slack channel**: https://ukrse.slack.com/archives/C045ETUPPD0
-- **Report from last meeting**: https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/2022-12-05-december-meeting/index.html
-- **Newcaslte Committment**: https://rse-tre-community.readthedocs.io/en/latest/newcastle-commitment/index.html
-- **Community GitHub**: https://github.com/rse-tre/community
+- **Report from last meeting**: https://uktre.readthedocs.io/en/latest/events/wg_workshops/2022-12-05-december-meeting/index.html
+- **Newcaslte Committment**: https://uktre.readthedocs.io/en/latest/newcastle-commitment/index.html
+- **Community GitHub**: https://github.com/uk-tre/website
 
 ## Schedule
 
@@ -52,7 +52,7 @@ breakout-tre-architectures
 
 Hari Sood from the Alan Turing Institute kicked off proceedings with the reminder that this is an open, self-organised community and is still in its infancy. Everyone is welcome - folk building and running TREs, folk using TREs, folk just interested in them. The group has a strong focus on open source TREs but anyone involved in non-open TREs is, of course, also welcome. A plea to all: please do suggest things we should be doing together, and any thoughts you have on how best we can work.
 
-[The Newcastle Commitment](https://rse-tre-community.readthedocs.io/en/latest/newcastle-commitment/index.html) is our public statement of intent as a community.
+[The Newcastle Commitment](https://uktre.readthedocs.io/en/latest/newcastle-commitment/index.html) is our public statement of intent as a community.
 
 Currently the group has quarterly meetings, three virtual and one in-person / hybrid at the RSE Conference each September. We have also set up four working groups to help us co-ordinate work between the quarterly meetings:
 

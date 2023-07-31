@@ -42,5 +42,5 @@ The meeting is free to attend and lunch is included!
 
 :JISC Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
 :Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
-:Report from last meeting: https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/2023-03-29-march-meeting/index.html
-:Community website: https://rse-tre-community.readthedocs.io/
+:Report from last meeting: https://uktre.readthedocs.io/en/latest/events/wg_workshops/2023-03-29-march-meeting/index.html
+:Community website: https://uktre.readthedocs.io/
