@@ -48,11 +48,11 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
   - Lightning talks
 - - **12:45 - 14:00**
   - **Lunch**
-- - 14:00 - 16:30
+- - 14:00 - 16:45
   - Parallel sessions/breakouts, including breaks. <!--See &lt;todo&gt; for topics-->
-- - 16:30 - 17:00
-  - Wrap-up of parallel sessions/breakouts
-- - 17:00 - 17:30
+- - 16:45 - 17:15
+  - Conclusions, actions and next steps
+- - 17:15 - 17:30
   - Closing remarks
 
 ```
