@@ -26,11 +26,36 @@ The meeting is open to everyone, and will be attended by a range of stakeholders
 
 The day will feature lightning talks from cross-sector research industry teams who are at the forefront of testing innovative ideas for TREs, and a keynote presentation on HDR UK’s plans for the tech eco-system.
 
-However, the most important part of the day will be breakout sessions and discussions where we will take advantage of the mix of sectors and stakeholders to learn from each other, evaluate the work already done, and define goals for the community and the future provision of TREs in the UK and beyond over the next few years.
+A key part of the day will be breakout sessions and discussions where we will take advantage of the mix of sectors and stakeholders to learn from each other, evaluate the work already done, and define goals for the community and the future provision of TREs in the UK and beyond over the next few years.
 
 This meeting is open to everyone and free to attend, thanks to the sponsorship by The Alan Turing Institute, HDR UK and DARE UK. The morning talks will also be broadcast online for those that cannot attend in person, but all afternoon sessions including breakout discussions will be in-person only.
 
-**Full agenda coming soon**
+#### Provisional schedule
+
+```{list-table}
+:widths: 100 300
+:header-rows: 0
+
+- - 10:00 - 10:15
+  - Arrival
+- - 10:15 - 10:30
+  - Welcome and introductions
+- - 10:30 - 11:15
+  - Keynote from Emily Jefferson (CTO, HDR UK) including discussion
+- - **11:15 - 11:30**
+  - **Break**
+- - 11:30 - 12:45
+  - Lightning talks
+- - **12:45 - 14:00**
+  - **Lunch**
+- - 14:00 - 16:45
+  - Parallel sessions/breakouts, including breaks. <!--See &lt;todo&gt; for topics-->
+- - 16:45 - 17:15
+  - Conclusions, actions and next steps
+- - 17:15 - 17:30
+  - Closing remarks
+
+```
 
 ### Registration
 
