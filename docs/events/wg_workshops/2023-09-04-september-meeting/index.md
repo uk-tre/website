@@ -40,7 +40,7 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
   - Arrival
 - - 10:15 - 10:30
   - Welcome and introductions
-- - 10:30 - 11:13
+- - 10:30 - 11:15
   - Keynote from Emily Jefferson (CTO, HDR UK) including discussion
 - - **11:15 - 11:30**
   - **Break**
