@@ -30,7 +30,32 @@ However, the most important part of the day will be breakout sessions and discus
 
 This meeting is open to everyone and free to attend, thanks to the sponsorship by The Alan Turing Institute, HDR UK and DARE UK. The morning talks will also be broadcast online for those that cannot attend in person, but all afternoon sessions including breakout discussions will be in-person only.
 
-**Full agenda coming soon**
+#### Provisional schedule
+
+```{list-table}
+:widths: 100 300
+:header-rows: 0
+
+- - 10:00 - 10:15
+  - Arrival
+- - 10:15 - 10:30
+  - Welcome and introductions
+- - 10:30 - 11:13
+  - Keynote from Emily Jefferson (CTO, HDR UK) including discussion
+- - **11:15 - 11:30**
+  - **Break**
+- - 11:30 - 12:45
+  - Lightning talks
+- - **12:45 - 14:00**
+  - **Lunch**
+- - 14:00 - 16:30
+  - Parallel sessions/breakouts, including breaks. <!--See &lt;todo&gt; for topics-->
+- - 16:30 - 17:00
+  - Wrap-up of parallel sessions/breakouts
+- - 17:00 - 17:30
+  - Closing remarks
+
+```
 
 ### Registration
 
