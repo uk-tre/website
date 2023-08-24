@@ -2,6 +2,14 @@
 
 ## Theme: What is stopping TREs from working together?
 
+```{toctree}
+:maxdepth: 0
+:hidden: true
+
+lightning-talks
+breakout-sessions
+```
+
 _The biggest meetup of the UK TRE community to date with presentations, breakout discussions and a keynote from HDR UK on the future of TREs!_
 
 :Date: Monday 4th September 2023 10:00 - 17:30
@@ -45,13 +53,11 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
 - - **11:15 - 11:30**
   - **Break**
 - - 11:30 - 12:45
-  - Lightning talks
+  - [Lightning talks](./lightning-talks)
 - - **12:45 - 14:00**
   - **Lunch**
-- - 14:00 - 16:45
-  - Parallel sessions/breakouts, including breaks. <!--See &lt;todo&gt; for topics-->
-- - 16:45 - 17:15
-  - Conclusions, actions and next steps
+- - 14:00 - 17:15
+  - [Parallel breakout sessions](./breakout-sessions)
 - - 17:15 - 17:30
   - Closing remarks
 
