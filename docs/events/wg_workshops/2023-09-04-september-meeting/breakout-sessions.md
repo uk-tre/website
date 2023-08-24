@@ -14,7 +14,7 @@ Some topic suggestions have already been submitted:
 - Cloud vs on-prem TREs: costs, constraints, pros & cons
 - The role of independent TRE providers in relation to the NHS national and regional SDEs
 - The role of TRE standards for the TRE community
-- Sight unseen: how far can we go with keeping data hidden from users? 
+- Sight unseen: how far can we go with keeping data hidden from users?
 - Addressing data harmonisation between different datasets: do TREs have a role?
 - Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
 
@@ -45,5 +45,5 @@ Each breakout session will be one hour long, with multiple parallel topics decid
 We will attempt to cover as many topics as possible, and attendees can choose which breakout session to go to.
 Popular topics will be covered in both sessions, giving participants the options of going much more in-depth.
 
-The aim of these breakouts is to discuss the topic area, and explore how the community could take work forwards from the discussion. 
+The aim of these breakouts is to discuss the topic area, and explore how the community could take work forwards from the discussion.
 At the end of this session we would like each group to summarise what next steps would look like: what they want to achieve, what resources would be needed, and how they could go about it.

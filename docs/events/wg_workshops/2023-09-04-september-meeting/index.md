@@ -20,10 +20,10 @@ Morning session will also be online.
 
 ### Background
 
-The UK TRE community is thrilled to announce what is hoped to be the UK's largest in-person meeting on Trusted Research Environments (TREs) to be held in Swansea on Monday 4th September 2023. 
+The UK TRE community is thrilled to announce what is hoped to be the UK's largest in-person meeting on Trusted Research Environments (TREs) to be held in Swansea on Monday 4th September 2023.
 The day will bring together stakeholders from all sectors and disciplines to discuss the current state of TREs, look at existing barriers, and define the future provision of TREs in the UK.
 
-The UK TRE Community is a community that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors and managers and more, from all sectors and disciplines. 
+The UK TRE Community is a community that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors and managers and more, from all sectors and disciplines.
 The core aims of fostering collaboration and sharing of innovative ideas to support the delivery of groundbreaking research with sensitive data have resonated across the UK and beyond.
 
 ### Meeting information
@@ -66,6 +66,7 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
 ```
 
 ### Online lunch
+
 During lunch, UK TRE Community team members will be available online to provide a space for those joining online to ask questions and network.
 
 ### Registration
