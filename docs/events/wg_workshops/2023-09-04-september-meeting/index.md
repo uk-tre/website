@@ -2,6 +2,14 @@
 
 ## Theme: What is stopping TREs from working together?
 
+```{toctree}
+:maxdepth: 0
+:hidden: true
+
+lightning-talks
+breakout-sessions
+```
+
 _The biggest meetup of the UK TRE community to date with presentations, breakout discussions and a keynote from HDR UK on the future of TREs!_
 
 :Date: Monday 4th September 2023 10:00 - 17:30
@@ -12,9 +20,11 @@ Morning session will also be online.
 
 ### Background
 
-The UK TRE community is thrilled to announce what is hoped to be the UK's largest in-person meeting on Trusted Research Environments (TREs) to be held in Swansea on Monday 4th September 2023. The day will bring together stakeholders from all sectors and disciplines to discuss the current state of TREs, look at existing barriers, and define the future provision of TREs in the UK.
+The UK TRE community is thrilled to announce what is hoped to be the UK's largest in-person meeting on Trusted Research Environments (TREs) to be held in Swansea on Monday 4th September 2023.
+The day will bring together stakeholders from all sectors and disciplines to discuss the current state of TREs, look at existing barriers, and define the future provision of TREs in the UK.
 
-The UK TRE Community is a community that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors and managers and more, from all sectors and disciplines. The core aims of fostering collaboration and sharing of innovative ideas to support the delivery of groundbreaking research with sensitive data have resonated across the UK and beyond.
+The UK TRE Community is a community that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors and managers and more, from all sectors and disciplines.
+The core aims of fostering collaboration and sharing of innovative ideas to support the delivery of groundbreaking research with sensitive data have resonated across the UK and beyond.
 
 ### Meeting information
 
@@ -44,24 +54,27 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
   - Keynote from Emily Jefferson (CTO, HDR UK) including discussion
 - - **11:15 - 11:30**
   - **Break**
-- - 11:30 - 12:45
-  - Lightning talks
-- - **12:45 - 14:00**
+- - 11:30 - 13:00
+  - [Lightning talks](./lightning-talks)
+- - **13:00 - 14:00**
   - **Lunch**
-- - 14:00 - 16:45
-  - Parallel sessions/breakouts, including breaks. <!--See &lt;todo&gt; for topics-->
-- - 16:45 - 17:15
-  - Conclusions, actions and next steps
+- - 14:00 - 17:15
+  - [Parallel breakout sessions](./breakout-sessions)
 - - 17:15 - 17:30
   - Closing remarks
 
 ```
 
+### Online lunch
+
+During lunch, UK TRE Community team members will be available online to provide a space for those joining online to ask questions and network.
+
 ### Registration
 
 Please register on [EventBrite](https://www.eventbrite.com/e/uk-tre-community-september-meeting-tickets-676066472017)
 
-The meeting is free to attend and lunch is included!
+The meeting is free to attend!
+We are now at capacity in person, however you can still register to join the morning session online.
 
 ### Useful links
 
