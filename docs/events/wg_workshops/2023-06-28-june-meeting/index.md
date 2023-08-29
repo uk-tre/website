@@ -17,16 +17,6 @@ breakout-federation-standards
 
 **Date**: June 28th June 2023 13:30 - 17:00
 
-## Useful links
-
-- **JISC Mailing list**: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
-- **Slack channel**: https://ukrse.slack.com/archives/C045ETUPPD0
-- **Report from last meeting**: https://uktre.readthedocs.io/en/latest/events/wg_workshops/2023-03-29-march-meeting/index.html
-- **Newcastle Commitment**: https://uktre.readthedocs.io/en/latest/newcastle-commitment/index.html
-- **Community GitHub**: https://github.com/uk-tre/website
-- **Mentimeter**: https://www.menti.com/algf3akq4q6g
-- **Read the docs**: https://uktre.readthedocs.io/en/latest/structure/index.html
-
 ## Schedule
 
 | Time          | Agenda item                          | Presenters                                                                                     | Notes                                                                                                                  |
@@ -59,10 +49,10 @@ The morning will be hybrid, but the afternoon breakouts are in-person only.
 
 ## Working group updates and community announcements
 
-The [Funding and Sustainability WG](https://uktre.readthedocs.io/en/latest/structure/funding-sustainability.html) announced that it is working on a position statement for more sustainable and long-term funding of digital research data infrastructure, and is also working on collecting use-cases for TREs.
+The [Funding and Sustainability WG](../../../structure/funding-sustainability.md) announced that it is working on a position statement for more sustainable and long-term funding of digital research data infrastructure, and is also working on collecting use-cases for TREs.
 There was a call to the community for anyone with knowledge of different cost-recovery models to get in touch with Fergus McDonald (fergus.mcdonald@dareuk.org.uk).
 
-The [Information Governance WG](https://uktre.readthedocs.io/en/latest/structure/information-governance.html) met earlier in the month to discuss IG standards around risk tiering and data ingress and egress.
+The [Information Governance WG](../../../structure/information-governance.md) met earlier in the month to discuss IG standards around risk tiering and data ingress and egress.
 
 The DARE UK-funded SATRE project, which is looking to bring together a community-led standard for TRE architecture, also put out a call for members of the community to take part in their [collaboration cafes](https://hackmd.io/GI5EZQouTYuGhkYBSBYHmQ).
 
@@ -80,7 +70,7 @@ All operations performed are open by design, however, with job request logs open
 
 The privacy-protecting safeguards of only providing arms-length access to the data to researchers, as well as the open and transparent principles built in by design, was emphasised as key to gaining the trust of the data providers.
 
-A rich discussion followed the talk with lots of questions: please see the [notes](https://uktre.readthedocs.io/en/latest/events/wg_workshops/2023-06-28-june-meeting/opensafely.html)!
+A rich discussion followed the talk with lots of questions: please see the [notes](opensafely.md)!
 
 ## Breakout discussions
 
@@ -117,7 +107,7 @@ One approach that was discussed was to delegate ownership of subsections of the 
 
 #### Next steps
 
-The [Funding and Sustainability WG](https://uktre.readthedocs.io/en/latest/structure/funding-sustainability.html) is planning to write a position paper on the 'short-term funding for long-term operation' headache. Do get involved!
+The [Funding and Sustainability WG](../../../structure/funding-sustainability.md) is planning to write a position paper on the 'short-term funding for long-term operation' headache. Do get involved!
 
 ### A rigorous and fair cost recovery process
 
@@ -135,7 +125,7 @@ There was some support for the notion that TREs should be centrally subsidised a
 
 #### Next steps
 
-Nothing immediate was identified, but noting the [Funding and Sustainability WG](https://uktre.readthedocs.io/en/latest/structure/funding-sustainability.html) plans for a position paper on sustainable funding for TREs as above.
+Nothing immediate was identified, but noting the [Funding and Sustainability WG](../../../structure/funding-sustainability.md) plans for a position paper on sustainable funding for TREs as above.
 
 ### Problems with multiple technology solutions for federated analytics
 
