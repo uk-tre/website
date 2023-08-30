@@ -51,7 +51,7 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
 - - 10:15 - 10:30
   - Welcome and introductions
 - - 10:30 - 11:15
-  - Keynote from Emily Jefferson (CTO, HDR UK) including discussion
+  - Keynote from Emily Jefferson (CTO, HDR UK), "Can convening a technology ecosystem help TREs to work together?", including discussion
 - - **11:15 - 11:30**
   - **Break**
 - - 11:30 - 13:00

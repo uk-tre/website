@@ -10,7 +10,6 @@ _Chair: Simon Li_
 - Limited proxy
 - Full session recording for audit purposes? Tried it for central government projects, defence-in-depth. Discussions about security dominate
   - "Privileged access management" system: Brokers access to different endpoints for admins, so they can manage environment but everything is monitored so can be "replayed" at any point in future
-  - https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA8-1466ENW
   - Machine learning security controls for anomaly detection. Begins by learning pattern of normal behaviour.
   - False positives? How much work to investigate reports? How disruptive for users?
     - Start in learning mode for several months or longer. Can manually override rules if necessary. Only set to automatically block network connections after you're confident. Then need 24/7 team on hand to quickly investigate and remedy alerts depending on risk profile
