@@ -224,3 +224,5 @@ _Chair: Rob Baxter, DARE UK_
 #### Discussion
 
 Discussion focused on the importance of standardisation across TREs to enable interconnectivity, noting the proliferation of different federated standards and emphasising the need to simplify the landscape: how do we enforce adoption of a single standard and which one stands the best chance of widespread adoption?
+
+\*This write-up was authored by the fantastic Balint Stewart from DARE UK. For any questions about the above, please get in touch with Hari Sood hsood@turing.ac.uk
