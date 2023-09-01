@@ -40,7 +40,7 @@ A key part of the day will be breakout sessions and discussions where we will ta
 
 This meeting is open to everyone and free to attend, thanks to the sponsorship by The Alan Turing Institute, HDR UK and DARE UK. The morning talks will also be broadcast online for those that cannot attend in person, but all afternoon sessions including breakout discussions will be in-person only.
 
-#### Provisional schedule
+#### Schedule
 
 ```{list-table}
 :widths: 100 300
