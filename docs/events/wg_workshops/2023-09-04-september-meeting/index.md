@@ -65,20 +65,68 @@ This meeting is open to everyone and free to attend, thanks to the sponsorship b
 
 ```
 
-### Online lunch
+## Notes from the day
 
-During lunch, UK TRE Community team members will be available online to provide a space for those joining online to ask questions and network.
+- Key questions
+  - What's stopping TREs from working together?
+  - What's actuallu happenign in the TRE space?
+  - What can TRE teams do together?
+  - What support can the UK TRE Community provide to help TREs work together?
+  - (What's missing?)
 
-### Registration
+### Keynote
 
-Please register on [EventBrite](https://www.eventbrite.com/e/uk-tre-community-september-meeting-tickets-676066472017)
+Can convening a technology ecosystem help TREs to work together? by Emily Jefferson (CTO, HDR UK)
 
-The meeting is free to attend!
-We are now at capacity in person, however you can still register to join the morning session online.
+- Goal to make it easier for accredited researchers to access data across TREs.
+- Four pillars:
+  - Technology services ecosystem
+  - Trust and transparency
+  - Usable data
+  - Capacity building (RSEs a key aspect of this)
+- Driver programmes focussed on answering research questions but with a brief to do so in a way that contributes to the collective pool of technology and approaches
+- Common challenges / pipeline elements across TREs / projects, but little re-use / shared use.
 
-### Useful links
+- Convening a technology ecosystem
+  - Community, People, Beyond Health, Standards for Interoperability, Science of Infrastructure
+    - How can HDR UK support this?
+    - HDR's Technician Commitment - what's a better name?
+    - Recognising non-traditional careers including RSEs
+    - Supporting a wide range of impact - not just academic publications
+    - Technical solutions but for health need to work for non-health, too. People who work with sensitive data - health or not -> DARE UK
+    - Help us develop standards - OMOP, but what else?
+    - Innovative infrastructure which is making an important contribution - recognising impact.
+  - Technological Solutions
+    - Solutions from across the community
+    - HDR UK will also contribute some technological solutions supporting the ecosystem - all being open sourced. Not about mandating, but about having something available for all to use / build on.
+  - "The Gateway" to signpost and connect things across the community and include some common core elements.
+    - e.g. Metadata dictionary, Cohort discovery, Data discovery, Data use register, Data use requests
+    - Mk2 Gateway: Brandable by others, interoperable, modular, community developed, re-use existing solutions / components, driven by use case exemplars, open APIs, automated, scalable
 
-:JISC Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
-:Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
-:Report from last meeting: https://uktre.readthedocs.io/en/latest/events/wg_workshops/2023-03-29-march-meeting/index.html
-:Community website: https://uktre.readthedocs.io/
+## Breakout Rooms Session 1
+
+:1: Multi-TRE analysis: challenges, governance requirements, federation
+:2+3: Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
+:4: TRE sustainability and operations
+:5: Safety and security of Python and R package import into TREs
+:6+7: Community-based efforts and collaborations in public involvement and engagement
+:8: Cloud vs on-prem TREs: costs, constraints, pros & cons
+:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
+:10: Future governance of the SATRE Specification
+:11: What are the detractors to standardisation and Supporting evolution of platforms / services
+:12: General discussion
+
+## Breakout Rooms Session 2
+
+:1: Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
+:2: Addressing data harmonisation between different datasets: do TREs have a role?
+:3: Sight unseen: how far can we go with keeping data hidden from users
+:4: TRE sustainability and operations
+:5: Safety and security of Python and R package import into TREs
+:6: Cloud vs on-prem TREs: costs, constraints, pros & cons
+:7: Governance of the UK TRE Community
+:8: Accrediting people as well as environments… will developing "trusted researchers" allow us to do better/more/quicker data science?
+:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
+:10: General discussion
+:11: What are the detractors to standardisation and working together? How can the reasons for the tension work alongside standardisation?
+:12: General discussion
