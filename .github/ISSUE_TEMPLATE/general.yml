@@ -19,6 +19,13 @@ body:
       description: Please explain your issue in detail
     validations:
       required: true
+ - type: textarea
+    id: actions
+    attributes:
+      label: Actions
+      description: Please add any actions to be undertaken below. You can create a checklist by typing `- [ ] x` for each action point
+    validations:
+      required: true
   - type: textarea
     id: tags
     attributes:
