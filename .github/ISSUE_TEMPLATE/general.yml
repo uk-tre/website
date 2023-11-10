@@ -11,7 +11,6 @@ body:
         This issue will be added to the backlog of our project board. If you would like to take it on, please assign it to yourself!
 
         All issues need to have someone assigned to/owning them in order to progress. Whilst this is not the case we'll keep the issue safe in the backlog!
-
   - type: textarea
     id: detail
     attributes:
@@ -19,7 +18,7 @@ body:
       description: Please explain your issue in detail
     validations:
       required: true
- - type: textarea
+  - type: textarea
     id: actions
     attributes:
       label: Actions
