@@ -33,13 +33,11 @@ This includes current work, teams, organisations, funding opportunities, TRE def
 #### 2.2 Public engagement
 
 We're developing a public engagement activity pipeline.
-
 This will build on work already being done in key public engagment groups like [use MY data](https://www.usemydata.org/) and [PEDRI](https://www.pedri.org.uk/).
 
 #### 2.3 Event and collaboration spaces
 
 We're enhancing our event provision and community workspaces.
-
 This will build off our [quarterly community events](../events/index.md), and may include regluar town halls, governance meetings and additional required communication channels.
 
 ### 3 Resource hub
@@ -47,19 +45,16 @@ This will build off our [quarterly community events](../events/index.md), and ma
 #### 3.1 UK TRE website
 
 We're developing the website to be easier to use, and contain key resources and events relevant to the UK TRE Community.
-
 This will become the central place to find out everything happened, and created and shared, across the community!
 
 #### 3.2 Content generation
 
 We're building an open bank of resources and outputs created by the community.
-
 These resources can be picked up and re-used across organisations, and represent the latest thinking and developments across the UK in the TRE space.
 
 #### 3.3 Contribution pathways
 
 We're developing effective contribution and engagement methods for the whole community.
-
 This includes both technical and non technical methods of contributing and getting involved!
 
 ## Get involved
