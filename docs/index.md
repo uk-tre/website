@@ -7,7 +7,7 @@
 Newcastle Commitment <newcastle-commitment/index>
 events/index
 background/index
-structure/index
+about/index
 ```
 
 ```{admonition} UK-TRE September meeting
@@ -40,6 +40,6 @@ Find out more about the UK-TRE community, and how to join us
 :Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
 :Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
 
-## [](structure/index)
+## [](about/index)
 
 - More detail on how the community is structured and governed
