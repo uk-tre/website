@@ -2,7 +2,6 @@
 **Lead:** Jim Madge (Alan Turing Institute)
 
 ## Summary
-
 The [packages repository](https://github.com/uk-tre/packages) was created recently as a place for TRE operators to share their decisions on packages allowed in their TREs.
 
 The lists are structured as JSON documents conforming to a schema, which sets out what information is required. 
