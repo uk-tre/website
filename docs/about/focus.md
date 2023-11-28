@@ -45,7 +45,7 @@ This will build off our [quarterly community events](../events/index.md), and ma
 #### 3.1 UK TRE website
 
 We're developing the website to be easier to use, and contain key resources and events relevant to the UK TRE Community.
-This will become the central place to find out everything happened, and created and shared, across the community!
+This will become the central place to find out everything happening, and created and shared, across the community!
 
 #### 3.2 Content generation
 
