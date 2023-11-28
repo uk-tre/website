@@ -38,7 +38,7 @@ This will build on work already being done in key public engagment groups like [
 #### 2.3 Event and collaboration spaces
 
 We're enhancing our event provision and community workspaces.
-This will build off our [quarterly community events](../events/index.md), and may include regluar town halls, governance meetings and additional required communication channels.
+This will build off our [quarterly community events](../events/index.md), and may include regular town halls, governance meetings and additional communication channels.
 
 ### 3 Resource hub
 
