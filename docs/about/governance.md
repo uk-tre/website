@@ -1,3 +1,3 @@
-# Our governacne processes
+# Our governance processes
 
 To be added
