@@ -51,6 +51,9 @@ For now, please find more detail about each below!
 
 #### Discussions
 
+- [](./discussion-local-cloud-hosting.md)
+- [](discussion-tre-federation.md)
+
 
 
 
