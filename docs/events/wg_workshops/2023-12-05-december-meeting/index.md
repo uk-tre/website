@@ -48,6 +48,8 @@ For now, please find more detail about each below!
 
 - [](./workshop-package-allow-lists.md)
 - [](./workshop-manual-output-checking.md)
+- [](./workshop-researcher-passports.md)
+
 
 
 #### Discussions
