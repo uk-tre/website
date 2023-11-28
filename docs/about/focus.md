@@ -1,6 +1,6 @@
 # Our current focus
 
-The community has recently received funding as part of the DARE UK Community Groups funding cycle, running until March 2024.
+The community has recently received funding as part of the [DARE UK Community Groups funding cycle](https://dareuk.org.uk/dare-uk-announces-funding-and-launch-of-four-community-groups/), running until March 2024.
 
 Our funding proposal was written collaboratively by over 15 members of the community. Thank you to all those who were involved!
 
