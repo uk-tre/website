@@ -57,3 +57,4 @@ For now, please find more detail about each below!
 - [](./discussion-local-cloud-hosting.md)
 - [](./discussion-tre-federation.md)
 - [](./discussion-nhs-sde.md)
+- [](./discussion-provenance-metadata-standards.md)
