@@ -46,7 +46,11 @@ For now, please find more detail about each below!
 
 #### Workshops
 
-* [](./workshop-package-allow-lists.md)
+- [](./workshop-package-allow-lists.md)
+- [](./workshop-manual-output-checking.md)
+
+#### Discussions
+
 
 
 
