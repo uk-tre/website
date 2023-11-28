@@ -20,6 +20,6 @@ For example, you might want to add your own organisation, you might want to prop
 A good output would be to open a pull request or issue suggesting improvements.
 
 ## Target audience
-"TRE builders and operators with an interest in managing packages in TREs.
+TRE builders and operators with an interest in managing packages in TREs.
 
-The session will be quite technical - the repository currently uses JSONSchema and Python."
+The session will be quite technical - the repository currently uses JSONSchema and Python.
