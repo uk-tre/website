@@ -1,6 +1,6 @@
 # Package allow lists
 
-**Lead:** Jim Madge (Alan Turing Institute)
+**Lead:** Jim Madge (The Alan Turing Institute)
 
 ## Summary
 
