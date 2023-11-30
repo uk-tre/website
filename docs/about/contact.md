@@ -1,6 +1,6 @@
 # Our contact information
 
-**Email**: 
+**Email**:
 
 [uktrecommunity@gmail.com](mailto:uktrecommunity@gmail.com)
 
