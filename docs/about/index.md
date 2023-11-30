@@ -28,4 +28,4 @@ Including the wide range of our membership, and who currently holds leadership p
 
 ## [](contact.md)
 
-The different ways you can get involved with the community!
+The different ways you can get in touch with the community
