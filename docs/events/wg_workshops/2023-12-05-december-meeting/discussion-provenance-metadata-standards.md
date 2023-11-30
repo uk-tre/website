@@ -10,3 +10,4 @@
 - Do you share/publish code with researchers? Why or why not?
 - What are barriers to tracking and sharing provenance and metadata between organisations? What are ways to improve this?
 - Outputs produced by technical solutions for provenance tracking might be inaccessible to non-technical decision makers. What can we do to address this?
+- To what extent are rights/licence/access-conditions currently described _formally_ in metadata?
