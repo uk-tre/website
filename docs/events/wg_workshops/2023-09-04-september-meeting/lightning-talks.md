@@ -1,11 +1,5 @@
 # Lightning talks
 
-26 people have submitted a lightning talk!
-Unfortunately there isn't time for everyone to present in a single session, so to ensure everyone gets chance to present we will randomly split the talks and the audience into two rooms to ensure as much mixing of ideas as possible.
-All talks will be recorded and made available online after the event, along with contact details for the speakers.
-
-All talks will be a maximum of **5 minutes long**, with a focus on sharing knowledge and discovering opportunities for collaboration
-
 ## List of talks (ordered alphabetically by presenter name)
 
 | Presenter                        | Institution                                     | Topic                                                                                                                                                                                                       |

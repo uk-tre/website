@@ -33,13 +33,13 @@ The day featured lightning talks from cross-sector research industry teams who a
 
 A key part of the day was breakout sessions and discussions, which took advantage of the mix of sectors and stakeholders to learn from each other, evaluate the work already done, and define goals for the community and the future provision of TREs in the UK and beyond over the next few years.
 
-This meeting was free to attend, thanks to the sponsorship by [The Alan Turing Institute](https://www.turing.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/) and [DARE UK](https://dareuk.org.uk/). 
+This meeting was free to attend, thanks to the sponsorship by [The Alan Turing Institute](https://www.turing.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/) and [DARE UK](https://dareuk.org.uk/).
 The morning talks were broadcast online for those that could not in person, but all afternoon sessions including breakout discussions were in-person only.
 
 This report summarises the sessions of the day, as laid out in the schedule below.
 
-Recordings of the morning session, including the Welcome, Keynote, and Lightning Talks, are [available on YouTube]()
-
+Recordings of the morning session, including the Welcome, Keynote, and Lightning Talks, are [available on YouTube]().
+More detail of the breakout sessions can be found in their respective notes from the day, which are linked in each summary below.
 
 #### Schedule
 
@@ -66,18 +66,29 @@ Recordings of the morning session, including the Welcome, Keynote, and Lightning
 
 ```
 
-## Notes from the day
+### Welcome and Introduction
 
-- Key questions
-  - What's stopping TREs from working together?
-  - What's actuallu happenign in the TRE space?
-  - What can TRE teams do together?
-  - What support can the UK TRE Community provide to help TREs work together?
-  - (What's missing?)
+TBA
 
 ### Keynote
 
-Can convening a technology ecosystem help TREs to work together? by Emily Jefferson (CTO, HDR UK)
+:Title: Can convening a technology ecosystem help TREs to work together?
+:Speaker: [Emily Jefferson (CTO, HDR UK)](https://www.hdruk.ac.uk/people/emily-jefferson/)
+
+TBA
+
+### Lightining Talks
+
+There were 26 lightning talks given on the day from across the community.
+
+To ensure everyone had a chance to present we randomly split the talks and the audience into two rooms to ensure as much mixing of ideas as possible.
+All talks were recorded and are available on the [UK TRE Community YouTube channel]().
+
+All talks were a maximum of **5 minutes long**, with a focus on sharing knowledge and discovering opportunities for collaboration.
+
+For detail and text summaries of the lightning talks, please visit the [lightning talks page](./lightning-talks.md).
+
+### Breakout sessions
 
 - Goal to make it easier for accredited researchers to access data across TREs.
 - Four pillars:
