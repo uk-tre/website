@@ -1,7 +1,5 @@
 # UK TRE Community September 2023 Meeting
 
-## Theme: What is stopping TREs from working together?
-
 ```{toctree}
 :maxdepth: 0
 :hidden: true
@@ -15,19 +13,20 @@ _The biggest meetup of the UK TRE community to date with presentations, breakout
 :Date: Monday 4th September 2023 10:00 - 17:30
 :Location: [Swansea University Bay Campus](https://www.swansea.ac.uk/the-university/location/#bay-campus=is-expanded), Fabian Way, Skewen, SA1 8EN.
 :Cost: Free to attend
+:Theme: What is stopping TREs from working together?
 
-### Background
+## Background
 
 The UK TRE Community is a community that has grown organically since September 2022 for anyone interested in TREs, including researchers, operators, information governors and managers and more, from all sectors and disciplines.
 The core aims of fostering collaboration and sharing of innovative ideas to support the delivery of groundbreaking research with sensitive data have resonated across the UK and beyond.
 
-### Meeting information
+## Meeting information
 
 The theme of the meeting was how TREs can work together through the development of open standards, codebases and federation to enable sharing of technology and workflows, and encompassed a range of topics including the development of technical and governance standards for TREs, the major challenges of operating TREs today, and how the community can work together to address these and other common challenges.
 
 The meeting was open to everyone, and was attended by a range of stakeholders including those involved in the day-to-day development and operations of TREs, those responsible for commissioning and funding TREs, and users of TREs from the health, administrative and industry sectors.
 
-### Agenda
+## Agenda
 
 The day featured lightning talks from cross-sector research industry teams who are at the forefront of testing innovative ideas for TREs, and a keynote presentation on HDR UK’s plans for the tech eco-system.
 
@@ -66,6 +65,8 @@ More detail of the breakout sessions can be found in their respective notes from
 
 ```
 
+## Notes
+
 ### Welcome and Introduction
 
 TBA
@@ -76,19 +77,6 @@ TBA
 :Speaker: [Emily Jefferson (CTO, HDR UK)](https://www.hdruk.ac.uk/people/emily-jefferson/)
 
 TBA
-
-### Lightining Talks
-
-There were 26 lightning talks given on the day from across the community.
-
-To ensure everyone had a chance to present we randomly split the talks and the audience into two rooms to ensure as much mixing of ideas as possible.
-All talks were recorded and are available on the [UK TRE Community YouTube channel]().
-
-All talks were a maximum of **5 minutes long**, with a focus on sharing knowledge and discovering opportunities for collaboration.
-
-For detail and text summaries of the lightning talks, please visit the [lightning talks page](./lightning-talks.md).
-
-### Breakout sessions
 
 - Goal to make it easier for accredited researchers to access data across TREs.
 - Four pillars:
@@ -115,30 +103,25 @@ For detail and text summaries of the lightning talks, please visit the [lightnin
     - e.g. Metadata dictionary, Cohort discovery, Data discovery, Data use register, Data use requests
     - Mk2 Gateway: Brandable by others, interoperable, modular, community developed, re-use existing solutions / components, driven by use case exemplars, open APIs, automated, scalable
 
-## Breakout Rooms Session 1
+### Lightining Talks
 
-:1: Multi-TRE analysis: challenges, governance requirements, federation
-:2+3: Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
-:4: TRE sustainability and operations
-:5: Safety and security of Python and R package import into TREs
-:6+7: Community-based efforts and collaborations in public involvement and engagement
-:8: Cloud vs on-prem TREs: costs, constraints, pros & cons
-:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
-:10: Future governance of the SATRE Specification
-:11: What are the detractors to standardisation and Supporting evolution of platforms / services
-:12: General discussion
+There were 26 lightning talks given on the day from across the community.
 
-## Breakout Rooms Session 2
+To ensure everyone had a chance to present we randomly split the talks and the audience into two rooms to ensure as much mixing of ideas as possible.
+All talks were recorded and are available on the [UK TRE Community YouTube channel]().
 
-:1: Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
-:2: Addressing data harmonisation between different datasets: do TREs have a role?
-:3: Sight unseen: how far can we go with keeping data hidden from users
-:4: TRE sustainability and operations
-:5: Safety and security of Python and R package import into TREs
-:6: Cloud vs on-prem TREs: costs, constraints, pros & cons
-:7: Governance of the UK TRE Community
-:8: Accrediting people as well as environments… will developing "trusted researchers" allow us to do better/more/quicker data science?
-:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
-:10: General discussion
-:11: What are the detractors to standardisation and working together? How can the reasons for the tension work alongside standardisation?
-:12: General discussion
+All talks were a maximum of **5 minutes long**, with a focus on sharing knowledge and discovering opportunities for collaboration.
+
+For detail and text summaries of the lightning talks, please visit the [lightning talks page](./lightning-talks.md).
+
+### Breakout sessions
+
+Breakout sessions were held on topics suggested by attendees, with specific topics to discuss chosen by attendees on the day via poll.
+
+Attendees could choose which breakout session to go to.
+Popular topics were covered in both sessions, giving participants the option of going much more in-depth.
+
+The aim of these breakouts was to discuss the topic area, and explore how the community could take work forwards from the discussion.
+At the end of this session each group summarised what next steps would look like: what they wanted to achieve, what resources would be needed, and how they could go about it.
+
+For detail and text summaries of the breakout sessions, please visit the [breakout sessions page](./breakout-sessions.md).

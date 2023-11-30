@@ -1,28 +1,7 @@
 # Breakout sessions
 
-We are planning several breakout sessions on topics suggested by attendees, with topics chosen by attendees on the day via poll.
-
-## Suggested topics
-
-Some topic suggestions have already been submitted:
-
-- Multi-TRE analysis: challenges, governance requirements, federation.
-- Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
-- TRE sustainability and operations
-- Safety and security of Python and R package import into TREs
-- Community-based efforts and collaborations in public involvement and engagement
-- Cloud vs on-prem TREs: costs, constraints, pros & cons
-- The role of independent TRE providers in relation to the NHS national and regional SDEs
-- The role of TRE standards for the TRE community
-- Sight unseen: how far can we go with keeping data hidden from users?
-- Addressing data harmonisation between different datasets: do TREs have a role?
-- Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
-
-Additional topics can be suggested via [this form](https://docs.google.com/forms/d/e/1FAIpQLSes2N38KjElxgfXXDUEVBeQ5g8qvneQS9Gr4alZki5s_4RRew/viewform?usp=sf_link), or during the day itself.
 
 ## Breakout session format
-
-Each breakout session will be one hour long, with multiple parallel topics decided by a vote prior to the session:
 
 ```{list-table}
 :widths: 100 300
@@ -42,8 +21,31 @@ Each breakout session will be one hour long, with multiple parallel topics decid
   - Wrap up: Breakout groups present their next steps
 ```
 
-We will attempt to cover as many topics as possible, and attendees can choose which breakout session to go to.
-Popular topics will be covered in both sessions, giving participants the options of going much more in-depth.
+## Breakout Rooms Session 1
 
-The aim of these breakouts is to discuss the topic area, and explore how the community could take work forwards from the discussion.
-At the end of this session we would like each group to summarise what next steps would look like: what they want to achieve, what resources would be needed, and how they could go about it.
+:1: Multi-TRE analysis: challenges, governance requirements, federation
+:2+3: Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
+:4: TRE sustainability and operations
+:5: Safety and security of Python and R package import into TREs
+:6+7: Community-based efforts and collaborations in public involvement and engagement
+:8: Cloud vs on-prem TREs: costs, constraints, pros & cons
+:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
+:10: Future governance of the SATRE Specification
+:11: What are the detractors to standardisation and Supporting evolution of platforms / services
+:12: General discussion
+
+## Breakout Rooms Session 2
+
+:1: Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
+:2: Addressing data harmonisation between different datasets: do TREs have a role?
+:3: Sight unseen: how far can we go with keeping data hidden from users
+:4: TRE sustainability and operations
+:5: Safety and security of Python and R package import into TREs
+:6: Cloud vs on-prem TREs: costs, constraints, pros & cons
+:7: Governance of the UK TRE Community
+:8: Accrediting people as well as environments… will developing "trusted researchers" allow us to do better/more/quicker data science?
+:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
+:10: General discussion
+:11: What are the detractors to standardisation and working together? How can the reasons for the tension work alongside standardisation?
+:12: General discussion
+
