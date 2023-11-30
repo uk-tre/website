@@ -1,6 +1,6 @@
 # Evaluation of Automated Output Checking and AI Model Risk Assessment Community of Interest
 
-**Leads**: Jim Smith (), Jackie Caldwell ()
+**Leads**: Jim Smith (University of the West of England), Jackie Caldwell (PHS)
 
 ## Summary
 
