@@ -35,7 +35,7 @@ In the notes below you will find a link to both a summary of the session and the
 :8: [](./breakout-cloud-onprem.md)
 :9: [](./breakout-nhs-sdes.md)
 :10: [](./breakout-satre.md)
-:11: What are the detractors to standardisation and Supporting evolution of platforms / services
+:11: [](./breakout-standardisation-tensions.md)
 :12: General discussion
 
 ## Breakout Rooms Session 2
