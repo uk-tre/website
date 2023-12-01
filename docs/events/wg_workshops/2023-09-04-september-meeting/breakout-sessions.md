@@ -31,7 +31,7 @@ In the notes below you will find a link to both a summary of the session and the
 :2+3: [](./breakout-ai-ml-llm.md)
 :4: [](./breakout-tre-sustainability-and-operations.md)
 :5: [](./breakout-python-r-package-import.md)
-:6+7: Community-based efforts and collaborations in public involvement and engagement
+:6+7: [](./breakout-ppie.md)
 :8: Cloud vs on-prem TREs: costs, constraints, pros & cons
 :9: The role of independent TRE providers in relation to the NHS national and regional SDEs
 :10: Future governance of the SATRE Specification
