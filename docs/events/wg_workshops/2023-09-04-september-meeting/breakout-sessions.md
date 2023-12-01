@@ -28,8 +28,8 @@ In the notes below you will find a link to both a summary of the session and the
 **Important note**: The summaries and raw notes are simply what was discussed on the day, and in no way represent any explicit views of priorities of the UK TRE Community.
 
 :1: [](breakout-multi-tre-analysis.md)
-:2+3: Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
-:4: TRE sustainability and operations
+:2+3: [](./breakout-ai-ml-llm.md)
+:4: [](./breakout-tre-sustainability-and-operations.md)
 :5: Safety and security of Python and R package import into TREs
 :6+7: Community-based efforts and collaborations in public involvement and engagement
 :8: Cloud vs on-prem TREs: costs, constraints, pros & cons
