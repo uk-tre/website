@@ -69,39 +69,90 @@ More detail of the breakout sessions can be found in their respective notes from
 
 ### Welcome and Introduction
 
-TBA
+Hari Sood (The Alan Turing Institute) introduced the day.
+
+The intro focused on the four broad focus areas of the day of the day:
+
+- What's stopping TREs from working together?
+- What's actually happening in the TRE space?
+- What can TRE teams do together?
+- What support can the UK TRE Community provide to help TREs work together?
+
+It was highlighted that two great community outputs from the day would be:
+
+1. A **landscape** of the current organisations, communities and teams in the TRE space in the UK.
+2. A **roadmap** of projects, work and tasks community members could undertake in the TRE space, including timeframes, required resources and workstream plans.
+
+Balint Stewart (DARE UK) also introduced the concept of [DARE UK Community Groups](https://dareuk.org.uk/our-work/dare-uk-community-groups/), and relevant funding opportunities.
+
+The recording of the Welcome and Introduction can be found at the beginning of the [Keynote presentation recording]().
 
 ### Keynote
 
 :Title: Can convening a technology ecosystem help TREs to work together?
 :Speaker: [Emily Jefferson (CTO, HDR UK)](https://www.hdruk.ac.uk/people/emily-jefferson/)
+:Recording: **TBA**
 
-TBA
+#### Introduction
 
-- Goal to make it easier for accredited researchers to access data across TREs.
-- Four pillars:
-  - Technology services ecosystem
-  - Trust and transparency
-  - Usable data
-  - Capacity building (RSEs a key aspect of this)
-- Driver programmes focussed on answering research questions but with a brief to do so in a way that contributes to the collective pool of technology and approaches
-- Common challenges / pipeline elements across TREs / projects, but little re-use / shared use.
+Emily's talk started by introducing HDR UK, and their primary goal of accelerating the researcher journey (finding data, accessing data, linking data, curating data, analysing data, creating insights and improving health) towards trustworthy use of data for public benefit.
 
-- Convening a technology ecosystem
-  - Community, People, Beyond Health, Standards for Interoperability, Science of Infrastructure
-    - How can HDR UK support this?
-    - HDR's Technician Commitment - what's a better name?
-    - Recognising non-traditional careers including RSEs
-    - Supporting a wide range of impact - not just academic publications
-    - Technical solutions but for health need to work for non-health, too. People who work with sensitive data - health or not -> DARE UK
-    - Help us develop standards - OMOP, but what else?
-    - Innovative infrastructure which is making an important contribution - recognising impact.
-  - Technological Solutions
-    - Solutions from across the community
-    - HDR UK will also contribute some technological solutions supporting the ecosystem - all being open sourced. Not about mandating, but about having something available for all to use / build on.
-  - "The Gateway" to signpost and connect things across the community and include some common core elements.
-    - e.g. Metadata dictionary, Cohort discovery, Data discovery, Data use register, Data use requests
-    - Mk2 Gateway: Brandable by others, interoperable, modular, community developed, re-use existing solutions / components, driven by use case exemplars, open APIs, automated, scalable
+This is driven by the problem of trying to scale research projects to make it easy for accredited researchers to access and work with data from a range of sources, to enable studies with millions of people.
+
+Their approach has 3 main strands:
+
+1. Accelerating trustworthy data use
+2. Empowering researchers
+3. Promoting partnerships
+
+#### Technology
+
+The stages of a researcher journey were explored in more detail, focusing on:
+
+- Data Discovery
+- Data Access
+- Data Environment
+- Data Analysis
+
+And how many different people have built many solutions across this journey. In a lot of instances these solutions are quite different, meaning researchers have to use new processes, tools and methods when they go to different TREs.
+
+HDR is aiming to convene the technology ecosystem that we have in the UK. This focused on the aspects of:
+
+- Community
+- People
+- Solutions beyond health
+- Standards for interoperability
+- Science of infrastructure
+- Technological solutions (driven by HDR UK and co-created with the community)
+
+HDR UK has 5 year window to focus on many technological components, with a team of over 60 distributed across HDR UK and partner academic institutions.
+
+Emily then focused on the HDR Gateway - a way to point out to different technical components across the TRE landscape.
+Gateway (Mk1) has:
+
+- A Cohort Discovery Tool
+- A Metadata Data Discovery Tool
+- Data Accress Request Form
+- Data Use Register
+
+and more.
+
+Gateway (Mk2) will be much more modular, so the community can build it as an open-source solution.
+
+Emily highlighted some of the work already happening in the HDR UK landscape, including:
+
+- Federated analytics
+- Phenotype library
+- Prognostic Atlas
+- BHF Data Science Centre
+- Driver projects
+- Hubs creating specialist resources
+
+The talk finished with a call to action to:
+
+- Talk to HDR UK about what they should include in this landscape, and work together with them on co-creating solutions.
+
+The session ended with a short Q&A, which can be found on the [recording of the session]().
 
 ### Lightining Talks
 
@@ -112,7 +163,7 @@ All talks were recorded and are available on the [UK TRE Community YouTube chann
 
 All talks were a maximum of **5 minutes long**, with a focus on sharing knowledge and discovering opportunities for collaboration.
 
-For detail and text summaries of the lightning talks, please visit the [lightning talks page](./lightning-talks.md).
+For detail on the lightning talks, please visit the [lightning talks page](./lightning-talks.md).
 
 ### Breakout sessions
 

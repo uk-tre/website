@@ -1,6 +1,5 @@
 # Breakout sessions
 
-
 ## Breakout session format
 
 ```{list-table}
@@ -48,4 +47,3 @@
 :10: General discussion
 :11: What are the detractors to standardisation and working together? How can the reasons for the tension work alongside standardisation?
 :12: General discussion
-
