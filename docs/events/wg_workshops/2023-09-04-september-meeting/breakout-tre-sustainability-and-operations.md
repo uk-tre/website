@@ -1,20 +1,19 @@
 # TRE sustainability and operations
 
-
 ## Attendees
+
 - **Chair**: James Grant, Amazon Web Services
 - Note-taker: James Grant
-Session 1:
+  Session 1:
 - Aaron - HIC, Dundee
 - Richard, PM Swansea, TRE host 3 deployments elsewhere
 - Steven Newhouse, Barts, Precision Medicine requires a TRE, needs to fund itself after initial funding
 - Ben Thomas, UCL Principal RIE, replatform for on-premise
 - Emma Squires, PM Dementia Platform UK
-Session 2:
+  Session 2:
 - Paul Colville-Nash, UKRI - MRC Data Science Program Manager
 - Susan - ONS - Access to data officer
 - Thomas Tamblyn - Statistical Support officer (ingress and egress)
-
 
 ## Overview
 
@@ -84,7 +83,7 @@ Bill after usage is best, but challenging for proposal/funding
 
 BT: Cliff edge, have funding but only sufficient for 1 year not 3 years of project.
 
-JG: Following Access to HPC model what would you put on a 
+JG: Following Access to HPC model what would you put on a
 
 SN: What can you take off the board if problem is solved strategically
 Good training for Data scientists: SC like training relevant to disciplines
@@ -111,9 +110,8 @@ ES: Constrained with the current model.
 
 SN: Guidance provided by RCs, institutional risk as the org have underwritten the project.
 
+---
 
-
-----
 Round 2
 
 TT:
@@ -179,7 +177,7 @@ More people - more monkeys on typewriters
 Over focus on the medical use case currently, needs to rebalance.
 
 PCN:
-Better understanding and economy of scale from small numbers. 
+Better understanding and economy of scale from small numbers.
 Focus critical mass on small number
 DARE UK would create a TRE to handle data as an offering
 
@@ -190,7 +188,9 @@ TT: At the point at which you have seamless transition between TREs?
 Trust that the analysis/code is running as intended?
 
 ## Roadmap plan
+
 ### Questions
+
 - What would a solution to this problem look like?
 - What resources would be needed (people, time, funds, infrastructure etc.)?
 - How can this community support you in getting them?
@@ -201,6 +201,7 @@ Roadmap:
 A roadmap should address
 
 - Technical knowledge, skills, TRE staff skillsets
+
   - Why do this has to be part of retaining people
   - Localising staff makes this easier, centrally models push more to thinking about pay
   - To address retention
@@ -208,11 +209,13 @@ A roadmap should address
   - Can TRE model work in R
 
 - Not just technical, IG, where can I get more information
+
   - Consultatancy
   - Embedded technical/operational/IG knowledge relevant to the problem.
   - Research - teaching balance.
 
 - Funding
+
   - Lots of politics, in HPC communities, good for those who get it. Not good for those who have to resort to begging
   - Not necessarily good for SDE
   - Analysis will follow data
@@ -226,11 +229,13 @@ A roadmap should address
 
 Infrastructure sustainability
 People:
+
 - Infrastructure/Developers
 - Operations
 - Data Scientists
 
 ### Notes
+
 - X
 - X
 - X

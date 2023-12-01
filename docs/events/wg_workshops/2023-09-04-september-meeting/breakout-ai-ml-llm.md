@@ -1,6 +1,7 @@
 # Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
 
 ## Attendees
+
 - **Chair**: Mark Mumme, University of Bristol
 - Note-taker: Imre Draskovits, Newcastle University
 - James Rafferty, Swansea University
@@ -20,17 +21,21 @@
 ### Data Linkage
 
 #### How do you go about the NHS Number?
+
 - Uses stanards NHS Standard NF5, after 3 they went to manual to track through the system.
 - Issues with health and non-health data
 
 #### Names such as Dave / David can cause problems.
+
 - Linksmart is a solution for this.
 - Collecting Crime Data
 
 #### Scotland's Approach
+
 - a national ID number
 
 ### Federation between datasets
+
 - Identifiying with confidence across TREs is important
 - Problem: Linking health with something else is problematic to match up and link it with addresses and names
 - Separation functions
@@ -46,7 +51,7 @@
 - Residential Data can be used as a key
 - 'E-child' trying to link the NHS with the Department of Education
 
-### AI & ML 
+### AI & ML
 
 - People misunderstand the terms AI & ML with 'Statistical Modeling'
 - Based on risk factors you can determine 70% precision pre-diabetic chance
@@ -58,15 +63,15 @@
 - different type of interperetation of ML, ML data on health 'takes your job', ML data on other scenarions might be socially acceptable
 - Pattern finding models are popular and precise, this is lacking in statistical modeling
 - At the end of the day, medical data ML is not understood why it gives that result
-- Checking models are problematic and difficult, unsure results and unsure contents of the model begs the question of the model's authenticity 
-
+- Checking models are problematic and difficult, unsure results and unsure contents of the model begs the question of the model's authenticity
 
 ### Governance
+
 - Process is repeated a lot, no committee talks to each other and are a separate entity
 - Cannot start work unless approved
 - Doing a project between TREs, each TRE will have an approval process, ideally a multi TRE Project requires a single approval process, this decision should be approved across the other one
 
-
 #### What would a solution to this problem look like?
+
 - Current state of the art is the overarching question -- needs a TRE panel to decide what is state of the art
 - Single 'panel' on a specialty (e.g. health, crime) who deal with specific projects, additionally members of the national TRE supervision
