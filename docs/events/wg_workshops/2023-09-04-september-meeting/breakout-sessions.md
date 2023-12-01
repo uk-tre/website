@@ -32,9 +32,9 @@ In the notes below you will find a link to both a summary of the session and the
 :4: [](./breakout-tre-sustainability-and-operations.md)
 :5: [](./breakout-python-r-package-import.md)
 :6+7: [](./breakout-ppie.md)
-:8: Cloud vs on-prem TREs: costs, constraints, pros & cons
-:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
-:10: Future governance of the SATRE Specification
+:8: [](./breakout-cloud-onprem.md)
+:9: [](./breakout-nhs-sdes.md)
+:10: [](./breakout-satre.md)
 :11: What are the detractors to standardisation and Supporting evolution of platforms / services
 :12: General discussion
 
