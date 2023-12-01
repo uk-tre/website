@@ -20,9 +20,14 @@
   - Wrap up: Breakout groups present their next steps
 ```
 
-## Breakout Rooms Session 1
+## Breakout room notes
 
-:1: Multi-TRE analysis: challenges, governance requirements, federation
+Each breakout session had 12 breakout discussions.
+In the notes below you will find a link to both a summary of the session and the main suggested next steps, and the raw notes taken on the day.
+
+**Important note**: The summaries and raw notes are simply what was discussed on the day, and in no way represent any explicit views of priorities of the UK TRE Community.
+
+:1: [](breakout-multi-tre-analysis.md)
 :2+3: Current state of the art re data linkage/federation/AI&ML&LLM across infrastructures: federation, governance, safe output methods
 :4: TRE sustainability and operations
 :5: Safety and security of Python and R package import into TREs
