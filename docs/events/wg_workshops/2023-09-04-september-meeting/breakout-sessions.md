@@ -40,14 +40,14 @@ In the notes below you will find a link to both a summary of the session and the
 
 ## Breakout Rooms Session 2
 
-:1: Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
+:1: General discussion - no notes
 :2: [](./breakout-data-harmonisation.md)
-:3: Sight unseen: how far can we go with keeping data hidden from users
+:3: [](./breakout-sight-unseen.md)
 :4: [](./breakout-tre-sustainability-and-operations.md)
 :5: [](./breakout-python-r-package-import.md)
 :6: [](./breakout-cloud-onprem.md)
-:7: Governance of the UK TRE Community
-:8: Accrediting people as well as environments… will developing "trusted researchers" allow us to do better/more/quicker data science?
+:7: [](./breakout-community-governance.md)
+:8: General discussion - no notes
 :9: [](./breakout-nhs-sdes.md)
 :10: General discussion - no notes
 :11: [](./breakout-standardisation-tensions.md)

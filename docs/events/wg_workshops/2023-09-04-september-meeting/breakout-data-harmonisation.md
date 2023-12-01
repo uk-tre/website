@@ -1,7 +1,7 @@
 # Addressing data harmonisation between different datasets: do TREs have a role?
 
-
 ## Attendees
+
 - Chair: X
 - Note-taker: X
 - Sam Cox
@@ -15,15 +15,20 @@
 - Sarah Stewart
 
 ## Overview
+
 ### Summary
+
 ### Next steps
 
 ## Raw notes
+
 ### Handwritten notes
+
 ![image](https://hackmd.io/_uploads/SyGfhoNra.png)
 Transcription of the above by David:
 
 Data+Analysis=Timely Processing
+
 - Harmonized/OMOPed
 - TRE governanced barriers
 - Reliability-validated?
@@ -31,7 +36,6 @@ Data+Analysis=Timely Processing
 - DMOPin data sources & adding TRE Specific terms into main repositories
 - Mapping tools
 - TREs can delegate (Coconnect
-    - Discovery
-    - Feasability)
+  - Discovery
+  - Feasability)
 - Clinical input
-
