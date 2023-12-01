@@ -36,19 +36,19 @@ In the notes below you will find a link to both a summary of the session and the
 :9: [](./breakout-nhs-sdes.md)
 :10: [](./breakout-satre.md)
 :11: [](./breakout-standardisation-tensions.md)
-:12: General discussion
+:12: General discussion - No notes
 
 ## Breakout Rooms Session 2
 
 :1: Access and rights metadata to support process choreography and interoperability (e.g. generic researcher applications and authorization)
-:2: Addressing data harmonisation between different datasets: do TREs have a role?
+:2: [](./breakout-data-harmonisation.md)
 :3: Sight unseen: how far can we go with keeping data hidden from users
-:4: TRE sustainability and operations
-:5: Safety and security of Python and R package import into TREs
-:6: Cloud vs on-prem TREs: costs, constraints, pros & cons
+:4: [](./breakout-tre-sustainability-and-operations.md)
+:5: [](./breakout-python-r-package-import.md)
+:6: [](./breakout-cloud-onprem.md)
 :7: Governance of the UK TRE Community
 :8: Accrediting people as well as environments… will developing "trusted researchers" allow us to do better/more/quicker data science?
-:9: The role of independent TRE providers in relation to the NHS national and regional SDEs
-:10: General discussion
-:11: What are the detractors to standardisation and working together? How can the reasons for the tension work alongside standardisation?
-:12: General discussion
+:9: [](./breakout-nhs-sdes.md)
+:10: General discussion - no notes
+:11: [](./breakout-standardisation-tensions.md)
+:12: General discussion - no notes
