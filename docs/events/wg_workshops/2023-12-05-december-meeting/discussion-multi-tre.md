@@ -1,8 +1,9 @@
 # Multi-TRE analysis : can a common governance model breaks data silos?
 
-** **Chair**: Fatemeh Torabi (Swansea University)
+\*\* **Chair**: Fatemeh Torabi (Swansea University)
 
 ## Prompts
+
 Work from Swansea Unversity has shown that major UK TREs are operating on different governance models ([Torabi et al. 2023](https://ijpds.org/article/view/2164)).
 This breakout will discuss whether and how a common governance model can be achieved.
 
