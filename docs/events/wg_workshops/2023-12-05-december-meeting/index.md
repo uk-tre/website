@@ -1,5 +1,8 @@
 # UK TRE Community meeting - December 2023
 
+:Date: [Monday 5th December 2023 13:30](https://arewemeetingyet.com/London/2023-12-05/13:30/UK%20TRE%20Community%20meeting%20-%20December%202023#eyJ1cmwiOiJodHRwczovL2x1Lm1hL3VrdHJlZGVjZW1iZXIifQ==)
+:Registration: https://lu.ma/uktredecember
+
 ## Background
 
 ​The UK TRE Community is a community of over 200 people that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors, managers and more, from all sectors and disciplines.

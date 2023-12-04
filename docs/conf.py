@@ -42,6 +42,8 @@ html_theme_options = {
 }
 
 # -- Link checker configuration
-# https://www.swansea.ac.uk/the-university/location/#bay-campus=is-expanded
-# is a JavaScript only anchor
-linkcheck_anchors_ignore = ["bay-campus=is-expanded"]
+# These pages use in-page JavaScript anchors which aren't seen by the link checker
+linkcheck_anchors_ignore_for_url = [
+    r"https://www\.swansea\.ac\.uk/the-university/location/",
+    r"https://arewemeetingyet\.com/.+",
+]
