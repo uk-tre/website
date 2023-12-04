@@ -1,5 +1,7 @@
 # Data architecture of a TRE with C4 modelling language
 
+**Lead:** Joe Leach (Tower Hamlets)
+
 ## Summary
 
 This workshop will run some research questions through a draft TRE design for a HDRC (Health Determinants Research Collaborative).
@@ -22,8 +24,8 @@ To help communicate this approach to TRE design, we have experimented with analo
 
 ## Preparation
 
-TBD
+Ideally participants would be familiar with [The Goldacre Review](https://www.goldacrereview.org/), though this is not critical!
 
 ## Target audience
 
-TBD
+Colleagues from data science, engineering, and governance.

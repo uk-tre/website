@@ -1,6 +1,6 @@
 # Multi-TRE analysis : can a common governance model breaks data silos?
 
-\*\* **Chair**: Fatemeh Torabi (Swansea University)
+**Chair**: Fatemeh Torabi (Swansea University)
 
 ## Prompts
 
