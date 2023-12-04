@@ -51,6 +51,8 @@ For now, please find more detail about each below!
 - [](./workshop-manual-output-checking.md)
 - [](./workshop-researcher-passports.md)
 - [](./workshop-automated-output-checking-coi.md)
+- [](./workshop-satre.md)
+- [](./workshop-tre-c4-architecture.md)
 
 #### Discussions
 
@@ -59,3 +61,4 @@ For now, please find more detail about each below!
 - [](./discussion-nhs-sde.md)
 - [](./discussion-provenance-metadata-standards.md)
 - [](./discussion-ppie.md)
+- [](./discussion-multi-tre.md)
