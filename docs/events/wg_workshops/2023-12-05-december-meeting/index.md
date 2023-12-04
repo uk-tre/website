@@ -15,18 +15,18 @@
 
 This agenda will be continuously updated as more sessions are confirmed.
 
-| Time          | Agenda Item             |
-| ------------- | ----------------------- |
-| 13:30 - 13:45 | Welcome and intro       |
-| 13:45 - 14:30 | Keynote + discussion    |
-| 14:30 - 14:45 | Community updates       |
-| 14:45 - 14:55 | Break                   |
-| 14:55 - 15:00 | Intro to breakout rooms |
-| 15:00 - 15:45 | Breakout rooms          |
-| 15:45 - 15:55 | Break                   |
-| 15:55 - 16:00 | Intro to breakout rooms |
-| 16:00 - 16:45 | Breakout rooms          |
-| 16:45 - 17:00 | Wrap up                 |
+| Time          | Agenda Item                                  |
+| ------------- | -------------------------------------------- |
+| 13:30 - 13:45 | Welcome and intro                            |
+| 13:45 - 14:30 | Keynote + discussion                         |
+| 14:30 - 14:45 | Community updates                            |
+| 14:45 - 14:55 | Break                                        |
+| 14:55 - 15:00 | Intro to breakout session 1                  |
+| 15:00 - 15:45 | Breakout session 1 [(see below)](#session-1) |
+| 15:45 - 15:55 | Break                                        |
+| 15:55 - 16:00 | Intro to breakout session 2                  |
+| 16:00 - 16:45 | Breakout session 2 [(see below)](#session-2) |
+| 16:45 - 17:00 | Wrap up                                      |
 
 ### Keynote
 
@@ -41,24 +41,28 @@ _A chance for anyone in the community to share quick updates with everyone on th
 - `The citizen and their increased / retained agency` working group introduction (Pete Barnsley)
 - `An architecture for extending the domain of control - custody of data` working group introduction (Pete Barnsley)
 
-### Breakout rooms
+### Breakout sessions
 
-Breakout rooms will be a mixture of workshops (more structured sessions designed around a particular problem area, focused on moving towards an output) and discussions (less structured sessions to explore general areas of interest within the UK TRE space).
+Breakout rooms will be a mixture of workshops (more structured sessions designed around a particular problem area, focused on moving towards an output) and discussions (less structured sessions to explore general areas of interest within the UK TRE space), as well as open rooms to have general discussions.
 
-A more detailed agenda will be created sharing exactly when each of these sessions will be taking place.
-For now, please find more detail about each below!
+There will be two sessions on the day of 45 minutes each - please choose one breakout to go to from each session!
 
-#### Workshops
+Notes will be taken from each session and circulated after the meeting.
 
-- [](./workshop-package-allow-lists.md)
-- [](./workshop-manual-output-checking.md)
-- [](./workshop-researcher-passports.md)
-- [](./workshop-automated-output-checking-coi.md)
+#### Session 1
 
-#### Discussions
+- [](./workshop-researcher-passports.md) - workshop
+- [](./workshop-automated-output-checking-coi.md) - workshop
+- [](./workshop-tre-c4-architecture.md) - workshop
+- [](./discussion-local-cloud-hosting.md) - discussion
+- [](./discussion-tre-federation.md) - discussion
+- [](./discussion-ppie.md) - discussion
 
-- [](./discussion-local-cloud-hosting.md)
-- [](./discussion-tre-federation.md)
-- [](./discussion-nhs-sde.md)
-- [](./discussion-provenance-metadata-standards.md)
-- [](./discussion-ppie.md)
+#### Session 2
+
+- [](./workshop-package-allow-lists.md) - workshop
+- [](./workshop-manual-output-checking.md) - workshop
+- [](./workshop-satre.md) - workshop
+- [](./discussion-nhs-sde.md) - discussion
+- [](./discussion-provenance-metadata-standards.md) - discussion
+- [](./discussion-multi-tre.md) - discussion
