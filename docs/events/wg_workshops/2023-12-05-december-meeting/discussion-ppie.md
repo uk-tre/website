@@ -12,6 +12,7 @@
 The need to conduct PPIE is well-recognised by the health research community at large, but how can we run it effectively?
 There will be a brief presentation on public expectations from using personal health data for research.
 
+- Which TREs are carrying public engagement currently? (dedicated person or additional responsibilities)
 - How many community members require PPIE support? Enough for a working group?
 - How to overcome health / tech literacy limitations during public engagement activities?
 - Public involvement - web landing page for public? Curated newsletter?
