@@ -7,7 +7,7 @@
 Newcastle Commitment <newcastle-commitment/index>
 events/index
 background/index
-structure/index
+about/index
 ```
 
 ```{admonition} UK-TRE December 2023 meeting
@@ -37,8 +37,8 @@ We hope all members of the community will sign-up to this commitment.
 
 Find out more about the UK-TRE community, and how to join us
 :Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
-:Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
+:Slack channel: https://uktrecommunity.slack.com
 
-## [](structure/index)
+## [](about/index)
 
 - More detail on how the community is structured and governed
