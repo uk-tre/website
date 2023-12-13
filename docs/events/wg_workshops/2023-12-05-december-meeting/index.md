@@ -1,7 +1,8 @@
 # UK TRE Community meeting - December 2023
 
 :Date: [Monday 5th December 2023 13:30](https://arewemeetingyet.com/London/2023-12-05/13:30/UK%20TRE%20Community%20meeting%20-%20December%202023#eyJ1cmwiOiJodHRwczovL2x1Lm1hL3VrdHJlZGVjZW1iZXIifQ==)
-:Registration: https://lu.ma/uktredecember
+:Slides: [**INSERT ZENODO LINK**]
+:Recording: https://youtu.be/LbxLZudqjOA
 
 ## Background
 
@@ -33,13 +34,43 @@ This agenda will be continuously updated as more sessions are confirmed.
 A talk by the Community Management working group on the latest developments, funding and plans for the community.
 This will be followed by dedicated time to ask questions and discuss any proposals.
 
+#### Summary
+
+The talk summarised discussed why the UK TRE Community exists, and the plans for the community for the next 4 months.
+
+The community considers itself to be a connecting force in the already very active and energetic UK TRE space, helping projects and teams in bringing their work to the wider community, achieving consensus and moving towards a shared approach to TRE provision across the UK's 4 nations.
+
+The community shared an initial vision and mission for the community:
+
+```{admonition} Vision
+:class: hint
+
+To have a four nations, coordinated, collaborative approach to research infrastructure for working with sensitive data
+```
+
+```{admonition} Mission
+:class: hint
+
+To provide the space to signpost, share knowledge and facilitate conversations across the UK TRE landscape
+```
+
+The talk then went into detail on the proposed work for the next 4 months. 
+This was based on the proposal submitted for the DARE UK Community groups funding.
+More detail can be found in the [our focus section]()
+
 ### Community updates
 
 _A chance for anyone in the community to share quick updates with everyone on the call._
 
-- `SDEs, TREs etc - terminology and definitions` working group introduction (Pete Barnsley & Madalyn Hardaker)
-- `The citizen and their increased / retained agency` working group introduction (Pete Barnsley)
-- `An architecture for extending the domain of control - custody of data` working group introduction (Pete Barnsley)
+#### SDEs, TREs etc - terminology and definitions working group introduction 
+*Pete Barnsley & Madalyn Hardaker*
+
+
+#### The citizen and their increased / retained agency working group introduction 
+*Pete Barnsley*
+
+#### An architecture for extending the domain of control - custody of data working group introduction 
+*Pete Barnsley*
 
 ### Breakout sessions
 
