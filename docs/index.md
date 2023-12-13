@@ -37,7 +37,7 @@ We hope all members of the community will sign-up to this commitment.
 
 Find out more about the UK-TRE community, and how to join us
 :Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
-:Slack channel: https://join.slack.com/t/uktrecommunity/shared_invite/zt-26r7jz25d-J5iV0XoqyLepEiKk4XpJVg
+:Slack channel: https://uktrecommunity.slack.com/
 
 ## [](structure/index)
 
