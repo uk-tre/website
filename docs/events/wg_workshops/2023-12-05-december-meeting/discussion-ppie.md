@@ -15,3 +15,7 @@ There will be a brief presentation on public expectations from using personal he
 - How many community members require PPIE support? Enough for a working group?
 - How to overcome health / tech literacy limitations during public engagement activities?
 - Public involvement - web landing page for public? Curated newsletter?
+
+## Summary
+
+## Raw notes

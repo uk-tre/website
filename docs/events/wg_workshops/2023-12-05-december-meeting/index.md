@@ -54,7 +54,7 @@ To have a four nations, coordinated, collaborative approach to research infrastr
 To provide the space to signpost, share knowledge and facilitate conversations across the UK TRE landscape
 ```
 
-The talk then went into detail on the proposed work for the next 4 months. 
+The talk then went into detail on the proposed work for the next 4 months.
 This was based on the proposal submitted for the DARE UK Community groups funding.
 More detail can be found in the [our focus section]()
 
@@ -62,23 +62,102 @@ More detail can be found in the [our focus section]()
 
 _A chance for anyone in the community to share quick updates with everyone on the call._
 
-#### SDEs, TREs etc - terminology and definitions working group introduction 
-*Pete Barnsley & Madalyn Hardaker*
+#### SDEs, TREs etc - terminology and definitions working group introduction
 
+_Pete Barnsley & Madalyn Hardaker_
+**Contact**: [Madalyn Hardaker](mailto:madalyn.hardaker@kcl.ac.uk)
 
-#### The citizen and their increased / retained agency working group introduction 
-*Pete Barnsley*
+Pete advertised a new working group to be formed called `SDEs, TREs etc - terminology and definitions: A clear lexicon for the community's architecture`.
 
-#### An architecture for extending the domain of control - custody of data working group introduction 
-*Pete Barnsley*
+There will two open sessions in January:
+
+- Tuesday 9th January 2pm-3pm
+- Wednesday 17th January 3pm-4pm
+
+To cover topics like:
+
+- Expectations
+- Ideas and scope
+- Plan for completing output
+- Liasing with other related working groups
+
+Plan is to present at the March meeting, and have a first outcome by Spring.
+
+#### The citizen and their increased / retained agency working group introduction
+
+_Pete Barnsley_
+
+Pete advertised a new working group to be formed called `The citizen and their increased / retained agency`.
+
+There will two open sessions in January:
+
+- Tuesday 9th January 11am-12pm
+- Wednesday 17th January 10am-11am
+
+To cover topics like:
+
+- Expectations
+- Ideas and scope
+- Plan for completing output
+- Liasing with other related working groups
+
+Plan is to have present at the March meeting, and have a first outcome of a whitepaper.
+
+#### An architecture for extending the domain of control - custody of data working group introduction
+
+_Pete Barnsley_
+
+Pete advertised a new working group to be formed called `An architecture for extending the domain of control - custody of data`.
+
+There will two open sessions in January:
+
+- Wednesday 10th January 10am-11am
+- Tuesday 16th January 2pm-3pm
+
+To cover topics like:
+
+- Expectations
+- Ideas and scope
+- Plan for completing output
+- Liasing with other related working groups
+
+Plan is to have present at the March meeting, and have a first outcome of a whitepaper.
+
+#### Researcher passports
+
+_Emily Jefferson_
+**Contact**: [Loki Sinclair](mailto:loki.sinclair@hdruk.ac.uk) and [Fergus McDonald](Fergus.McDonald@dareuk.org.uk)
+
+There may be funding from UKRI for researcher passports.
+
+The team would like to work with teams to see what would be helpful in this area.
+
+#### AWS Research Engineering Studio
+
+_Simon Li_
+**Contact**: [Simon Li](mailto:spli@dundee.ac.uk)
+
+AWS are revamping their TRE offerings. They have a new open-source product "Research Engineering Studio" which replaces https://github.com/awslabs/service-workbench-on-aws
+
+More info can be found here: https://docs.aws.amazon.com/res/latest/ug/overview.html and here: https://github.com/aws/res
+
+HIC are test-driving it, and are keen to shared notes and ideas with anyone else looking or planning to try it.
+
+Get in touch with Simon if you are interested and he'll set up a meeting for January!
+
+#### Community of Interest on semi-automated evaluation
+
+_Jim Smith_
+
+Jim advertised the breakout session happening on the DARE UK Community of Interest on semi-automated evaluation.
 
 ### Breakout sessions
 
-Breakout rooms will be a mixture of workshops (more structured sessions designed around a particular problem area, focused on moving towards an output) and discussions (less structured sessions to explore general areas of interest within the UK TRE space), as well as open rooms to have general discussions.
+Breakout rooms were a mixture of workshops (more structured sessions designed around a particular problem area, focused on moving towards an output) and discussions (less structured sessions to explore general areas of interest within the UK TRE space), as well as open rooms to have general discussions.
 
-There will be two sessions on the day of 45 minutes each - please choose one breakout to go to from each session!
+There were two sessions on the day of 45 minutes each.
 
-Notes will be taken from each session and circulated after the meeting.
+Summaries and notes are available on the links below.
 
 #### Session 1
 

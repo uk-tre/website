@@ -25,3 +25,7 @@ We also have two videos for everyone to view and feel free to share with your fr
 ## Target audience
 
 Users, researchers, implementers of TREs and of course any public members who wish to help support the transparency and openness of the project.
+
+## Summary
+
+## Raw notes

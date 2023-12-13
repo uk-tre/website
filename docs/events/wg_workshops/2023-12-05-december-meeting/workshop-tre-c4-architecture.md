@@ -29,3 +29,7 @@ Ideally participants would be familiar with [The Goldacre Review](https://www.go
 ## Target audience
 
 Colleagues from data science, engineering, and governance.
+
+## Summary
+
+## Raw notes

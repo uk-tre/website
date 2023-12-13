@@ -20,3 +20,7 @@ Please bring your experience, ideas, and questions, around what works and what d
 ## Target audience
 
 All involved in manual output checking – both from a policy and procedures perspective, and with hands on experience.
+
+## Summary
+
+## Raw notes

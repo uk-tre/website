@@ -10,3 +10,7 @@ This breakout will discuss whether and how a common governance model can be achi
 - What percentage of the problem of data silos will be solved by a common governance model?
 - What can be incorporated in a common governance model, and what can't?
 - How do governance models need to be updated to work for a multi-TRE network, rather than just individual TREs?
+
+## Summary
+
+## Raw notes

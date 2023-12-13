@@ -26,3 +26,7 @@ A good output would be to open a pull request or issue suggesting improvements.
 TRE builders and operators with an interest in managing packages in TREs.
 
 The session will be quite technical - the repository currently uses JSONSchema and Python.
+
+## Summary
+
+## Raw notes

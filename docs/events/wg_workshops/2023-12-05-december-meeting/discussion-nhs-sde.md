@@ -9,3 +9,7 @@
 - What, if any, will be the accreditation standards SDEs hold them to?
 - What are the current options for unmet technical capability?
 - Do you foresee the new data access policy changing your workflows at all? If so, how?
+
+## Summary
+
+## Raw notes
