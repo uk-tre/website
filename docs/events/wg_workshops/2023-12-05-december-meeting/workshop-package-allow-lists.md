@@ -27,6 +27,3 @@ TRE builders and operators with an interest in managing packages in TREs.
 
 The session will be quite technical - the repository currently uses JSONSchema and Python.
 
-## Summary
-
-## Raw notes
