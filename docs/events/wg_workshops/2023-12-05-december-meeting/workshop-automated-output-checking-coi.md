@@ -26,4 +26,32 @@ No specific target audience in mind - anybody interested!
 
 ## Summary
 
+THe workshop explored projects already exploring these issues, what the priorities of the community should be, and how to align everything already happening in this space.
+
+A name was also chosen for the community!
+ReBOT, Reducing Barriers to Outputs from TREs.
+
+Next steps include setting up a Jisc mailing list for the community, and a simple accessible guide, either written or video.
+
 ## Raw notes
+
+- Start of a community of people looking at these tools
+- Some projects have started tackling issues: DataShield, ACRO, GRAIMatter, SACRO
+- Defining best practice
+  - Aligning finding of these projects with SDAP manual
+- Remove barriers to adoption by researchers
+  - Weekly drop-in sessions for ACRO, AISDC, SACRO, etc
+  - Email support service
+- Name of the community? ReBOT, Reducing Barriers to Outputs from TREs
+- What does everyone think?
+  - Manual egress is just not scalable
+  - What are we actually trying to protect? From who/what?
+  - Statistical disclosure policy, flowchart to follow, if not straightforward then document decision making, take consensus of senior members of team
+  - [Public Health Scotland: Statistical disclosure protocol](https://publichealthscotland.scot/publications/public-health-scotland-statistical-disclosure-protocol/public-health-scotland-statistical-disclosure-protocol-version-21/)
+  - [Handbook on Statistical Disclosure Control for Outputs](https://ukdataservice.ac.uk/app/uploads/thf_datareport_aw_web.pdf)
+  - [ICO AI Toolkit](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-lawfulness-in-ai/)
+
+### Next steps
+
+- Create new JISC mailing list
+- Create simple accessible guide, either written or video
