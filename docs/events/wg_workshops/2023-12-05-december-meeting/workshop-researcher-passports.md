@@ -85,4 +85,52 @@ TRE operators and/or information governance professionals (as related to the req
 
 ## Summary
 
+It was highlighted how resource intensive the current manual researcher approval process at UK biobank is, and how an autonated system would help with this.
+
+Achieving the perfect system may take a long time, but an MVP-style system that verifies researchers' identity and project history could be a good starting point.
+
+There was a question of whether an independent body needs to exist to accredit these passports, or whether providing appropriate researcher details would be sufficient on a TRE-by-TRE basis.
+
+Further discussions centred around processes to interrogate validity of researcher records, how to record 'untrustworthy' researchers, and how to accommodate different levels of permission for different researchers, depending on how sensitive the project they are working on is
+
 ## Raw notes
+
+- UK Biobank working with additional biobanks in pipeline (international perspective additionally challenging)
+- 6 FTE managing the overall workload of researcher approval
+- Do not make a quality assessment of a researcher
+- Main process currently followed:
+  - Applicant must supply CV
+  - Applicant supplies any relevant papers/publications
+  - Email / Telephone number provided
+  - Institue contact to check alignment
+- Since inception, ~30,000 applicants. Very manual, painful process. Process takes between ~10-60mins per application.
+- Would other TRE/SDEs be willing to use the collected researcher verifications from already accepted UK Biobank DB?
+- An automated system that provided a full history of researchers would free up time from our point of view. We don't vet their skills or what coding languages they're familiar with. Just that they are who they say they are.
+- The perfect system could take "15 years" to cover all eventualities. Start with the basics to build an MVP style verification. A global "fits all" will likely end up in nothing being delivered.
+- Bona fide researcher
+  - Approved researcher training (e.g. ONS/UKSA approved researcher training)
+  - Is a system like this needed? Yes, but adoption becomes key. Our numbers are smaller than those of very established TREs.
+  - 5 safe's already sets the path for people verification
+  - Process:
+    - Due diligence against bna fide "employee and employer" - treated as a single entity by LLC.
+    - Conflicts. Look at CV, training and track record. How people who have multiple employers may have conflicts in application.
+  - Question:
+    - Who is going to do the accrediting of these passports?
+    - TREs are a step removed from this and it should be external to us and better by an independent adjudicator
+      - Does anyone _need_ to accredit a passport, with full history of researcher activity being sent - would that be enough to make a decision at TRE level?
+      - It's about how trustworthy the details are? Due diligence can't be based on "trust" alone.
+- There is a marginal benefit to a system that could provide this information in a passport "stamping" fashion.
+- Only UK accessible (at least for now). Requires ONS researcher training. Contact institution for validation. Ethics project level review process, where it confirms UKSA template, and if a project meets criteria then a panel review for "public good".
+  - One of the key issues is about timeliness of accessing data. Current records that ONS and/or UKSA have don't reflect changes.
+  - How do you "block" someone off if they have damaged another TRE? More from the operational aspect
+  - How can we trust the information - implication being that we can interrogate and get answers, but can we trust the data being entered?
+  - Who can accredit?
+  - What secure methods can be designed to prevent tampering?
+  - Part of the process would mainly be removing the tedious processes behind the vetting. To some extent it doesn't need to _say_ anything about the history, just provide key indicators.
+  - Discussions surrounding structure about "what do we mean", "who do we trust". Implementing a system as an ORCID++ to later build on trust info to interrogate would be a good starting point. Separate issue about trustworthy facts being available and current / "live" can come later.
+- How do we capture the 'experience' of the user?
+  - H-Index like system tied to an ORCID?
+- After a series of projects, open subscription account as reward. Self-triaged system for FO, in a more trusted env than machine. Demonstrating a trusted user.
+- OpenSafely have differing tiers. Defining different levels of "permissions" depending on status of trust for user.
+- History of TRE access would lead to federation of mapping users with access to multiple environments.
+- Building 'credit' feature to define level of trust and access tier.
