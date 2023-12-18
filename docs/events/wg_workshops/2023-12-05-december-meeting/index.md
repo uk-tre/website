@@ -1,8 +1,16 @@
 # UK TRE Community meeting - December 2023
 
-:Date: [Monday 5th December 2023 13:30](https://arewemeetingyet.com/London/2023-12-05/13:30/UK%20TRE%20Community%20meeting%20-%20December%202023#eyJ1cmwiOiJodHRwczovL2x1Lm1hL3VrdHJlZGVjZW1iZXIifQ==)
+:Date: Tuesday 5th December 2023 13:30-17:00
 :Slides: [**INSERT ZENODO LINK**]
 :Recording: https://youtu.be/LbxLZudqjOA
+
+```{toctree}
+:maxdepth: 0
+:hidden: true
+
+lightning-talks
+breakout-sessions
+```
 
 ## Background
 
@@ -14,13 +22,11 @@
 
 ## Agenda
 
-This agenda will be continuously updated as more sessions are confirmed.
-
 | Time          | Agenda Item                                  |
 | ------------- | -------------------------------------------- |
 | 13:30 - 13:45 | Welcome and intro                            |
-| 13:45 - 14:30 | Keynote + discussion                         |
-| 14:30 - 14:45 | Community updates                            |
+| 13:45 - 14:30 | [Keynote + discussion](#keynote)             |
+| 14:30 - 14:45 | [Community updates](#community-updates)      |
 | 14:45 - 14:55 | Break                                        |
 | 14:55 - 15:00 | Intro to breakout session 1                  |
 | 15:00 - 15:45 | Breakout session 1 [(see below)](#session-1) |
@@ -32,11 +38,10 @@ This agenda will be continuously updated as more sessions are confirmed.
 ### Keynote
 
 A talk by the Community Management working group on the latest developments, funding and plans for the community.
-This will be followed by dedicated time to ask questions and discuss any proposals.
 
 #### Summary
 
-The talk summarised discussed why the UK TRE Community exists, and the plans for the community for the next 4 months.
+The talk discussed why the UK TRE Community exists, and the plans for the community for the next 4 months.
 
 The community considers itself to be a connecting force in the already very active and energetic UK TRE space, helping projects and teams in bringing their work to the wider community, achieving consensus and moving towards a shared approach to TRE provision across the UK's 4 nations.
 
@@ -65,14 +70,15 @@ _A chance for anyone in the community to share quick updates with everyone on th
 #### SDEs, TREs etc - terminology and definitions working group introduction
 
 _Pete Barnsley & Madalyn Hardaker_
+
 **Contact**: [Madalyn Hardaker](mailto:madalyn.hardaker@kcl.ac.uk)
 
 Pete advertised a new working group to be formed called `SDEs, TREs etc - terminology and definitions: A clear lexicon for the community's architecture`.
 
 There will two open sessions in January:
 
-- Tuesday 9th January 2pm-3pm
-- Wednesday 17th January 3pm-4pm
+- [Tuesday 9th January 2pm-3pm](https://crick.zoom.us/meeting/register/u5Mtf-yoqzooH9zP9q2fzeQ1qMM_Jh_yzC6s)
+- [Wednesday 17th January 3pm-4pm](https://crick.zoom.us/meeting/register/u5Erd-2srzMqGNITfSFEUvx4MilT5Ji6ov8i)
 
 To cover topics like:
 
@@ -91,8 +97,8 @@ Pete advertised a new working group to be formed called `The citizen and their i
 
 There will two open sessions in January:
 
-- Tuesday 9th January 11am-12pm
-- Wednesday 17th January 10am-11am
+- [Tuesday 9th January 11am-12pm](https://crick.zoom.us/meeting/register/u5csc-iqpjguGdUmSzXqcvhC2c1MgX6cEh0q)
+- [Wednesday 17th January 10am-11am](https://crick.zoom.us/meeting/register/u50ldu6srzguHdfvRBxuwRoJn8VTS7yBV78W)
 
 To cover topics like:
 
@@ -111,8 +117,8 @@ Pete advertised a new working group to be formed called `An architecture for ext
 
 There will two open sessions in January:
 
-- Wednesday 10th January 10am-11am
-- Tuesday 16th January 2pm-3pm
+- [Wednesday 10th January 10am-11am](https://crick.zoom.us/meeting/register/u5cuceGhrzMrH9EPh3tFZiRoPPxrsN277MZJ)
+- [Tuesday 16th January 2pm-3pm](https://crick.zoom.us/meeting/register/u5cqcu6hqDojE9J7SchkzeUpqjOwRQ-Vh3cN)
 
 To cover topics like:
 
@@ -126,6 +132,7 @@ Plan is to have present at the March meeting, and have a first outcome of a whit
 #### Researcher passports
 
 _Emily Jefferson_
+
 **Contact**: [Loki Sinclair](mailto:loki.sinclair@hdruk.ac.uk) and [Fergus McDonald](Fergus.McDonald@dareuk.org.uk)
 
 There may be funding from UKRI for researcher passports.
@@ -135,6 +142,7 @@ The team would like to work with teams to see what would be helpful in this area
 #### AWS Research Engineering Studio
 
 _Simon Li_
+
 **Contact**: [Simon Li](mailto:spli@dundee.ac.uk)
 
 AWS are revamping their TRE offerings. They have a new open-source product "Research Engineering Studio" which replaces https://github.com/awslabs/service-workbench-on-aws

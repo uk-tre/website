@@ -2,7 +2,9 @@
 
 **Lead:** Joe Leach (Tower Hamlets)
 
-## Summary
+## Proposal
+
+### Summary
 
 This workshop will run some research questions through a draft TRE design for a HDRC (Health Determinants Research Collaborative).
 This design exposes the interfaces between architecture and trust for regulatory control of research data management.
@@ -22,21 +24,23 @@ You’d be forgiven for thinking this TRE sounds like a sandbox, but the special
 
 To help communicate this approach to TRE design, we have experimented with analogies such as central reference libraries and air traffic control, and will workshop some examples to round off this thought experiment.
 
-## Preparation
+### Preparation
 
 Ideally participants would be familiar with [The Goldacre Review](https://www.goldacrereview.org/), though this is not critical!
 
-## Target audience
+### Target audience
 
 Colleagues from data science, engineering, and governance.
 
-## Summary
+## Session
+
+### Summary
 
 This workshop introduced the idea of TREs within local council work, making specific reference to the London NHS SNSDE, and how Structurizr can be used for rendering C4 diagrams of data architecture.
 
 Next steps include publishing the design that was workshopped and discussed.
 
-## Raw notes
+### Raw notes
 
 - Brief introduction of London Borough of Tower Hamlets and Health Determinants Research Collaboration( HDRC)
 - Brief Introduction - subnational NHS SDE
@@ -53,6 +57,6 @@ Next steps include publishing the design that was workshopped and discussed.
 - Usefulness of Structurizr for rendering C4 diagrams of data architecture - as a text based modelling language, you can do your version control with git! - you can incorporate data models (Entity Relations) as images at the lowest "Code" level perspective of diagramming
   11
 
-### Next steps
+#### Next steps
 
 - publish the design discussed?

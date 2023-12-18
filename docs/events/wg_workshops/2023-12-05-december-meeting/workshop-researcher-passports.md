@@ -2,11 +2,13 @@
 
 **Leads:** Loki Sinclair (HDR UK) & Fergus McDonald (DARE UK)
 
-## Summary
+## Proposal
+
+### Summary
 
 The purpose of the session is to get a sense from the TRE Community – primarily those running and operating SDEs/TREs – that if a nationwide service were available to verify the “Safe People” criteria would that be beneficial to SDE/TRE operators? If so, what are the requirements for such a service? We would also like to understand the appetite for supporting single sign on across TREs/SDEs.
 
-## Preparation
+### Preparation
 
 We’d encourage community members to reflect on the following questions:
 
@@ -41,15 +43,15 @@ We’d encourage community members to reflect on the following questions:
     And finally...
 - Would you be interested in working with us to provide requirements and test a researcher passport solution?
 
-### Reading:
+#### Reading:
 
 - Brophy, R., Bellavia, E., Bluemink, M. G., Evans, K., Hashimi, M., Macaulay, Y., McNamara, E., Noble, A., Quattroni, P., Rudczenko, A., Morris, A. D., Smith, C. and Boyd, A. (2023) “Towards a standardised cross-sectoral data access agreement template for research: a core set of principles for data access within trusted research environments”, International Journal of Population Data Science, 8(4). doi: 10.23889/ijpds.v8i4.2169.
   - [Publication](https://ijpds.org/article/view/2169)
   - [Template agreement](https://zenodo.org/records/8256235)
 
-#### Extracts from the [DARE UK Phase 1 Recommendations](https://zenodo.org/records/7022440):
+##### Extracts from the [DARE UK Phase 1 Recommendations](https://zenodo.org/records/7022440):
 
-##### Federated identity and user authentication standards
+###### Federated identity and user authentication standards
 
 There is a need to identify – in collaboration with stakeholders from across the landscape – and drive forward the adoption of a common user authentication protocol by infrastructure providers.
 Conceivably, this would need to be coordinated and overseen by UKRI itself, as it has the appropriate remit to act as such an authority.
@@ -61,7 +63,7 @@ The existence of modern industry and community standards of user authentication 
 These existing standards should be leveraged as the basis for user authentication to allow for maximum interoperability at a national and international level.
 As user authentication is a crucial component of a national TRE standard, stakeholders also highlighted the need to support different forms of identity verification and have logging and auditing embedded across the system.
 
-##### Researcher accreditation
+###### Researcher accreditation
 
 A key requirement highlighted by stakeholders has been the need for a streamlined approach to researcher accreditation.
 While there are a number of existing training modules for sensitive data handling (for example, those provided by ONS), many of these trainings are duplicative without allowing for equivalence or mutual recognition between modules.
@@ -72,18 +74,20 @@ Providers should aim to offer a consistent researcher experience across data acc
 Training could be made portable across TREs through standard accreditation for researchers acting as a TRE ‘passport’.
 The Digital Economy Act, 2017 (DEA) already works as a passport in some respects, with shared accreditation existing across certain TREs.
 
-##### Private sector and international researcher accreditation
+###### Private sector and international researcher accreditation
 
 Currently, private sector researchers can apply to become accredited researchers under the DEA, and therefore apply for access to data held within DEA-accredited research environments once accredited, via the same process as academic researchers.
 In the context of UKRI-funded research, private sector researchers can also participate in sensitive data research in the public good as part of consortia led by a UKRI-approved research organisation.
 However, there was widespread feedback from stakeholders engaged with during DARE UK Phase 1 that improving the ability for private sector researchers to collaborate on sensitive data research is important.
 Participants of the DARE UK public dialogue wanted sensitive data to be made securely accessible to private sector organisations and did not see a need for data access requirements to differ for these organisations, as long as the research is motivated by public benefit over financial profit and there is transparency throughout the research lifecycle (see Chapter 3: Demonstrating trustworthiness).
 
-## Target audience
+### Target audience
 
 TRE operators and/or information governance professionals (as related to the requirements for approving researcher access).
 
-## Summary
+## Session
+
+### Summary
 
 It was highlighted how resource intensive the current manual researcher approval process at UK biobank is, and how an autonated system would help with this.
 
@@ -93,7 +97,7 @@ There was a question of whether an independent body needs to exist to accredit t
 
 Further discussions centred around processes to interrogate validity of researcher records, how to record 'untrustworthy' researchers, and how to accommodate different levels of permission for different researchers, depending on how sensitive the project they are working on is
 
-## Raw notes
+### Raw notes
 
 - UK Biobank working with additional biobanks in pipeline (international perspective additionally challenging)
 - 6 FTE managing the overall workload of researcher approval

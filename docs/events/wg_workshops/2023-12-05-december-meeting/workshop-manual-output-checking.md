@@ -2,7 +2,9 @@
 
 **Lead:** Rachael Williams (MHRA)
 
-## Summary
+## Proposal
+
+### Summary
 
 This workshop will bring the community together to brainstorm strategies and tools for streamlining manual output checking in TREs.
 
@@ -13,21 +15,23 @@ Participants will brainstorm effective techniques for optimising this process, i
 
 By the end of the workshop, it is hoped that participants will be equipped with practical insights to enhance the speed and accuracy of manual output checking, ultimately improving the overall research workflow.
 
-## Preparation
+### Preparation
 
 Please bring your experience, ideas, and questions, around what works and what doesn’t in the world of manual output checking, such as checklist development, collaborative workflows, and quality assurance measures.
 
-## Target audience
+### Target audience
 
 All involved in manual output checking – both from a policy and procedures perspective, and with hands on experience.
 
-## Summary
+## Session
+
+### Summary
 
 The room discussed how manual methods of output checking can be connected to more automatic methods, for instance SACRO, and how organisations can transition from purely manual methods to more automated ones.
 
 Tips were also shared on how to make manual checking simpler.
 
-## Raw notes
+### Raw notes
 
 - SACRO provides a set of drop in tools that researchers use alongside R or Stata - and at the stage they want to create an output they type "acro". It will then run checks and produce an output - highlighting if there are potential issues. Sometimes the automated checks won't apply - and an exception request can be submitted.
 - For machine learning models there are a number of things that can be checked. The gap (where work is ongoing) is how to apply the methods for traditional methods to machine learning models. A pool of expertise is being built in this area.

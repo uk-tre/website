@@ -2,7 +2,9 @@
 
 **Lead:** Chris Cole (University of Dundee)
 
-## Summary
+## Proposal
+
+### Summary
 
 After extensive community engagement often in conjunction with UK TRE, the first version of the SATRE Specification was launched in October.
 It is by no means finished, but it is now stable and ready for use.
@@ -12,7 +14,7 @@ SATRE was created quickly and there will be parts that can be improved.
 
 Today is a chance to find out more of the continuing plans for SATRE within the UK TRE Community, contribute and ask questions.
 
-## Preparation
+### Preparation
 
 If you’re not already familiar with the SATRE Specification please have a look at it here:
 https://satre-specification.readthedocs.io
@@ -22,11 +24,13 @@ We also have two videos for everyone to view and feel free to share with your fr
 - https://www.youtube.com/watch?v=auExNHEGwcc
 - https://www.youtube.com/watch?v=kzUU5ljII0Q
 
-## Target audience
+### Target audience
 
 Users, researchers, implementers of TREs and of course any public members who wish to help support the transparency and openness of the project.
 
-## Summary
+## Session
+
+### Summary
 
 SATRE was introduced to the room, before the idea of a SATRE working group was discussed, and how it could align with ongoing work in the UK TRE community.
 
@@ -34,9 +38,9 @@ Alignment between UKSA and SDE accreditation was also discussed, as well as orga
 
 Next steps focused on a January meeting for a working group next steps, with a focus on helping other orgs evaluate themselves
 
-## Raw notes
+### Raw notes
 
-### What is SATRE?
+#### What is SATRE?
 
 - DARE UK funded project
 - Focus to be a community project
@@ -76,8 +80,6 @@ How do SDE Accreditation framework from UKSA and SATRE fit together?
 
 - And how do the UKSA/NHS conversations fit?
   - Anyone know how those are going?
-- X
-- X
 
 Thoughts/comments on SATRE evaluation?
 
@@ -88,7 +90,7 @@ Thoughts/comments on SATRE evaluation?
 - The SATRE pointing system could have subsection SATRE-PPI scoring how many of the public requirements are being met
 - Consensus there is a lot of value in having evaluation shared and exploring how others have scored but also process that goes into evaluation.
 
-## Next steps
+### Next steps
 
 - Book a time in January for next meeting
 - Focus on evaluations with other groups
