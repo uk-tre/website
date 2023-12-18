@@ -8,8 +8,18 @@
 :maxdepth: 0
 :hidden: true
 
-lightning-talks
-breakout-sessions
+discussion-local-cloud-hosting
+discussion-multi-tre
+discussion-nhs-sde
+discussion-ppie
+discussion-provenance-metadata-standards
+discussion-tre-federation
+workshop-automated-output-checking-coi
+workshop-manual-output-checking
+workshop-package-allow-lists
+workshop-researcher-passports
+workshop-satre
+workshop-tre-c4-architecture
 ```
 
 ## Background
@@ -133,7 +143,7 @@ Plan is to have present at the March meeting, and have a first outcome of a whit
 
 _Emily Jefferson_
 
-**Contact**: [Loki Sinclair](mailto:loki.sinclair@hdruk.ac.uk) and [Fergus McDonald](Fergus.McDonald@dareuk.org.uk)
+**Contact**: [Loki Sinclair](mailto:loki.sinclair@hdruk.ac.uk) and [Fergus McDonald](mailto:Fergus.McDonald@dareuk.org.uk)
 
 There may be funding from UKRI for researcher passports.
 
