@@ -19,7 +19,6 @@ _Chair: Will Crocombe (RISG Consulting)_
   - 3 - weak pseudo
   - 4 - public
 - Dropping down tiers, things become easier. Turing paper on this - Sheffield used this as the basis of their system for assessing risk.
-- https://zenodo.org/record/7754459
 - [Alan Turing Institute paper](https://arxiv.org/pdf/1908.08737.pdf)
 - Importance of agreed risk classification with federation, and agreement on risk appetite
 - [NIST RMF](https://csrc.nist.gov/projects/risk-management/about-rmf)
