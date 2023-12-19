@@ -16,7 +16,16 @@
 
 ### Summary
 
+This discussion made evident the multiplicity of current efforts and the difficulty to know what is happening in this space or the direction it is taking.
+
+The discussion identified many potential areas of work and collaboration, the use of NHS data held in SDEs via specific TREs can expand the utility of this data but requires a lot of coordination, not only between independent TREs but also across regions and institutions.
+Challenges arise on how to make this coordination and alignment effective, reconcile different interests (commercial and public) and ensure public and clinicians' trust.
+
+The role of HDRUK and the UK TRE Community is seeing as a positive influence.
+
 ### Next steps
+
+- The best next step, before anything else, is to establish better connections with the NHS SDE network.
 
 ## Prompts
 
