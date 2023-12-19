@@ -7,13 +7,19 @@
 
 ## Overview
 
-### Simmary
+### Summary
+
+Everyone loves a standard as long as it’s theirs: because implementing standards = real work on operational systems, everyone has an interest in keeping the standard as close as possible to what they already have.
+Rationalising these different approaches needs space and time to coordinate joint R&D activity that is separate from, but connected to, actual operations.
+
+We also need to recognise that coordinating across multiple TRE providers will (a) be slower than operational timescales, and (b) need dedicated people who are not trying to run ops at the same time.
+
+Currently, R&D is typically funded by competetive grants to “innovate”, and operational expenses are often top-sliced from these grants.
+Separating operational funding from innovative R&D grants is one thing that would help.
+
+So: separating ops teams from R&D teams in both people and funding terms is the biggest single help.
 
 ### Next Steps
-
-## Raw Notes
-
-### ROADMAP
 
 - Funding model evolution
 - Speed date - understand who/can collaberate with for mutual benifit
