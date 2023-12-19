@@ -14,7 +14,27 @@
 
 ### Summary
 
+The discussion centred about the purpose and governance of the community, trying to reach a balance between conveyors but still provide enough content and direction not to be an “empty” place.
+
+Universal selling point of UK-TRE: Diversity of audience, and pragmatism: people that are doing something.
+Danger of just listening is you don’t share your existing knowledge of what will/won’t work.
+
+Should we put out position statements? Say things if you don’t like something? The community should reach a point where what we say is respected.
+More powerful than individual submissions.
+
+What should UK-TRE do?
+Be careful not to become just a bureaucratic institution that has some funding, people, writes reports.
+
+Maybe a network that feeds up to DARE/HDR/ADR?
+USP would be it’s practical, diverse, not duplicative, ideal audience for people at top to bounce ideas off.
+Proper focus groups would be much more expensive.
+
+Some funding for the community to organise meetings like this is needed.
+
 ### Next steps
+
+- Secure funding for person time for the community
+- Establish a steering group for the community
 
 ## Raw Notes
 
