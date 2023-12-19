@@ -13,7 +13,14 @@
 
 ### Summary
 
+This discussion was an informative discussion that moslty gave the opportunity for attendees to ask PPIE experts about their experience so far.
+
+PEDRI, in which DARE UK is involved, was mentioned as an ongoing reference effort and the group discussed wheter or not the community is currently doing enough and the best way to do more.
+It is necessary to include PPIE in funding, make efforts to simplify language and ensure an impact loop of public panels (make sure participants learn about what they contributed to).
+
 ### Next steps
+
+- Establish what groups are already working on this, and find ways to collaborate effectively with them.
 
 ## Raw Notes
 
