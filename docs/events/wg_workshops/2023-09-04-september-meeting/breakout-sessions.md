@@ -1,5 +1,23 @@
 # Breakout sessions
 
+```{toctree}
+:maxdepth: 0
+:hidden: true
+
+breakout-ai-ml-llm
+breakout-cloud-onprem
+breakout-community-governance
+breakout-data-harmonisation
+breakout-multi-tre-analysis
+breakout-nhs-sdes
+breakout-ppie
+breakout-python-r-package-import
+breakout-satre
+breakout-sight-unseen
+breakout-standardisation-tensions
+breakout-tre-sustainability-and-operations
+```
+
 ## Breakout session format
 
 ```{list-table}
