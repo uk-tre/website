@@ -12,7 +12,12 @@
 
 ### Summary
 
+SATRE funding ending in October but planning to continue work on the specification, the aim is to be community owned but what the governance actually looks like is uncertain.
+SATRE aims to be between high-level accreditations (CE+, ISO27001) and the low-level detail of a particular implementation and include demonstrations of how TREs are meeting it.
+
 ### Next steps
+
+- The next steps seems to need to be socialising the specification and building a peer network.
 
 ## Notes
 
