@@ -21,6 +21,7 @@ There was further discussion on how to effectively check ML models within TREs.
 In the case of governance, it was suggested that a project working across multiple TREs should have one singular goevrnance process.
 
 ### Next steps
+
 - Create a 'panel' focused on specific type of data/reseearch (e.g. health, crime, financial) who can oversee specific research projects within these fields
 
 ## Raw notes
