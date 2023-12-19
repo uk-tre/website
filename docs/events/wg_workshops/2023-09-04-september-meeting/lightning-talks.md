@@ -7,7 +7,7 @@
 
 ### Room 1
 
-:Recording: [Room 1 Lightning Talks recording]()
+:Recording: [Room 1 Lightning Talks recording](https://www.youtube.com/watch?v=bn2ebeH4O6I)
 
 | Name                          | Organisation                                    | Talk                                                                                                                                                                                                       |
 | ----------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@
 
 ### Room 2
 
-:Recording: [Room 2 Lightning Talks recording]()
+:Recording: [Room 2 Lightning Talks recording](https://www.youtube.com/watch?v=tzW36NXvmsA)
 
 | Name            | Organisation                             | Talk                                                                                               |
 | --------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |

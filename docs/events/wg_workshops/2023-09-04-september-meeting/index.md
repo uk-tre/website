@@ -14,6 +14,7 @@ _The biggest meetup of the UK TRE community to date with presentations, breakout
 :Location: [Swansea University Bay Campus](https://www.swansea.ac.uk/the-university/location/#bay-campus=is-expanded), Fabian Way, Skewen, SA1 8EN.
 :Cost: Free to attend
 :Theme: What is stopping TREs from working together?
+:Recordings: https://www.youtube.com/channel/UCd7AZjyH33aCmIojGHMfqEg
 
 ## Background
 
@@ -37,7 +38,7 @@ The morning talks were broadcast online for those that could not in person, but 
 
 This report summarises the sessions of the day, as laid out in the schedule below.
 
-Recordings of the morning session, including the Welcome, Keynote, and Lightning Talks, are [available on YouTube]().
+Recordings of the morning session, including the Welcome, Keynote, and Lightning Talks, are [available on YouTube](https://www.youtube.com/channel/UCd7AZjyH33aCmIojGHMfqEg).
 More detail of the breakout sessions can be found in their respective notes from the day, which are linked in each summary below.
 
 #### Schedule
@@ -85,13 +86,13 @@ It was highlighted that two great community outputs from the day would be:
 
 Balint Stewart (DARE UK) also introduced the concept of [DARE UK Community Groups](https://dareuk.org.uk/our-work/dare-uk-community-groups/), and relevant funding opportunities.
 
-The recording of the Welcome and Introduction can be found at the beginning of the [Keynote presentation recording]().
+The recording of the Welcome and Introduction can be found at the beginning of the [Keynote presentation recording](https://www.youtube.com/watch?v=ipfU4FdjYGM).
 
 ### Keynote
 
 :Title: Can convening a technology ecosystem help TREs to work together?
 :Speaker: [Emily Jefferson (CTO, HDR UK)](https://www.hdruk.ac.uk/people/emily-jefferson/)
-:Recording: **TBA**
+:Recording: https://www.youtube.com/watch?v=ipfU4FdjYGM
 
 #### Introduction
 
@@ -152,14 +153,16 @@ The talk finished with a call to action to:
 
 - Talk to HDR UK about what they should include in this landscape, and work together with them on co-creating solutions.
 
-The session ended with a short Q&A, which can be found on the [recording of the session]().
+The session ended with a short Q&A, which can be found on the [recording of the session](https://www.youtube.com/watch?v=ipfU4FdjYGM).
 
 ### Lightining Talks
 
 There were 26 lightning talks given on the day from across the community.
 
 To ensure everyone had a chance to present we randomly split the talks and the audience into two rooms to ensure as much mixing of ideas as possible.
-All talks were recorded and are available on the [UK TRE Community YouTube channel]().
+All talks were recorded:
+- Room 1: https://www.youtube.com/watch?v=bn2ebeH4O6I
+- Room 2: https://www.youtube.com/watch?v=tzW36NXvmsA
 
 All talks were a maximum of **5 minutes long**, with a focus on sharing knowledge and discovering opportunities for collaboration.
 
