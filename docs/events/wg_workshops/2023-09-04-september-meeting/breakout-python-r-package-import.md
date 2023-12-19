@@ -8,7 +8,16 @@
 
 ### Summary
 
+Currently TREs allow access to PyPI and CRAN for less-sensitive data but only specific packages for more sensitive data.
+Yet there is a variety of current approaches (some TREs have CRAN access while others do not).
+Even though there are controls if there was a malicious python/R package, you could still just write the same thing inside the environment.
+It is challenging to establish the line between R & Python files and AI/ML models.
+
+Regarding egress there are challenges around the labour intensiveness of it, for which there are some autimated tools.
+
 ### Next Steps
+
+- Collaborate on a shared allowlist/blocklist for packages
 
 ## Raw Notes
 
