@@ -14,12 +14,6 @@
 - James Robinson
 - Sarah Stewart
 
-## Overview
-
-### Summary
-
-### Next steps
-
 ## Raw notes
 
 ### Handwritten notes
