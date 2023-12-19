@@ -4,7 +4,10 @@
 
 ### Summary
 
-### Next Steps
+This is the model of [OpenSAFELY](https://www.opensafely.org/).
+Questions explored were how to ensure that the provided metadata is sufficient, how to extend the approach to more complex data (highly relational/linked databases) and the implied need of code review before running on actual data.
+
+In summary this can be done but there are limitations.
 
 ## Raw notes
 
