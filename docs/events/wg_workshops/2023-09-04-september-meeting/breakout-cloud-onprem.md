@@ -12,7 +12,17 @@
 
 ### Summary
 
+The main decision drivers are security and cost.
+Cloud is more flexible for projects with different funding sources and does not requires an expensive data centre for research institutions but does not offer the highest levels of security.
+
+A potential solution is a hybrid model where you get a cloud-like infrastructure on an on-prem compute.
+
+Cloud provision via Jisc (as oppose to direct with the cloud provider) can be cheaper and it also handles SSO: https://www.jisc.ac.uk/forms/uk-access-management-federation-sign-up#
+Resources: Google RADLab: https://cloud.google.com/blog/topics/public-sector/googles-new-rad-lab-solution-helps-spin-cloud-projects-quickly-and-compliantly
+
 ### Next steps
+
+- Develop a roadmap plan for a hybrid, cloud-agnostic model
 
 ## Raw Notes
 
