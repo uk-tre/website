@@ -1,7 +1,7 @@
 # UK TRE Community meeting - December 2023
 
 :Date: Tuesday 5th December 2023 13:30-17:00
-:Slides: [**INSERT ZENODO LINK**]
+:Slides: https://zenodo.org/records/10370931
 :Recording: https://youtu.be/LbxLZudqjOA
 
 ```{toctree}
