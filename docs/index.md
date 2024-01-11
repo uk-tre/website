@@ -36,7 +36,7 @@ We hope all members of the community will sign-up to this commitment.
 ## [](background/index)
 
 Find out more about the UK-TRE community, and how to join us
-:Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
+:Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-COMM&A=1
 :Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
 
 ## [](structure/index)
