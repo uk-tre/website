@@ -6,7 +6,7 @@
 
 ### Summary
 
-The session is intended to give an over view of the Community of Interest on automated risk assessment.
+The session is intended to give an overview of the Community of Interest on automated risk assessment.
 This naturally includes the risk assessment of AI models, since this is not something that can be done manually.
 
 The aim is to:

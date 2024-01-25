@@ -47,7 +47,7 @@ workshop-tre-c4-architecture
 
 ### Keynote
 
-A talk by the Community Management working group on the latest developments, funding and plans for the community.
+A talk by the Community Management Working Group on the latest developments, funding and plans for the community.
 
 #### Summary
 
@@ -117,7 +117,7 @@ To cover topics like:
 - Plan for completing output
 - Liasing with other related working groups
 
-Plan is to have present at the March meeting, and have a first outcome of a whitepaper.
+Plan is to present at the March meeting, and have a first outcome of a whitepaper.
 
 #### An architecture for extending the domain of control - custody of data working group introduction
 
@@ -137,7 +137,7 @@ To cover topics like:
 - Plan for completing output
 - Liasing with other related working groups
 
-Plan is to have present at the March meeting, and have a first outcome of a whitepaper.
+Plan is to present at the March meeting, and have a first outcome of a whitepaper.
 
 #### Researcher passports
 
@@ -155,11 +155,12 @@ _Simon Li_
 
 **Contact**: [Simon Li](mailto:spli@dundee.ac.uk)
 
-AWS are revamping their TRE offerings. They have a new open-source product "Research Engineering Studio" which replaces https://github.com/awslabs/service-workbench-on-aws
+AWS are revamping their TRE offerings.
+They have a new open-source product "Research Engineering Studio" which replaces https://github.com/awslabs/service-workbench-on-aws
 
 More info can be found here: https://docs.aws.amazon.com/res/latest/ug/overview.html and here: https://github.com/aws/res
 
-HIC are test-driving it, and are keen to shared notes and ideas with anyone else looking or planning to try it.
+HIC are test-driving it, and are keen to share notes and ideas with anyone else looking or planning to try it.
 
 Get in touch with Simon if you are interested and he'll set up a meeting for January!
 

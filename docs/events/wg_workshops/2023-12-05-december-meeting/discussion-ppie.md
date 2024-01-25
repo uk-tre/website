@@ -29,7 +29,7 @@ Next steps focused on encouraging those working within PPIE spaces to join the U
 - Is a survey needed to find this information or does this info already exist in previous landscape surveys e.g. PEDRI or DARE UK?
 - Routes for the public to engage - a landing page or signpost to on TRE Community?
 - Are there any general Public-requirements for TREs?
-  build upon section 4.8 in https://satre-specification.readthedocs.io/en/latest/pillars/supporting.html
+  build upon section 4.8 in https://satre-specification.readthedocs.io/en/v1.0.0/pillars/supporting.html
 - How TREs track and communicate data used - beyond just project info? Can patients find out what data is used?
 - Discussion around opt out and impact on data of who it is
 - How many PPIE professionals or people with PPIE as a priority joining the TRE Community sessions and mailing list?

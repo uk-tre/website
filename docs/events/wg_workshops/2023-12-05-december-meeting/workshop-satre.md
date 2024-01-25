@@ -44,9 +44,9 @@ Next steps focused on a January meeting for a working group next steps, with a f
 
 - DARE UK funded project
 - Focus to be a community project
-- Led by HIC, Dundee; Alan Turing; UCL
+- Led by HIC, Dundee; The Alan Turing Institute; UCL
 - https://satre-specification.readthedocs.io/en/latest/
-- Leanr and explore
+- Learn and explore
 - Developed specification
 - Now in maintain phase
 - Considered public impact and had patient engagement
@@ -67,27 +67,27 @@ What capacity is required to create a viable SATRE Working Group? What tasks do 
   - SATRE Fundamental to day job of defining a federated architecture of TRE
   - Pulled together driver projects to form architecture, SATRE forms part of that ongoing picture
   - Third avenue is feeding into emerging working group at Research Data Alliance. See [Recent Plenary BoF session](https://www.rd-alliance.org/trusted-research-environments-sensitive-data-fairness-closed-data-and-processes) and [draft WG charter](https://docs.google.com/document/d/1877OtQyZ46QCHVZ8_1QqRgZJPXyImZdW1qYVyKItMSQ/edit).
-- Great that SATRE invovled public, reflect this in the specification would be good for funding, and to highlight directly in the specifications where the project has reflected public/patient requests.
+- Great that SATRE involved public, reflecting this in the specification would be good for funding, and to highlight directly in the specifications where the project has reflected public/patient requests.
 - There are specific statements that came out of public involvement.
 - re above points, aligned with TRE Community application but understanding needs for funding and gaps is key.
-- Build on public engagement, on that angle, nature of spec neeeds be broad and high level, important in the public engagment section. Overlaps with other work in the wider community.
+- Build on public engagement, on that angle, nature of spec neeeds be broad and high level, important in the public engagement section. Overlaps with other work in the wider community.
 - People present happy to Chair a working group
 - Happy to co-Chair while aware of appearance of conflict.
-- Another call for the SATRE working group before Christmas to be ready for January and identify key prioirities
-- Happy to share what they are doing with the SATRE team to get feedback on theri approach
+- Another call for the SATRE working group before Christmas to be ready for January and identify key priorities
+- Happy to share what they are doing with the SATRE team to get feedback on their approach
 
-How do SDE Accreditation framework from UKSA and SATRE fit together?
+How do SDE Accreditation frameworks from UKSA and SATRE fit together?
 
 - And how do the UKSA/NHS conversations fit?
   - Anyone know how those are going?
 
 Thoughts/comments on SATRE evaluation?
 
-- NWSDE are doing SATREfication of their TRE using github rather than spreadsheet
+- NWSDE are doing SATREfication of their TRE using GitHub rather than spreadsheet
   - Have an issue for each statement
   - Aim to get to green on mandatory/amber with exception in place in first phase
   - Have created [issue to define spec in a machine readable format](https://github.com/sa-tre/satre-specification/issues/254)
-- The SATRE pointing system could have subsection SATRE-PPI scoring how many of the public requirements are being met
+- The SATRE scoring system could have subsection SATRE-PPI scoring how many of the public requirements are being met
 - Consensus there is a lot of value in having evaluation shared and exploring how others have scored but also process that goes into evaluation.
 
 ### Next steps
@@ -96,4 +96,4 @@ Thoughts/comments on SATRE evaluation?
 - Focus on evaluations with other groups
 - PIE - overlaps with PEDRI and continue engagements
 - Get alignment with Research Data Alliance?
-- CC nomiated as chair to lead SATRE working group and explore means of succession funding
+- CC nominated as chair to lead SATRE working group and explore means of succession funding

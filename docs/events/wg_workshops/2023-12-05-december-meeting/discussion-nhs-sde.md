@@ -20,14 +20,14 @@ The NHS SDE team hopes to be more directly involved with the community going for
 
 ## Raw notes
 
-- High level context of definitions -
+- High level context of definitions
 - 11 Regional SDEs across England + National NHSE SDE
 - Different types of SDEs
   - some curate only
   - some curate + have technical environment for analysis
 - NHS Research SDE Network - HDRI Gateway
 - Challenges in federation, working across multiple TRE
-- Direction of travel is that health data will exist in SDEs - policy will default to SDEs, but it ma
+- Direction of travel is that health data will exist in SDEs - policy will default to SDEs
 - Do you go for a fully federated set up?
 - Requires common set of standards
 - There's a long road ahead in terms of maturity, will likely have to temporarily settle for sub-optimal solutions as the situation evolves

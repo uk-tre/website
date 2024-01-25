@@ -39,10 +39,10 @@ Tips were also shared on how to make manual checking simpler.
 
 - TIPS
 
-  - Try and encourage researchers to do more than the minimum - encourage they undertake the Safe Principals course so they understand how to police themselves.
+  - Try and encourage researchers to do more than the minimum - encourage them to undertake the Safe Principals course so they understand how to police themselves.
   - Request a certain format/template to make it easier for both automated and manual checks.
   - Encourage project lead to approve prior to submitting for automated checks.
-  - Options such as Azure Cognitive Seach have been used successfully in the financial sector previously to look for individual PII.
+  - Options such as Azure Cognitive Search have been used successfully in the financial sector previously to look for individual PII.
   - SACRO also provides options for adding comments that can be shared between researcher and reviewer through the process.
 
 - KEY MESSAGES

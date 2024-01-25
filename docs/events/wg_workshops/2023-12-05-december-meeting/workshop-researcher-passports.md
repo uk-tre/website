@@ -95,7 +95,7 @@ Achieving the perfect system may take a long time, but an MVP-style system that 
 
 There was a question of whether an independent body needs to exist to accredit these passports, or whether providing appropriate researcher details would be sufficient on a TRE-by-TRE basis.
 
-Further discussions centred around processes to interrogate validity of researcher records, how to record 'untrustworthy' researchers, and how to accommodate different levels of permission for different researchers, depending on how sensitive the project they are working on is
+Further discussions centred around processes to interrogate validity of researcher records, how to record 'untrustworthy' researchers, and how to accommodate different levels of permission for different researchers, depending on how sensitive the project they are working on is.
 
 ### Raw notes
 
@@ -106,9 +106,9 @@ Further discussions centred around processes to interrogate validity of research
   - Applicant must supply CV
   - Applicant supplies any relevant papers/publications
   - Email / Telephone number provided
-  - Institue contact to check alignment
+  - Institute contacted to check alignment
 - Since inception, ~30,000 applicants. Very manual, painful process. Process takes between ~10-60mins per application.
-- Would other TRE/SDEs be willing to use the collected researcher verifications from already accepted UK Biobank DB?
+- Would other TRE/SDEs be willing to use the collected researcher verifications already accepted from UK Biobank DB?
 - An automated system that provided a full history of researchers would free up time from our point of view. We don't vet their skills or what coding languages they're familiar with. Just that they are who they say they are.
 - The perfect system could take "15 years" to cover all eventualities. Start with the basics to build an MVP style verification. A global "fits all" will likely end up in nothing being delivered.
 - Bona fide researcher
@@ -116,7 +116,7 @@ Further discussions centred around processes to interrogate validity of research
   - Is a system like this needed? Yes, but adoption becomes key. Our numbers are smaller than those of very established TREs.
   - 5 safe's already sets the path for people verification
   - Process:
-    - Due diligence against bna fide "employee and employer" - treated as a single entity by LLC.
+    - Due diligence against bona fide "employee and employer" - treated as a single entity by LLC.
     - Conflicts. Look at CV, training and track record. How people who have multiple employers may have conflicts in application.
   - Question:
     - Who is going to do the accrediting of these passports?

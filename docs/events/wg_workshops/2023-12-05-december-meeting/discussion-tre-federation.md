@@ -25,7 +25,7 @@ The need to map the ecosystem was highlighted, to show where the influence lies 
 
 The need to factor in data and information governance, in tandem with any technical solution, was highlighted.
 
-Next steps include setting up a high-levle federation working group, and use this to explore critical topics within the idea of federation.
+Next steps include setting up a high-level federation working group, and use this to explore critical topics within the idea of federation.
 
 ## Raw notes
 
@@ -93,4 +93,4 @@ Next steps include setting up a high-levle federation working group, and use thi
     - What is the sound of one hand clapping?
   - Governance around this broader idea of a TRE as a "federation of smaller sub-TREs"
     - Is "thinking federal" from the get-go useful? Possible?
-  - Data & queries: how can we ever harmonise data enough for a federated query to return coparable answers?
+  - Data & queries: how can we ever harmonise data enough for a federated query to return comparable answers?
