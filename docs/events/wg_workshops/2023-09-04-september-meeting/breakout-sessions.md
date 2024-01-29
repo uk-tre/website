@@ -1,7 +1,7 @@
 # Breakout sessions
 
 ```{toctree}
-:maxdepth: 0
+:maxdepth: 1
 :hidden: true
 
 breakout-ai-ml-llm
