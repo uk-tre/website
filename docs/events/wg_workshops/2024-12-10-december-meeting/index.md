@@ -1,4 +1,4 @@
-# Provisional: UK TRE Community meeting - June 2024
+# Provisional: UK TRE Community meeting - December 2024
 
 :Provisional Date: [Tuesday 3rd December 2024](https://arewemeetingyet.com/London/2024-12-03/00:00/UK%20TRE%20Community%20meeting)
 :Time: To be decided
