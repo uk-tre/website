@@ -42,6 +42,12 @@ html_theme_options = {
 }
 
 # -- Link checker configuration
+
+linkcheck_ignore = [
+    # GitHub CI linkchecker seems to be blocked
+    r"https://www.turing.ac.uk/.*"
+]
+
 # These pages use in-page JavaScript anchors which aren't seen by the link checker
 linkcheck_anchors_ignore_for_url = [
     r"https://www\.swansea\.ac\.uk/the-university/location/",
