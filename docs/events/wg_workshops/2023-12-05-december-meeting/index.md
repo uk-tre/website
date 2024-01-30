@@ -5,7 +5,7 @@
 :Recording: https://youtu.be/LbxLZudqjOA
 
 ```{toctree}
-:maxdepth: 0
+:maxdepth: 1
 :hidden: true
 
 discussion-local-cloud-hosting
