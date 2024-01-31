@@ -71,7 +71,7 @@ To provide the space to signpost, share knowledge and facilitate conversations a
 
 The talk then went into detail on the proposed work for the next 4 months.
 This was based on the proposal submitted for the DARE UK Community groups funding.
-More detail can be found in the [our focus section]()
+More detail can be found in the [full proposal](https://zenodo.org/records/10593493)
 
 ### Community updates
 
