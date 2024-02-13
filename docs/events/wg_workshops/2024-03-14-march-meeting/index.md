@@ -7,7 +7,7 @@
 
 ## Background
 
-​​The UK TRE Community is a community of over 200 people that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors, managers and more, from all sectors and disciplines. 
+​​The UK TRE Community is a community of over 200 people that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors, managers and more, from all sectors and disciplines.
 
 ​​The core aims of fostering collaboration and sharing of innovative ideas to support the delivery of groundbreaking research with sensitive data have resonated across the UK and beyond.
 
