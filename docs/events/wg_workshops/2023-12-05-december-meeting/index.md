@@ -87,8 +87,8 @@ Pete advertised a new working group to be formed called `SDEs, TREs etc - termin
 
 There will two open sessions in January:
 
-- [Tuesday 9th January 2pm-3pm](https://crick.zoom.us/meeting/register/u5Mtf-yoqzooH9zP9q2fzeQ1qMM_Jh_yzC6s)
-- [Wednesday 17th January 3pm-4pm](https://crick.zoom.us/meeting/register/u5Erd-2srzMqGNITfSFEUvx4MilT5Ji6ov8i)
+- Tuesday 9th January 2pm-3pm
+- Wednesday 17th January 3pm-4pm
 
 To cover topics like:
 
@@ -107,8 +107,8 @@ Pete advertised a new working group to be formed called `The citizen and their i
 
 There will two open sessions in January:
 
-- [Tuesday 9th January 11am-12pm](https://crick.zoom.us/meeting/register/u5csc-iqpjguGdUmSzXqcvhC2c1MgX6cEh0q)
-- [Wednesday 17th January 10am-11am](https://crick.zoom.us/meeting/register/u50ldu6srzguHdfvRBxuwRoJn8VTS7yBV78W)
+- Tuesday 9th January 11am-12pm
+- Wednesday 17th January 10am-11am
 
 To cover topics like:
 
@@ -127,8 +127,8 @@ Pete advertised a new working group to be formed called `An architecture for ext
 
 There will two open sessions in January:
 
-- [Wednesday 10th January 10am-11am](https://crick.zoom.us/meeting/register/u5cuceGhrzMrH9EPh3tFZiRoPPxrsN277MZJ)
-- [Tuesday 16th January 2pm-3pm](https://crick.zoom.us/meeting/register/u5cqcu6hqDojE9J7SchkzeUpqjOwRQ-Vh3cN)
+- Wednesday 10th January 10am-11am
+- Tuesday 16th January 2pm-3pm
 
 To cover topics like:
 
