@@ -71,7 +71,7 @@ Next steps include setting up a high-level federation working group, and use thi
   - So do we need a concept beyond a TRE? Do we need a new phrase / name?
   - TREs that are designed from the outset to federate?
 - DataSHIELD has been around for 10 years - not complete but huge open source community of researchers.
-  - And there is this -> https://www.hpe.com/us/en/solutions/ai-artificial-intelligence.html
+  `- And there is this -> https://www.hpe.com/us/en/solutions/ai-artificial-intelligence.html
 - Data always move - even Genomics which are years ahead, the raw data does not move but the findings from the genomics do - that's data
 - NHS SDE - adopting OMOP I believe - seeking to share maps across SDEs rather than each doing own
 - I think the big challenge is around people understanding this space and removing the IG blockers.
