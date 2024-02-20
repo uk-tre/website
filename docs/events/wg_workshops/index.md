@@ -1,5 +1,19 @@
 # Community Workshops
 
+## Planned meetings
+
+```{toctree}
+:maxdepth: 1
+
+2024-03-14-march-meeting/index
+2024-06-05-june-meeting/index
+2024-09-02-september-meeting/index
+2024-12-10-december-meeting/index
+
+```
+
+## Previous meetings
+
 ```{toctree}
 :maxdepth: 1
 

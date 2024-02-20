@@ -10,10 +10,10 @@ background/index
 structure/index
 ```
 
-```{admonition} UK-TRE December 2023 meeting
+```{admonition} UK-TRE March 2024 meeting
 :class: attention
 
-The [UK-TRE December 2023 meeting](events/wg_workshops/2023-12-05-december-meeting/index) will be held online on Monday 5th December 2023.
+The [UK-TRE March 2024 meeting](events/wg_workshops/2024-03-14-march-meeting/index) is provisionally organised for Thursday 14th March 2024. More details soon!
 ```
 
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
@@ -37,7 +37,7 @@ We hope all members of the community will sign-up to this commitment.
 
 Find out more about the UK-TRE community, and how to join us
 :Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-COMM&A=1
-:Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
+:Slack channel: https://uktrecommunity.slack.com/
 
 ## [](structure/index)
 

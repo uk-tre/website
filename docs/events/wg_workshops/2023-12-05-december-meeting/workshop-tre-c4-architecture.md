@@ -2,7 +2,9 @@
 
 **Lead:** Joe Leach (Tower Hamlets)
 
-## Summary
+## Proposal
+
+### Summary
 
 This workshop will run some research questions through a draft TRE design for a HDRC (Health Determinants Research Collaborative).
 This design exposes the interfaces between architecture and trust for regulatory control of research data management.
@@ -22,10 +24,37 @@ You’d be forgiven for thinking this TRE sounds like a sandbox, but the special
 
 To help communicate this approach to TRE design, we have experimented with analogies such as central reference libraries and air traffic control, and will workshop some examples to round off this thought experiment.
 
-## Preparation
+### Preparation
 
 Ideally participants would be familiar with [The Goldacre Review](https://www.goldacrereview.org/), though this is not critical!
 
-## Target audience
+### Target audience
 
 Colleagues from data science, engineering, and governance.
+
+## Session
+
+### Summary
+
+This workshop introduced the idea of TREs within local council work, making specific reference to the London NHS SNSDE, and how Structurizr can be used for rendering C4 diagrams of data architecture.
+
+Next steps include publishing the design that was workshopped and discussed.
+
+### Raw notes
+
+- Brief introduction of London Borough of Tower Hamlets and Health Determinants Research Collaboration (HDRC)
+- Brief Introduction - subnational NHS SDE
+- The importance of metadata architecture as a foundation to TRE
+- Introduction to C4 model: https://c4model.com/
+- TRE design in HDRC/ local authority:
+  - To comply with the data governance, the linked dataset (administrative and NHS data) needs to be stored in data haven that are accredited.
+  - Such challenges in data storage and handling make it difficult to facilitate a collaborative research environment under the current data system.
+  - As such, TRE provides a possible solution to offer a playground/ sandbox to allow researchers from council, community, academia etc. to access and analyse the dataset.
+  - Still, the team still faces other issues, IG of NHS data, pipeline to get linked dataset out of the data haven to the TRE, etc.
+- Regional London SDE applies to governance on health data, especially for linking
+- Subnational SDEs not quite ready for this type of research!
+- Usefulness of Structurizr for rendering C4 diagrams of data architecture - as a text based modelling language, you can do your version control with git! - you can incorporate data models (Entity Relations) as images at the lowest "Code" level perspective of diagramming
+
+#### Next steps
+
+- publish the design discussed?
