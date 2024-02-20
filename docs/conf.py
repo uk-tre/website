@@ -47,7 +47,7 @@ linkcheck_ignore = [
     # GitHub CI linkchecker seems to be blocked
     r"https://www.turing.ac.uk/.*",
     r"https://www.hpe.com/.*",
-    r"https://csrc.nist.gov/.*"
+    r"https://csrc.nist.gov/.*",
 ]
 
 # These pages use in-page JavaScript anchors which aren't seen by the link checker
