@@ -21,7 +21,7 @@ _Chair: Will Crocombe (RISG Consulting)_
 - Dropping down tiers, things become easier. Turing paper on this - Sheffield used this as the basis of their system for assessing risk.
 - [Alan Turing Institute paper](https://arxiv.org/pdf/1908.08737.pdf)
 - Importance of agreed risk classification with federation, and agreement on risk appetite
-- NIST RMF: `<https://csrc.nist.gov/projects/risk-management/about-rmf>`
+- [NIST RMF](https://csrc.nist.gov/projects/risk-management/about-rmf)
 - [NCSC](https://www.ncsc.gov.uk/collection/risk-management-collection)
 - [Harvard DataTags](https://github.com/IQSS/DataTaggingLibrary)
 - [UK Data Service data types](https://ukdataservice.ac.uk/help/access-policy/types-of-data-access/)
