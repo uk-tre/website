@@ -41,7 +41,7 @@ This report summarises the sessions of the day, as laid out in the schedule belo
 Recordings of the morning session, including the Welcome, Keynote, and Lightning Talks, are [available on YouTube](https://www.youtube.com/channel/UCd7AZjyH33aCmIojGHMfqEg).
 More detail of the breakout sessions can be found in their respective notes from the day, which are linked in each summary below.
 
-#### Schedule
+### Schedule
 
 ```{list-table}
 :widths: 100 300
