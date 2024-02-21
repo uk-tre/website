@@ -25,6 +25,8 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 myst_enable_extensions = ["fieldlist", "linkify"]
 myst_linkify_fuzzy_links = False
 
+# Automatically create anchors for in-page headings up to level 3
+myst_heading_anchors = 4
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
