@@ -1,6 +1,6 @@
 # UK TRE Community meeting - March 2024
 
-:Date: [Thursday 14th March 2024](https://arewemeetingyet.com/London/2024-03-14/00:00/UK%20TRE%20Community%20meeting)
+:Date: [Thursday 14th March 2024](https://arewemeetingyet.com/London/2024-03-14/09:30/UK%20TRE%20Community%20meeting)
 :Time: 09:30 - 13:00
 :Registration: https://lu.ma/n7yybonh
 :Location: Online
