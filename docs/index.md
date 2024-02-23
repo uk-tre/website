@@ -13,7 +13,7 @@ structure/index
 ```{admonition} UK-TRE March 2024 meeting
 :class: attention
 
-The [UK-TRE March 2024 meeting](events/wg_workshops/2024-03-14-march-meeting/index) is provisionally organised for Thursday 14th March 2024. More details soon!
+[Register for the UK-TRE March 2024 meeting](https://lu.ma/n7yybonh) (09:30 Thursday 14th March) now!
 ```
 
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
