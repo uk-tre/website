@@ -9,7 +9,7 @@
 The session will be on "Trenity", a new solution for managing data, projects, users, and file transfers in TREs.
 
 We will demo some features and also offer trials to members.
-We are also looking for voluteers to test the product and give us feedback.
+We are also looking for volunteers to test the product and give us feedback.
 
 Our Goal with Trenity to create a one tool solution for managing tasks and activities in a TRE.
 
