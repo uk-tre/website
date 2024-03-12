@@ -5,6 +5,20 @@
 :Registration: https://lu.ma/n7yybonh
 :Location: Online
 
+```{toctree}
+:maxdepth: 1
+:hidden: true
+
+demo-kings-tre
+demo-scotland-ras
+demo-trenity
+discussion-researcher-verification
+workshop-community-governance
+workshop-cybersecurity-risk
+workshop-glossary
+workshop-sde-tre-definitions
+```
+
 ## Background
 
 ​​The UK TRE Community is a community of over 200 people that has grown organically over the last year for anyone interested in TREs, including researchers, operators, information governors, managers and more, from all sectors and disciplines.
