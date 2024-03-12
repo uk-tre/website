@@ -45,7 +45,7 @@ We also run quarterly events like this for the community to come together, discu
 
 ### Keynote
 
-Dr Chris Russell, Head of NHS Research SDE Network: Data for R&D | Transformation Directorate
+Dr Chris Russell, Head of NHS Research SDE Network: Data for R&D
 
 ### Community updates
 
