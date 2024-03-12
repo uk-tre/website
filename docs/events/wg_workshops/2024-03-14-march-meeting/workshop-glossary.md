@@ -5,11 +5,13 @@
 ## Proposal
 
 ### Summary
+
 TBC
 
-
 ### Required preparation
+
 TBC
 
 ### Target audience
+
 TBC
