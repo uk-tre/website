@@ -71,7 +71,9 @@ _Rob Baxter_
 
 #### Session 1
 
-TBA
+- [](./workshop-community-governance.md)
+- [](./demo-scotland-ras.md)
+- [](./)
 
 #### Session 2
 
