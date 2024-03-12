@@ -2,7 +2,7 @@
 
 **Lead**: Rob Baxter (DARE UK)
 
-## Proposal
+## Proposal
 
 ### Summary
 

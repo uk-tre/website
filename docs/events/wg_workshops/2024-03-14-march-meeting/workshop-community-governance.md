@@ -2,7 +2,7 @@
 
 **Leads**: David Sarmiento (Turing), Hari Sood (Turing)
 
-## Proposal
+## Proposal
 
 ### Summary
 

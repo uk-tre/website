@@ -2,7 +2,7 @@
 
 **Lead**: Michael Dania (Aenon)
 
-## Proposal
+## Proposal
 
 ### Summary
 

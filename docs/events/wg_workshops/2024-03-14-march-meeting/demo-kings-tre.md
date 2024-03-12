@@ -2,7 +2,7 @@
 
 **Lead**: Michal Rosiek (KCL)
 
-## Proposal
+## Proposal
 
 ### Summary
 

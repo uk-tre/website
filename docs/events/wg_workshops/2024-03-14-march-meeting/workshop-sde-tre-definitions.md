@@ -2,7 +2,7 @@
 
 **Lead**: Madalyn Hardaker (KCL)
 
-## Proposal
+## Proposal
 
 ### Summary
 

@@ -2,7 +2,7 @@
 
 **Lead**: Paul Jackson (Research Data Scotland)
 
-## Proposal
+## Proposal
 
 ### Summary
 

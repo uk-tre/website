@@ -2,7 +2,7 @@
 
 **Leads**: Jim Madge (Turing), Ruairidh Macleod (EPCC), Martin O'Reilly (Turing), Donald Scobbie (EPCC)
 
-## Proposal
+## Proposal
 
 ### Summary
 
