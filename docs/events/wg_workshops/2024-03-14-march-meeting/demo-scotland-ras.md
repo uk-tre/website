@@ -13,6 +13,10 @@ It says this is achieved by minimising the data as far as possible given the nee
 
 TREs are the perfect way to comply with GDPR when facilitating scientific research.
 
+Research Data Scotland is building up a national infrastructure to deliver compliance with this legal framework with a project approval and governance framework designed to be as efficient and effective as possible, significantly shortening project approval timelines, and reducing the bureaucracy for all parties.
+
+In this session we'll share progress on this infrastructure and get feedback and thoughts from the community.
+
 ### Required preparation
 Read GDPR recitals 26 and156, and article 89.
 
