@@ -8,7 +8,7 @@
 
 The UK TRE Community received funding as part of the [DARE UK Community grants call](https://dareuk.org.uk/funding-opportunity-dare-uk-invites-applications-for-funding-from-new-and-existing-community-groups/).
 This funding allowed for dedicated time from David (0.5 FTE) and Hari (0.5 FTE) between November and March to work on key community deliverables.
-The full funding application can be downloaded here - {download}`DARE UK Community Groups Funding Application - UK TRE <../../../_static/dare_uk_funding.pdf>`
+The full funding application can be downloaded here - [DARE UK Community Groups Funding Application - UK TRE](https://zenodo.org/records/10593493)
 
 In this session, we want to dive deeper into the work we've been doing, and get feedback from the community.
 Specific things we'd like to cover include:
