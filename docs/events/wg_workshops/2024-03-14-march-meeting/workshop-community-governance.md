@@ -21,6 +21,7 @@ Specific things we'd like to cover include:
 
 None required, but reading over the links above (website and governance docs) would help the discussion.
 
+Those that want to can also explore [our public board](https://github.com/orgs/uk-tre/projects/1/views/1) that reflect the work done over this period
 ### Target audience
 
 Anyone interested in how the community is run!
