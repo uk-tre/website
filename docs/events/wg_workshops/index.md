@@ -1,8 +1,23 @@
 # Community Workshops
 
-```{toctree}
-:maxdepth: 2
+## Planned meetings
 
+```{toctree}
+:maxdepth: 1
+
+2024-03-14-march-meeting/index
+2024-06-05-june-meeting/index
+2024-09-02-september-meeting/index
+2024-12-10-december-meeting/index
+
+```
+
+## Previous meetings
+
+```{toctree}
+:maxdepth: 1
+
+2023-12-05-december-meeting/index
 2023-09-04-september-meeting/index
 2023-06-28-june-meeting/index
 2023-03-29-march-meeting/index
@@ -41,6 +56,6 @@ The meetings vary slightly from session to session, however they broadly follow 
 
 ### How to get involved
 
-Sign-up for the mailing list to be kept up to date with the latest events, and more: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
+Sign-up for the mailing list to be kept up to date with the latest events, and more: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-COMM&A=1
 
 If you have any questions please email Hari Sood [(hsood@turing.ac.uk)](mailto:hsood@turing.ac.uk) or Simon Li [(spli@dundee.ac.uk)](mailto:s.p.li@dundee.ac.uk).

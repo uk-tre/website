@@ -10,11 +10,10 @@ background/index
 about/index
 ```
 
-```{admonition} UK-TRE September meeting
+```{admonition} UK-TRE March 2024 meeting
 :class: attention
 
-Registration for the [UK-TRE September meeting is now live!](events/wg_workshops/2023-09-04-september-meeting/index)
-The biggest meetup of the UK TRE community to date with presentations, breakout discussions and a keynote from HDR UK on the future of TREs.
+[Register for the UK-TRE March 2024 meeting](https://lu.ma/n7yybonh) (09:30 Thursday 14th March) now!
 ```
 
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
@@ -37,8 +36,8 @@ We hope all members of the community will sign-up to this commitment.
 ## [](background/index)
 
 Find out more about the UK-TRE community, and how to join us
-:Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-TRE-COMM&A=1
-:Slack channel: https://uktrecommunity.slack.com
+:Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-COMM&A=1
+:Slack channel: https://uktrecommunity.slack.com/
 
 ## [](about/index)
 
