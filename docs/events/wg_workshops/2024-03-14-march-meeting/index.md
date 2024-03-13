@@ -71,7 +71,7 @@ _Katie Oldfield_
 We funded eight projects across Scotland to carry out public engagement activities around data.
 Their findings, summaries and contact details are available online for more info https://www.researchdata.scot/our-work/shaping-our-services/public-engagement/
 
-#### DARE federated architecture bluepriont v. 2.0 out soon
+#### DARE federated architecture blueprint v. 2.0 out soon
 
 _Rob Baxter_
 
