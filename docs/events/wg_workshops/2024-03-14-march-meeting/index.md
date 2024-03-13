@@ -108,12 +108,6 @@ _Chris Cole_
 
 We had a successful meeting on 27th Feb where several topics around implementation, evaluation and accreditation were discussed which we’re in the process of bringing together and reporting on.
 
-#### Working Groups
-
-- Community management working group
-- SATRE working group
-- Glossary working group
-
 ### Breakout sessions
 
 #### Session 1
