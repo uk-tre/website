@@ -81,8 +81,8 @@ _Rob Baxter_
 
 _Pete Barnsley_
 
-The UK TRE Working Group on Citizen Agency has recently developed a draft scope and output report framework  [available here](https://github.com/FrancisCrickInstitute/UK_TRE/tree/main/Citizen%20Agency%20Working%20Group).
- 
+The UK TRE Working Group on Citizen Agency has recently developed a draft scope and output report framework [available here](https://github.com/FrancisCrickInstitute/UK_TRE/tree/main/Citizen%20Agency%20Working%20Group).
+
 It was recognised that citizens could have much more involvement in research and this would be a good thing.
 How it relates to Information Governance and data release processes is a key area.
 
@@ -93,10 +93,10 @@ Input to the proposed Discussion Document is particularly welcome - ideas on ser
 
 _Pete Barnsley_
 
-The UK TRE Working Group on Extending Control  has recently developed a draft scope and output report framework  [available here](https://github.com/FrancisCrickInstitute/UK_TRE/tree/main/Extending%20Control%20Working%20Group).
- 
+The UK TRE Working Group on Extending Control has recently developed a draft scope and output report framework [available here](https://github.com/FrancisCrickInstitute/UK_TRE/tree/main/Extending%20Control%20Working%20Group).
+
 It was generally recognised this is a key area, how Information Governance can be extended by technology, but views on how and the extent to which they differ are varied.
- 
+
 It would be very useful if everyone read the initial reports from January, and shared views on issuing a “Request for Input”.
 
 This process would collect solutions, or components to one, and ideas on how extending control can be implemented.  
@@ -107,8 +107,6 @@ Also it would be helpful to have thought about the constituencies that should be
 _Chris Cole_
 
 We had a successful meeting on 27th Feb where several topics around implementation, evaluation and accreditation were discussed which we’re in the process of bringing together and reporting on.
-
-
 
 #### Working Groups
 
