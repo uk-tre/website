@@ -19,7 +19,7 @@ Questions we should ponder:
 
 ### Required preparation
 
-[Over here](https://docs.google.com/spreadsheets/d/1qublBBkpYpNgwKm5HPFD1F7WPvaYaBpY/edit#gid=1421062944) is a first pass, bringing together two glossaries from DataMind and the DARE UK Driver Project Programme 2023.
+[Over here](https://docs.google.com/spreadsheets/d/1qublBBkpYpNgwKm5HPFD1F7WPvaYaBpY) is a first pass, bringing together two glossaries from DataMind and the DARE UK Driver Project Programme 2023.
 Take a look if you’ve time.
 
 Couple of remarks: each was quite extensive, and the overlap between them was only around 2%; each has “project-” or “technology-specific” terms – should we drop terms like this?
