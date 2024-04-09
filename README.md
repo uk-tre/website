@@ -20,7 +20,7 @@ This repository is for the UK-TRE community website hosted on Read the Docs http
 Anyone can join our mailing list and attend our meetings, you do not need to provide any information other than your email address.
 
 :Mailing list: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-COMM&A=1
-:Slack channel: https://ukrse.slack.com/archives/C045ETUPPD0
+:Slack channel: https://join.slack.com/t/uktrecommunity/shared_invite/zt-2gep86apc-QMLyIdrC2oIIsxTRzLxUqA
 
 # :family: Community and Support
 
