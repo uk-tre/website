@@ -10,10 +10,10 @@ background/index
 structure/index
 ```
 
-```{admonition} UK-TRE March 2024 meeting
+```{admonition} UK-TRE June 2024 meeting
 :class: attention
 
-[Register for the UK-TRE March 2024 meeting](https://lu.ma/n7yybonh) (09:30 Thursday 14th March) now!
+[Register for the UK-TRE June 2024 meeting](https://lu.ma/trntu1di) (13:30 Wednesday 5th June) now!
 ```
 
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
