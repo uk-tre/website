@@ -50,6 +50,9 @@ linkcheck_ignore = [
     r"https://www.turing.ac.uk/.*",
     r"https://www.hpe.com/.*",
     r"https://csrc.nist.gov/.*",
+    # Currently down
+    r"https://www.goldacrereview.org/",
+    r"https://www.rd-alliance.org/trusted-research-environments-sensitive-data-fairness-closed-data-and-processes",
 ]
 
 # These pages use in-page JavaScript anchors which aren't seen by the link checker

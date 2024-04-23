@@ -33,4 +33,4 @@
 
 ## Get involved
 
-Email Hari (hsood@turing.ac.uk) if you would like to be part of this working group!
+Email David (dsarmientoperez@turing.ac.uk) if you would like to be part of this working group!
