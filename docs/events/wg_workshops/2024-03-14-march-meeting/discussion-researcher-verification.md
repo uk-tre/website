@@ -30,22 +30,22 @@ Challenges and considerations included aligning accreditation meanings across di
 
 #### Next steps
 
-- Slides and break out notes to be circulated following the meeting. 
+- Slides and break out notes to be circulated following the meeting.
 - Interested in working with us to provide requirements and/or test a researcher passport solution? Please contact rachel.tesfaye@hdruk.ac.uk
 
 ### Raw notes
 
 - Interested in how long a Researcher Registry/"passport" is valid for because this links with some of the work he does. He has worked with metadata within the context of national SDEs and worked with the likes of Andy Payne. Consider the metadata catalog as the Registry might have its own catalog but still use that passport to let a data custodian/controller know if that's the same person and then they can make the decision on access. Accreditation might mean different things at different organisations and that's where the trickiness potentially comes in because you're not comparing apples the more example
-    - In practice the the Researcher Registry itself would would have digital identifier aligned with the [DSIT digital identity framework](https://www.gov.uk/guidance/digital-identity). Identifiers or attributes associated with a researchers identity, experience, training and affiliation would make up a "living ledger" for that individual researcher. We're still currently exploring use of blockchain technology for the system in terms of immutable history/information versus mutable information. There may be elements of both built into the prototype to give a relatively complete view of the the researchers accreditations e.g. training and equivalent accreditation criteria from the ONS and UKSA for example
+  - In practice the the Researcher Registry itself would would have digital identifier aligned with the [DSIT digital identity framework](https://www.gov.uk/guidance/digital-identity). Identifiers or attributes associated with a researchers identity, experience, training and affiliation would make up a "living ledger" for that individual researcher. We're still currently exploring use of blockchain technology for the system in terms of immutable history/information versus mutable information. There may be elements of both built into the prototype to give a relatively complete view of the the researchers accreditations e.g. training and equivalent accreditation criteria from the ONS and UKSA for example
 - This is about proving identity and experience, not making decision about whether someone should be let in or not as that's a TREs decision.Consider whether they're in the registry or whether they're visas issued by these truth of being being allowed in those
-    - We do want to pull information from from ORCHID and and IRAS from an ethics perspective but it also looking at authentication methods.
+  - We do want to pull information from from ORCHID and and IRAS from an ethics perspective but it also looking at authentication methods.
 - Would it be up to a TRE to make decision and weather to better researcher a research team or research organisation.
-    - Yes. In terms of the research entity where referring to the individual researcher as the organisational information. It would be up to the TRE to take teh decision to grant access. The purpose of the Registry would be to pull information together from different systems included in an agreed common vetting model, to enable TREs decision making around data access.
+  - Yes. In terms of the research entity where referring to the individual researcher as the organisational information. It would be up to the TRE to take teh decision to grant access. The purpose of the Registry would be to pull information together from different systems included in an agreed common vetting model, to enable TREs decision making around data access.
 - Project ethics and permissions also need to be a criteria, not just previous projects.
-    - We have engaged with HRA to discuss pulling ethics information from IRAS.
+  - We have engaged with HRA to discuss pulling ethics information from IRAS.
 - Who'll be responsible for keeping the registry up to date?
 
-
 #### Next steps
-- Slides and break out notes to be circulated following the meeting. 
+
+- Slides and break out notes to be circulated following the meeting.
 - Interested in working with us to provide requirements and/or test a researcher passport solution? Please contact rachel.tesfaye@hdruk.ac.uk

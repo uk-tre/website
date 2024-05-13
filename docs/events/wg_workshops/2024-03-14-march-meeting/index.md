@@ -75,7 +75,7 @@ Their findings, summaries and contact details are available online for more info
 
 _Rob Baxter_
 
- The DARE UK federated architecture blueprint 2.0 incorporates some new architectural elements identified and developed through the 2023 Driver Project programme
+The DARE UK federated architecture blueprint 2.0 incorporates some new architectural elements identified and developed through the 2023 Driver Project programme
 
 #### Working Groups
 
@@ -133,27 +133,15 @@ Summaries of the discussion held as well as the raw notes taken on the day are a
 - [](./demo-trenity.md)
 - [](./workshop-community-governance.md)
 
-
-
-
 ## Breakout Session 1, Room 2: Glossary working group scoping
-
-
 
 ## Breakout Session 1, Room 3: Recognising, and implementing, the GDPR and Data Protection Act provisions for scientific research in Scotland’s Research Access Service
 
-
-
-
 ## Breakout Session 1, Room 4: UK TRE Community Governance and progress
-
-
 
 Complete notes taken during the session: Room 4[UK TRE Community Governance and progress](https://hackmd.io/Vvdzld4NTO6-4Dt5m_poLQ) - Discussion
 
-
 **Next steps**
-
 
 ## Breakout Session 2, Room 2: Researcher verification in line with Safe People principle
 
@@ -164,22 +152,16 @@ Challenges and considerations included aligning accreditation meanings across di
 
 **Next steps**
 
-- Slides and break out notes to be circulated following the meeting. 
+- Slides and break out notes to be circulated following the meeting.
 - Interested in working with us to provide requirements and/or test a researcher passport solution? Please contact rachel.tesfaye@hdruk.ac.uk
 
-
 ## Breakout Session 2, Room 3: TRE at King’s: Deployment & Egress Simulation
-
-
-
 
 ## Breakout Session 2, Room 4: Trenity demo - an in house tool for managing users, projects and file transfers in TREs
 
 **Summary**
 
-
 **Next steps**
-
 
 ## Breakout Session 2, Room 5: UK TRE Community Governance and progress
 
@@ -187,6 +169,6 @@ Challenges and considerations included aligning accreditation meanings across di
 The DARE UK grant for the Community Management group (concluding end March 2024) included development of a more user-friendly resource hub to replace the existing ReadTheDocs website, using Hugo for cost-effective, low-maintenance web development. This hub will feature sections for governance documents, resources, working groups (with a requirement for at least one open meeting), a comprehensive events calendar, and opportunities for community involvement. Additionally, the governance documentation of the community is now developed and open for review and input through an open project board on GitHub. Concerns have been raised about ensuring broader community engagement beyond GitHub for (final) community group output endorsement, highlighting the need for transparent objection handling and decision-making, as well as logging conflicts of interest during any community voting processes.
 
 **Next steps**
+
 - Generate 1-pager, with instructions on how to submit an event, instructions on how to submit a community resoruce etc. Could be useful to share with comms teams from different orgs (comms people don't generally come to UK TRE meetings but will be better across events/resources that might be of interest)
 - Add submission link (Google form) to https://www.uktre.org/en/latest/events/index.html
-
