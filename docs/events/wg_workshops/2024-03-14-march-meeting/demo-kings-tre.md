@@ -44,7 +44,7 @@ Michal presented a demo and overview of King's College London's new Trusted Rese
 
 #### Next steps
 
-- DARE UK AI Risk Evaluation Workgroup publishing [report](https://dareuk.org.uk/dare-uk-community-working-groups/dare-uk-community-working-group-ai-risk-evaluation-working-group/#:~:text=AI%20Risk%20Evaluation%20Group&text=The%20AI%20Evaluation%20Working%20Group,of%20individuals%20within%20the%20data) end of March/Early April which will detail additional steps & consideration needed as part of egress process for AI models from TRE's
+- DARE UK AI Risk Evaluation Workgroup publishing [report](https://dareuk.org.uk/dare-uk-community-working-groups/dare-uk-community-working-group-ai-risk-evaluation-working-group/) end of March/Early April which will detail additional steps & consideration needed as part of egress process for AI models from TRE's
 
 ### Raw notes
 
@@ -64,10 +64,10 @@ Michal presented a demo and overview of King's College London's new Trusted Rese
   - Too many output formats to be able to cover with current automation tools. Responsibility of the PI to decide what files to send into the Egress process.
 - Have you thought about for support for API submitted egress requests (e.g. from a workflow)?
   = have looked at the feature but not high enough on the roadmap given the limited resource available to implement changes to the TRE environment (just Michal!!!)
-- TRE [intranet page](https://docs.er.kcl.ac.uk/CREATE/TRE/tre/_) in King's
+- TRE [intranet page](https://docs.er.kcl.ac.uk/CREATE/TRE/tre/) in King's
 - My contact email michal.rosiek@kcl.ac.uk
 - [Link to the presentation](https://emckclac-my.sharepoint.com/:p:/g/personal/k2256745_kcl_ac_uk/ER_QyW2DfztKgDIP-_PUY80BJ_VtwgLs5uZghva1Z0IGPA?e=4X7I3H)
 
 #### Next steps
 
-- Dare UK AI Risk Evaluation Workgroup publishing [report](https://dareuk.org.uk/dare-uk-community-working-groups/dare-uk-community-working-group-ai-risk-evaluation-working-group/#:~:text=AI%20Risk%20Evaluation%20Group&text=The%20AI%20Evaluation%20Working%20Group,of%20individuals%20within%20the%20data) end of March/Early April which will detail additional steps & consideration needed as part of egress process for AI models from TRE's
+- Dare UK AI Risk Evaluation Workgroup publishing [report](https://dareuk.org.uk/dare-uk-community-working-groups/dare-uk-community-working-group-ai-risk-evaluation-working-group/) end of March/Early April which will detail additional steps & consideration needed as part of egress process for AI models from TRE's

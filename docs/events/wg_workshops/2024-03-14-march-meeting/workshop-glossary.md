@@ -49,7 +49,7 @@ Challenges discussed include how to manage changes to the glossary over time, re
   - Which ones?
   - How to we manage change?
   - How do we reconcile conflicts?
-- Here's a [starter for 10](https://docs.google.com/spreadsheets/d/1qublBBkpYpNgwKm5HPFD1F7WPvaYaBpY/edit#gid=1421062944) at GoogleDocs
+- Here's a [starter for 10](https://docs.google.com/spreadsheets/d/1qublBBkpYpNgwKm5HPFD1F7WPvaYaBpY/edit) at GoogleDocs
   - Yellow highlights are terms which are probably project-specific/don't belong in the general glossary
   - Green highlighted terms are in both glossaries
 - Is this worthwhile exercise? YES! We need a common understanding of terms
