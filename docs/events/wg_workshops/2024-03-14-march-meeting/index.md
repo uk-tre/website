@@ -45,7 +45,7 @@ We also run quarterly events like this for the community to come together, discu
 
 ### Keynote
 
-Dr Chris Russell, Head of NHS Research SDE Network: Data for R&D
+Dr Chris Russell, Head of NHS Research SDE Network: Data for R&D. Please see [here](https://www.youtube.com/watch?v=KJVcy_ZKyVE) for a recording of this session.
 
 ### Community updates
 
@@ -74,6 +74,8 @@ Their findings, summaries and contact details are available online for more info
 #### DARE federated architecture blueprint v. 2.0 out soon
 
 _Rob Baxter_
+
+The DARE UK federated architecture blueprint 2.0 incorporates some new architectural elements identified and developed through the 2023 Driver Project programme
 
 #### Working Groups
 
@@ -110,6 +112,12 @@ We had a successful meeting on 27th Feb where several topics around implementati
 
 ### Breakout sessions
 
+Breakout rooms were a mixture of workshops (more structured sessions designed around a particular problem area, focused on moving towards an output), demos (e.g. of commercial TRE tools/solutions), discussions (less structured sessions to explore general areas of interest within the UK TRE space), as well as open rooms to have general discussions.
+
+There were two sessions on the day of 45 minutes each.
+
+Summaries of the discussion held as well as the raw notes taken on the day are available on the links below.
+
 #### Session 1
 
 - [](./workshop-cybersecurity-risk.md)
@@ -124,3 +132,39 @@ We had a successful meeting on 27th Feb where several topics around implementati
 - [](./demo-kings-tre.md)
 - [](./demo-trenity.md)
 - [](./workshop-community-governance.md)
+
+## Breakout Session 1, Room 2: Glossary working group scoping
+
+## Breakout Session 1, Room 3: Recognising, and implementing, the GDPR and Data Protection Act provisions for scientific research in Scotland’s Research Access Service
+
+## Breakout Session 1, Room 4: UK TRE Community Governance and progress
+
+Complete notes taken during the session: Room 4[UK TRE Community Governance and progress](https://hackmd.io/Vvdzld4NTO6-4Dt5m_poLQ) - Discussion
+
+**Next steps**
+
+## Breakout Session 2, Room 2: Researcher verification in line with Safe People principle
+
+**Summary**
+The discussion revolved around work being led out of HDR UK on a Researcher Registry/"passport" system aimed at facilitating access to Safe Data Environments (SDEs) and Trusted Research Environments (TREs) by verifying researchers. Key points touched upon the registry's validity period, the importance of a digital identifier aligned with existing digital identity frameworks (like DSIT's digital identities work), and the registry serving as a "living ledger" of a researcher's identity, credentials, experience, and affiliations. The potential use of blockchain technology was discussed for maintaining a balance between immutable and mutable information to provide a comprehensive view of researchers' accreditations.
+
+Challenges and considerations included aligning accreditation meanings across different organizations, integrating information from external systems like ORCHID and IRAS for ethics verification, and the responsibility of TREs to make final access decisions based on registry data. The registry aims to streamline the vetting process by compiling information from various systems into a common model, thereby assisting TREs in making informed decisions regarding data access. The conversation also highlighted the necessity of including project ethics and permissions in the vetting criteria and discussed the logistics of maintaining the registry's accuracy and currency, emphasizing the collaborative role of researchers and organizations in keeping their information up to date.
+
+**Next steps**
+
+- Slides and break out notes to be circulated following the meeting.
+- Interested in working with us to provide requirements and/or test a researcher passport solution? Please contact rachel.tesfaye@hdruk.ac.uk
+
+## Breakout Session 2, Room 3: TRE at King’s: Deployment & Egress Simulation
+
+## Breakout Session 2, Room 4: Trenity demo - an in house tool for managing users, projects and file transfers in TREs
+
+## Breakout Session 2, Room 5: UK TRE Community Governance and progress
+
+**Summary**
+The DARE UK grant for the Community Management group (concluding end March 2024) included development of a more user-friendly resource hub to replace the existing ReadTheDocs website, using Hugo for cost-effective, low-maintenance web development. This hub will feature sections for governance documents, resources, working groups (with a requirement for at least one open meeting), a comprehensive events calendar, and opportunities for community involvement. Additionally, the governance documentation of the community is now developed and open for review and input through an open project board on GitHub. Concerns have been raised about ensuring broader community engagement beyond GitHub for (final) community group output endorsement, highlighting the need for transparent objection handling and decision-making, as well as logging conflicts of interest during any community voting processes.
+
+**Next steps**
+
+- Generate 1-pager, with instructions on how to submit an event, instructions on how to submit a community resoruce etc. Could be useful to share with comms teams from different orgs (comms people don't generally come to UK TRE meetings but will be better across events/resources that might be of interest)
+- Add submission link (Google form) to https://www.uktre.org/en/latest/events/index.html
