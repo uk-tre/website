@@ -159,8 +159,6 @@ Challenges and considerations included aligning accreditation meanings across di
 
 ## Breakout Session 2, Room 4: Trenity demo - an in house tool for managing users, projects and file transfers in TREs
 
-
-
 ## Breakout Session 2, Room 5: UK TRE Community Governance and progress
 
 **Summary**
