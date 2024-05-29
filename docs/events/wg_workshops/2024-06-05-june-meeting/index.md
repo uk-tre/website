@@ -1,7 +1,8 @@
 # UK TRE Community meeting - June 2024
 
 
-:Date: Wednesday 5th June 2024 13:30-17:00
+:Date: [Wednesday 5th June 2024 13:30-17:00](https://arewemeetingyet.com/London/2024-06-05/13:30/UK%20TRE%20Community%20meeting)
+
 :Registration: https://lu.ma/trntu1di
 :Location: Online
 :Slides: 
