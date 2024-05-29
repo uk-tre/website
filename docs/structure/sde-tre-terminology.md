@@ -2,7 +2,7 @@
 
 ## Charter
 
-This is the main document to refer to, it should contain all of the below and further detail: https://www.dropbox.com/scl/fo/fvttq0l9a8i1wfqrcgsdp/AKIK5j3JuXBIM-BFqY6cEAI?rlkey=oke7qkrr8b0vanabs6bg1sq46&dl=0 
+This is the main document to refer to, it should contain all of the below and further detail: [SDE/TRE Terminology charter](https://www.dropbox.com/scl/fo/fvttq0l9a8i1wfqrcgsdp/AKIK5j3JuXBIM-BFqY6cEAI?rlkey=oke7qkrr8b0vanabs6bg1sq46&dl=0)
 
 ## Overview
 
