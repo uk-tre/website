@@ -30,7 +30,7 @@ Mailing list: WG-CITIZEN-AGENCY-UKTRE-COMM@JISCMAIL.AC.UK
 
 Slack: #wg-citizen-agency channel on the [UK TRE Community slack](https://join.slack.com/t/uktrecommunity/shared_invite/zt-2gep86apc-QMLyIdrC2oIIsxTRzLxUqA)
 
-[Dropbox](https://www.dropbox.com/scl/fo/oqxpmnriszxr6q67ndkc5/ANwHMrobcot_ZxxpzbxYABs?rlkey=cut8e94siwdlcf3yqihscvvbf&dl=0)  
+Dropbox: ask for the link to existing members or Pete Barnsley, you can also find it within this you can find it within this [summary document with information of all working groups](https://docs.google.com/document/d/1uvqALeVixK6PqdkzLFVwDVhc0fPUuBdddyfQzZsRtm4/edit?usp=sharing). 
 
 People interested in supporting this work should contact the primary contact or chair, or just add to the slack channel discussions.
 The prime contact is Pete Barnsley, Francis Crick Institute, London  peter.barnsley@crick.ac.uk
