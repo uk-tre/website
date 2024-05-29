@@ -28,7 +28,8 @@ This Working Groups was set up to support delivery of these overall macro concer
 Mailing list: WG-EXTENDING-CONTROL-UKTRE-COMM@JISCMAIL.AC.UK
 - Subscription form https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=WG-EXTENDING-CONTROL-UKTRE-COMM&A=1 
 
-[Dropbox](https://www.dropbox.com/scl/fo/kkbgi1qtkdxn6lmymzx8z/AAqKgPeKwACL9jvvmNhXqSQ?rlkey=55zu0tclr9pq52xwxwk0yxnj7&dl=0)
+
+Dropbox: ask for the link to existing members or Pete Barnsley, you can also find it within this you can find it within this [summary document with information of all working groups](https://docs.google.com/document/d/1uvqALeVixK6PqdkzLFVwDVhc0fPUuBdddyfQzZsRtm4/edit?usp=sharing). 
 
 People interested in supporting this work should contact the primary contact or chair, or just add to the slack channel discussions.   The prime contact is Pete Barnsley, Francis Crick Institute, London  peter.barnsley@crick.ac.uk
 
