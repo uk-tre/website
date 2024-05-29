@@ -2,7 +2,9 @@
 
 ## Charter
 
-This is the main document to refer to, it should contain all of the below and further detail: [citizen agency charter](https://www.dropbox.com/scl/fo/6knltj4t4l2vz32tun8y7/ACX3kkKF-W8yVSCWBFGFzEA?rlkey=wfsfix0jl4rhj8ovk0g6rhvwm&e=1&st=98f0i8na&dl=0) 
+This is the main document to refer to, it should contain all of the below and further detail: you can find it within this [summary document with information of all working groups](https://docs.google.com/document/d/1uvqALeVixK6PqdkzLFVwDVhc0fPUuBdddyfQzZsRtm4/edit?usp=sharing).
+
+(sorry for the lack of a direct link, but it lives in dropbox)
 
 ## Overview
 
