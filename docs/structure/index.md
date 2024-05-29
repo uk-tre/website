@@ -43,4 +43,8 @@ The current working groups are:
 - [**TRE glossary**](./tre-glossary.md): shared glossary across the TRE space to improve consistency of language, terminology and to document equivalencies of definitions and terms across organisations
 - [**Cybersecurity risk**](./cybersecurity-risk.md): explore issues related to the management and communication of cyber security related risks in TREs
 
+### Previous working groups
+
+- [**Open Source & Open Standards**](./open-source-open-standards.md): Promoting open standards and open source TRE infrastructure
+
   
