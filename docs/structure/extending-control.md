@@ -2,7 +2,10 @@
 
 ## Charter
 
-This is the main document to refer to, it should contain all of the below and further detail: [Extending control charter](https://www.dropbox.com/scl/fo/fvttq0l9a8i1wfqrcgsdp/AKIK5j3JuXBIM-BFqY6cEAI?rlkey=oke7qkrr8b0vanabs6bg1sq46&dl=0) 
+
+This is the main document to refer to, it should contain all of the below and further detail: you can find it within this [summary document with information of all working groups](https://docs.google.com/document/d/1uvqALeVixK6PqdkzLFVwDVhc0fPUuBdddyfQzZsRtm4/edit?usp=sharing).
+
+(sorry for the lack of a direct link, but it lives in dropbox)
 
 ## Overview
 The Extending Control Working group is focused on documenting and outlining possible ways in which data can be ‘shared’ across organisations - when it is not one organisation providing all parts (i.e. the data and trusted research environment).
