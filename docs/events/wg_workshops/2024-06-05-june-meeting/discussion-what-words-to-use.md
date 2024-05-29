@@ -10,11 +10,9 @@
 
 During the event UPD will make a 20 minutes presentation on the project and its results, followed by an open discussion with the community.
 
-
 ### Preparation
 
 No required preparation beyond an open mind!
-
 
 ### Target audience
 

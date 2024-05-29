@@ -12,8 +12,6 @@
 
 No required preparation beyond an open mind!
 
-
-
 ### Target audience
 
 No specific target audience in mind - anybody interested!

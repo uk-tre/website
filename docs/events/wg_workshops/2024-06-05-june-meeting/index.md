@@ -1,12 +1,11 @@
 # UK TRE Community meeting - June 2024
 
-
 :Date: [Wednesday 5th June 2024 13:30-17:00](https://arewemeetingyet.com/London/2024-06-05/13:30/UK%20TRE%20Community%20meeting)
 
 :Registration: https://lu.ma/trntu1di
 :Location: Online
-:Slides: 
-:Recording: 
+:Slides:
+:Recording:
 
 ```{toctree}
 :maxdepth: 1
@@ -30,18 +29,18 @@ discussion-working-groups
 
 ## Agenda
 
-| Time          | Agenda Item                                  |
-| ------------- | -------------------------------------------- |
-| 13:30 - 13:45 | Welcome and intro                            |
-| 13:45 - 14:15 | [Crick's TRE: history and approach](#keynote)             |
-| 14:15 - 14:45 | [Community updates](#community-updates)      |
-| 14:45 - 14:55 | Break                                        |
-| 14:55 - 15:00 | Intro to breakout session 1                  |
-| 15:00 - 15:45 | Breakout session 1 [(see below)](#session-1) |
-| 15:45 - 15:55 | Break                                        |
-| 15:55 - 16:00 | Intro to breakout session 2                  |
+| Time          | Agenda Item                                                   |
+| ------------- | ------------------------------------------------------------- |
+| 13:30 - 13:45 | Welcome and intro                                             |
+| 13:45 - 14:15 | [Crick's TRE: history and approach](#keynote)                 |
+| 14:15 - 14:45 | [Community updates](#community-updates)                       |
+| 14:45 - 14:55 | Break                                                         |
+| 14:55 - 15:00 | Intro to breakout session 1                                   |
+| 15:00 - 15:45 | Breakout session 1 [(see below)](#session-1)                  |
+| 15:45 - 15:55 | Break                                                         |
+| 15:55 - 16:00 | Intro to breakout session 2                                   |
 | 16:00 - 16:45 | Breakout session 2 - Working groups [(see below)](#session-2) |
-| 16:45 - 17:00 | Wrap up                                      |
+| 16:45 - 17:00 | Wrap up                                                       |
 
 ### Keynote
 
@@ -55,7 +54,6 @@ The Community Management Working Group will share progress and general updates a
 Working groups leads will then update the community on their progress and present their charters
 
 This update will mark the start of the official community review period, after which working groups will be formally approved.
-
 
 ### Breakout sessions
 
