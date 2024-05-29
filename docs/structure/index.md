@@ -21,16 +21,24 @@ Currently, there are two main focuses of the community:
 ## Quarterly Community Events
 
 These started with the inaugural community meeting at RSE Con 22 in September 2022.
-Subsequent online meetings have taken place in December 2022, March 2023 and July 2023.
+Subsequent online meetings have taken place in December 2022, March 2023, July 2023, September 2023, December 2023 and March 2024.
 
 More detail on these events, and their write-ups, can be found in [the events section](../events/index.md)
 
 ## Working groups
 
-As well as hosting quarterly events, the community has established 4 working groups to tackle key TRE issues collaboratively.
+As well as hosting quarterly events, the community has established working groups to tackle key TRE issues collaboratively.
 These working groups are self organised, and aim to make progress on their respective focus areas between community events.
 
-The four working groups are:
+The current working groups are:
+
+- SDE/TRE terminology
+- Citizen agency
+- Extending control
+- SATRE
+- TRE glossary
+- Cybersecurity risk
+- Funding and sustainability
 
 - [**Open Source & Open Standards**](./open-source-open-standards.md): Promoting open standards and open source TRE infrastructure
 - [**Community Management & Engagement**](./community-management.md): running this group effectively, and engaging all relevant stakeholders
