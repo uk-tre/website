@@ -1,4 +1,5 @@
-# UK TRE Community meeting - December 2023
+# UK TRE Community meeting - June 2024
+
 
 :Date: Wednesday 5th June 2024 13:30-17:00
 :Registration: https://lu.ma/trntu1di
