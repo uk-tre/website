@@ -19,6 +19,7 @@ To deliver to the UK TRE Community a summary of how different SDEs/TREs tackle t
 ## Co-chairs and contact
 
 Chairs:
+
 - Rebecca Fox rebecca.fox@genomicsengland.co.uk
 - Lisa Scerri Lisa.scerri@rmh.nhs.uk
 
