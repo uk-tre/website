@@ -2,7 +2,6 @@
 
 ## Charter
 
-
 This is the main document to refer to, it should contain all of the below and further detail: you can find it within this [summary document with information of all working groups](https://docs.google.com/document/d/1uvqALeVixK6PqdkzLFVwDVhc0fPUuBdddyfQzZsRtm4/edit?usp=sharing).
 
 (sorry for the lack of a direct link, but it lives in dropbox)
@@ -21,7 +20,7 @@ SDEs and TREs are different, but views on how and the extent to which they diffe
 **Contact:** This is Pete Barnsley, Francis Crick Institute, London peter.barnsley@crick.ac.uk
 
 ## How to get involved
+
 (mailing list, slack channel, repositories…)
 
 Slack: Join #wg-sde-tre-definitions in [Slack](https://join.slack.com/t/uktrecommunity/shared_invite/zt-2gep86apc-QMLyIdrC2oIIsxTRzLxUqA)
-

@@ -7,18 +7,15 @@ it should contain all of the below and further detail: [CyberSec Risks Working G
 
 ## Overview
 
-
-This working group is an opportunity for the UK TRE Community to explore issues related to the management and communication of cyber security related risks in TREs. 
+This working group is an opportunity for the UK TRE Community to explore issues related to the management and communication of cyber security related risks in TREs.
 
 General guidance on cyber security management, risk identification and mitigation, and good cyber security practice for service providers and software developers is readily available. However, specific guidance in the context of TREs is not, and this group aims to provide that guidance by defining requirements such as type of tools to be used, and their purpose in a TRE. Concrete example implementations will be provided, but the principles will be more generally applicable.
 
 ## Co-chairs and contact
 
 - Co-Chairs:
-
  - Donald Scobbie (EPCC)
  - Martin O’Reilly (The Alan Turing Institute)
-   
 - Contact: Donald Scobbie (d.scobbie@epcc.ed.ac.uk)
 
 The main communication channels for the WG will be:

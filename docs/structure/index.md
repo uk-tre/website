@@ -38,7 +38,6 @@ These working groups are self organised, and aim to make progress on their respe
 
 The current working groups are:
 
-
 - [**Citizen agency**](./citizen-agency.md): documenting and outlining possible roles for the citizen within the data research arena
 - [**Community Management & Engagement**](./community-management.md): running this group effectively, and engaging all relevant stakeholders
 - [**Cybersecurity risk**](./cybersecurity-risk.md): explore issues related to the management and communication of cyber security related risks in TREs
@@ -52,5 +51,3 @@ The current working groups are:
 ### Previous working groups
 
 - [**Open Source & Open Standards**](./open-source-open-standards.md): Promoting open standards and open source TRE infrastructure
-
-  

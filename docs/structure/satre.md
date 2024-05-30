@@ -1,6 +1,5 @@
 # SATRE
 
-
 ## Charter 
 
 This is the main document to refer to, it should contain all of the below and further detail: [SATRE Working group charter](https://docs.google.com/document/d/1ugd32Ki0ssZu42AWWoChE-Tb_sKggM3sfs-4ZzcYoBk/edit?usp=sharing)
@@ -32,10 +31,10 @@ and other relevant channels.
 GitHub issues can be created and replied to by anyone at any time.
 
 Either open an issue on one of our GitHub repositories
+
 - https://github.com/sa-tre/satre-specification
 - https://github.com/sa-tre/satre-team
 
 or send an email to satre-contact@dundee.ac.uk
 
 Meetings and updates will be shared via the main UK TRE Community mailing list and events.
-

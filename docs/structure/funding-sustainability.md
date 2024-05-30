@@ -19,7 +19,7 @@ To deliver to the UK TRE Community a summary of how different SDEs/TREs tackle t
 ## Co-chairs and contact
 
 
-Chairs: 
+Chairs:
 - Rebecca Fox rebecca.fox@genomicsengland.co.uk
 - Lisa Scerri Lisa.scerri@rmh.nhs.uk
 
@@ -30,4 +30,3 @@ Interested people should email rebecca.fox@genomicsengland.co.uk and/or request 
 Mailing list: FUNDING-SUST-UK-TRE-COMM@JISCMAIL.AC.UK
 
 - Subscription form https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FUNDING-SUST-UK-TRE-COMM&A=1
-

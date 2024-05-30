@@ -1,10 +1,8 @@
 # TRE Glossary
 
-
-## Charter 
+## Charter
 
 This is the main document to refer to, it should contain all of the below and further detail: [Glossary working group charter](https://docs.google.com/document/d/1Vow33Uw5FjipH2hshU_ZRfQDW-R06hosGiAWT9mp8HU/edit?usp=sharing)
-
 
 ## Overview
 
@@ -19,6 +17,7 @@ interoperable data landscape.
 ## Co-chairs and contact
 
 **Chairs:**
+
 - Rob Baxter (DARE UK)
 - Katherine (Kate) O’Sullivan (Grampian Data Safe Haven, University of Aberdeen)
 - Balint Stewart (DARE UK)
