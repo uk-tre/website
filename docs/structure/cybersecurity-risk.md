@@ -13,10 +13,11 @@ General guidance on cyber security management, risk identification and mitigatio
 
 ## Co-chairs and contact
 
-- Co-Chairs:
- - Donald Scobbie (EPCC)
- - Martin O’Reilly (The Alan Turing Institute)
-- Contact: Donald Scobbie (d.scobbie@epcc.ed.ac.uk)
+**Co-Chairs:**
+- Donald Scobbie (EPCC)
+- Martin O’Reilly (The Alan Turing Institute)
+
+**Contact:** Donald Scobbie (d.scobbie@epcc.ed.ac.uk)
 
 The main communication channels for the WG will be:
 

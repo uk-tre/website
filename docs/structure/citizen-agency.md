@@ -9,7 +9,7 @@ This is the main document to refer to, it should contain all of the below and fu
 ## Overview
 
 The Citizen Agency Working group is focused on documenting and outlining possible roles for the citizen within the data research arena,
-with specific focus on the Secure Data Environment/Trusted Research Environment facilities. 
+with specific focus on the Secure Data Environment/Trusted Research Environment facilities.
 
 This Working Groups was set up to support delivery of these overall macro concerns and objectives.
 

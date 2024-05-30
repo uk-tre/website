@@ -1,6 +1,6 @@
 # SATRE
 
-## Charter 
+## Charter
 
 This is the main document to refer to, it should contain all of the below and further detail: [SATRE Working group charter](https://docs.google.com/document/d/1ugd32Ki0ssZu42AWWoChE-Tb_sKggM3sfs-4ZzcYoBk/edit?usp=sharing)
 

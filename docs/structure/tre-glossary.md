@@ -33,4 +33,3 @@ Work group mailing list (open subscription, co-chair approval): uk-tre-glossary@
 - Subscription requests should go to uk-tre-glossary-request@jiscmail.ac.uk
 
 To get involved, contact the co-chairs via uk-tre-glossary-request@jiscmail.ac.uk
-
