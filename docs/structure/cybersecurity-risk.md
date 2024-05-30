@@ -5,8 +5,8 @@
 This is the main document to refer to,
 it should contain all of the below and further detail: [CyberSec Risks Working Group Charter](https://docs.google.com/document/d/1KLIeB4uDDxwYT7pxj5ImHa5p_3wJ2KILsVKuAl7LQlM/edit?usp=sharing)
 
-
 ## Overview
+
 
 This working group is an opportunity for the UK TRE Community to explore issues related to the management and communication of cyber security related risks in TREs. 
 
@@ -15,6 +15,7 @@ General guidance on cyber security management, risk identification and mitigatio
 ## Co-chairs and contact
 
 - Co-Chairs:
+
  - Donald Scobbie (EPCC)
  - Martin O’Reilly (The Alan Turing Institute)
    
@@ -25,7 +26,6 @@ The main communication channels for the WG will be:
 - The WG email list (tbd)
 - The WG Slack channel
 - Regular UK TRE Community webinar events and presentations
-
 
 ## How to get involved
 
@@ -40,4 +40,3 @@ The main communication channels for the WG will be:
 - Regular UK TRE Community webinar events and presentations
 
 The working group will progress as a series of ‘task and finish’ exercises to complete specific work related to tools, processes and documents. Contributors will be encouraged to participate in the working group at task level so that contributions can be short term, focussed, and benefit from specific skills.
-

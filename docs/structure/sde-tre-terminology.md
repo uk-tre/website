@@ -10,15 +10,15 @@ This is the main document to refer to, it should contain all of the below and fu
 ## Overview
 
 The SDE / TRE Definitions Working group is focused on clarifying the terms used WITHIN the UK TRE community especially when different parts are performed by different organisations.
-SDEs and TREs are different, but views on how and the extent to which they differ are varied. 
+SDEs and TREs are different, but views on how and the extent to which they differ are varied.
 
 ## Co-chairs and contact
 
-**Co-chair:**  This is Madalyn Hardaker, Kings University, London madalyn.hardaker@kcl.ac.uk
+**Co-chair:** This is Madalyn Hardaker, Kings University, London madalyn.hardaker@kcl.ac.uk
 
-**Co-chair:**  This is Pete Barnsley, Francis Crick Institute, London  peter.barnsley@crick.ac.uk
+**Co-chair:** This is Pete Barnsley, Francis Crick Institute, London peter.barnsley@crick.ac.uk
 
-**Contact:**  This is Pete Barnsley, Francis Crick Institute, London  peter.barnsley@crick.ac.uk
+**Contact:** This is Pete Barnsley, Francis Crick Institute, London peter.barnsley@crick.ac.uk
 
 ## How to get involved
 (mailing list, slack channel, repositories…)
