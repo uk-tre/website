@@ -10,10 +10,10 @@ background/index
 structure/index
 ```
 
-```{admonition} UK-TRE June 2024 meeting
+```{admonition} UK-TRE September 2024 hybrid meeting
 :class: attention
 
-[Register for the UK-TRE June 2024 meeting](https://lu.ma/trntu1di) (13:30 Wednesday 5th June) now!
+[Register for the UK-TRE September 2024 meeting](https://lu.ma/icjl9wmb) (09:30 - 17:00 Monday 2nd September in Newcastle) now!
 ```
 
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
