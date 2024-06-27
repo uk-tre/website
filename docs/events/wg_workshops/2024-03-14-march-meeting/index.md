@@ -16,6 +16,7 @@ discussion-researcher-verification
 workshop-community-governance
 workshop-cybersecurity-risk
 workshop-glossary
+workshop-satre
 workshop-sde-tre-definitions
 ```
 
@@ -124,6 +125,7 @@ Summaries of the discussion held as well as the raw notes taken on the day are a
 - [](./workshop-glossary.md)
 - [](./demo-scotland-ras.md)
 - [](./workshop-community-governance.md)
+- [](./workshop-satre.md)
 
 #### Session 2
 
