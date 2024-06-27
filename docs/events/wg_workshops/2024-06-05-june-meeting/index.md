@@ -58,7 +58,7 @@ This is the start of the official community review period, after which working g
 - Glossary https://www.uktre.org/en/latest/structure/tre-glossary.html
 - Cybersecurity Risk https://www.uktre.org/en/latest/structure/cybersecurity-risk.html
 - SATRE https://www.uktre.org/en/latest/structure/satre.html
-- Funding and sustainability https://docs.google.com/document/d/1RMEbzt4SIeXqiYjHI-OVuDsPRJCEGThNdsnmKVmCxWE/edit#heading=h.y3eynwbxjkb4
+- Funding and sustainability https://docs.google.com/document/d/1RMEbzt4SIeXqiYjHI-OVuDsPRJCEGThNdsnmKVmCxWE/edit
 - SDE/TRE terminology https://www.uktre.org/en/latest/structure/sde-tre-terminology.html
 - Extending control https://www.uktre.org/en/latest/structure/extending-control.html
 - Citizen Agency https://www.uktre.org/en/latest/structure/citizen-agency.html
@@ -75,11 +75,11 @@ There will be two sessions on the day of 45 minutes each.
 
 #### Session 1
 
-- [](./workshop-data-processing-tools.md) - workshop
-- [](./discussion-information-governance.md) - discussion
-- [](./discussion-what-words-to-use.md) - discussion
-- [](./workshop-researcher-registry.md) - workshop
-- [](./discussion-data-access-pysyft.md) - discussion
+- [](./workshop-data-processing-tools.md) - Workshop
+- [](./discussion-information-governance.md) - Discussion
+- [](./discussion-what-words-to-use.md) - Discussion
+- [](./workshop-researcher-registry.md) - Workshop
+- [](./discussion-data-access-pysyft.md) - Discussion
 
 #### Session 2
 
