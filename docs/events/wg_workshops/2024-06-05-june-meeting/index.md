@@ -11,6 +11,7 @@
 :maxdepth: 1
 :hidden: true
 
+keynote-crick-tre
 workshop-data-processing-tools
 discussion-information-governance
 discussion-what-words-to-use
@@ -44,16 +45,27 @@ discussion-working-groups
 
 ### Keynote
 
-A talk by Pete Barnsley about the Crick's Institute TRE, its current approach and the history of how it came to be.
+A [talk by Pete Barnsley about the Crick's Institute TRE](keynote-crick-tre), its current approach and the history of how it came to be.
 
 ### Community updates
 
 _A chance for anyone in the community to share quick updates with everyone on the call._
 
-The Community Management Working Group will share progress and general updates and next steps.
-Working groups leads will then update the community on their progress and present their charters
+#### Working group charters
 
-This update will mark the start of the official community review period, after which working groups will be formally approved.
+This is the start of the official community review period, after which working groups will be formally approved.
+
+- Glossary https://www.uktre.org/en/latest/structure/tre-glossary.html
+- Cybersecurity Risk https://www.uktre.org/en/latest/structure/cybersecurity-risk.html
+- SATRE https://www.uktre.org/en/latest/structure/satre.html
+- Funding and sustainability https://docs.google.com/document/d/1RMEbzt4SIeXqiYjHI-OVuDsPRJCEGThNdsnmKVmCxWE/edit
+- SDE/TRE terminology https://www.uktre.org/en/latest/structure/sde-tre-terminology.html
+- Extending control https://www.uktre.org/en/latest/structure/extending-control.html
+- Citizen Agency https://www.uktre.org/en/latest/structure/citizen-agency.html
+
+#### UK TRE SDE / TRE Definitions survey
+
+SDE/TRE new survey available: https://forms.office.com/e/VaB9202cpB
 
 ### Breakout sessions
 
@@ -63,11 +75,11 @@ There will be two sessions on the day of 45 minutes each.
 
 #### Session 1
 
-- [](./workshop-data-processing-tools.md) - workshop
-- [](./discussion-information-governance.md) - discussion
-- [](./discussion-what-words-to-use.md) - discussion
-- [](./workshop-researcher-registry.md) - workshop
-- [](./discussion-data-access-pysyft.md) - discussion
+- [](./workshop-data-processing-tools.md) - Workshop
+- [](./discussion-information-governance.md) - Discussion
+- [](./discussion-what-words-to-use.md) - Discussion
+- [](./workshop-researcher-registry.md) - Workshop
+- [](./discussion-data-access-pysyft.md) - Discussion
 
 #### Session 2
 

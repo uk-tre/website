@@ -1,17 +1,12 @@
-# Facilitating researcher access to data with PySyft
+# Breakout: Facilitating researcher access to data with PySyft
 
 **Leads**: Dave Buckley (OpenMined)
 
-## Proposal
+## Notes
 
-### Summary
+Dave provided a quick overview of OpenMined as an organisation and their flagship open source product, PySyft
 
-[OpenMined](https://openmined.org/) will present their [PySyft notebook](https://github.com/OpenMined/PySyft) which allows to "Perform data science on data that remains in someone else's server"
+[OpenMined](https://openmined.org)
+[PySyft](https://github.com/OpenMined/pysyft)
 
-### Preparation
-
-No required preparation beyond an open mind!
-
-### Target audience
-
-No specific target audience in mind - anybody interested!
+The aim is to facilitate "remote data science" cf. OpenSAFELY, by providing a framework for such services
