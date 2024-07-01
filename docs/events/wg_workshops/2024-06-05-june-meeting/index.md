@@ -18,6 +18,11 @@ discussion-what-words-to-use
 workshop-researcher-registry
 discussion-data-access-pysyft
 discussion-working-groups
+wg-citizen-agency-extending-control
+wg-satre
+wg-glossary
+wg-cybersecurity-risks
+wg-funding-sustainability
 ```
 
 ## Background
@@ -82,6 +87,14 @@ There will be two sessions on the day of 45 minutes each.
 - [](./discussion-data-access-pysyft.md) - Discussion
 
 #### Session 2
+
+- Room 1 [Citizen Agency & Extending control](./wg-citizen-agency-extending-control.md)
+- Room 2 [SATRE](./wg-satre.md)
+- Room 3 [Glossary](./wg-glossary.md)
+- Room 4 [Cybersecurity Risks](./wg-cybersecurity-risks.md)
+- Room 5 [Funding and Sustainability](./wg-funding-sustainability.md)
+- Room 6 SDE/TRE Terminology
+- Possible: Information Governance WG charter development
 
 For the second breakout session (16:00-16:45) existing Working Groups will host breaout rooms on their progress.
 
