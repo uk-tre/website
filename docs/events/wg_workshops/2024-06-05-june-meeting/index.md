@@ -17,7 +17,6 @@ discussion-information-governance
 discussion-what-words-to-use
 workshop-researcher-registry
 discussion-data-access-pysyft
-discussion-working-groups
 wg-citizen-agency-extending-control
 wg-satre
 wg-glossary
@@ -88,6 +87,8 @@ There will be two sessions on the day of 45 minutes each.
 
 #### Session 2
 
+For the second breakout session (16:00-16:45) existing Working Groups hosted breakout rooms on their progress to get community feedback, handle enquiries from new interested members, and work or discuss any relevant topics or actions.
+
 - Room 1 [Citizen Agency & Extending control](./wg-citizen-agency-extending-control.md)
 - Room 2 [SATRE](./wg-satre.md)
 - Room 3 [Glossary](./wg-glossary.md)
@@ -95,9 +96,3 @@ There will be two sessions on the day of 45 minutes each.
 - Room 5 [Funding and Sustainability](./wg-funding-sustainability.md)
 - Room 6 SDE/TRE Terminology
 - Possible: Information Governance WG charter development
-
-For the second breakout session (16:00-16:45) existing Working Groups will host breaout rooms on their progress.
-
-It will be a session to get community feedback, enquiries from new interested members and work or discuss any relevant topics or actions.
-
-- [](./discussion-working-groups.md) - discussion
