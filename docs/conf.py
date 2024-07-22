@@ -2,6 +2,7 @@
 #
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
+import os
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
@@ -42,6 +43,15 @@ html_theme_options = {
     "footer_start": ["copyright"],
     "footer_end": ["footer-links"],
 }
+
+html_context = {}
+
+# Readthedocs specific configuration
+# https://about.readthedocs.com/blog/2024/07/addons-by-default/
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
+if os.environ.get("READTHEDOCS", "") == "True":
+    html_context["READTHEDOCS"] = True
+
 
 # -- Link checker configuration
 
