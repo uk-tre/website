@@ -1,6 +1,6 @@
-# UK TRE Community meeting - September 2024
+# UK TRE Annual Conference - September 2024
 
-**_Accelerating secure digital science through community collaboration_**
+## Accelerating secure digital science through community collaboration
 
 :Date: [Monday 2nd September 2024](https://arewemeetingyet.com/London/2024-09-02/09:30/UK%20TRE%20Community%20meeting)
 :Time: 09:30 - 17:00
