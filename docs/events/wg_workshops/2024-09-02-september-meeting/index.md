@@ -26,21 +26,22 @@ The UK TRE community has already setup several working groups to look at some of
 - - 10:15 - 10:30
   - Welcome and introductions
 - - 10:30 - 11:00
-  - CMWG updated/announcements: Bid for funding
+  - Community Management updates and announcements: Bid for funding
 - - 11:00 - 12:15
   - Federation: Accelerating digital science Panel
     - Keynote 1
     - Keynote 2
     - Panel discussion + Q&A
 - - 12:15 - 12:55
-  - Accerating digital science: Focused discussion
+  - Accerating digital science: Focused discussion breakouts
+    - Where is the community is going and how do we get there
 - - 13:00 - 14:00
-  - Lunch & networking
+  - Lunch and networking
 - - 14:00 - 15:00
   - Breakout session 2: Community breakouts
-    - Working groups + suggested topics
+    - Working groups and suggested topics
 - - 15:00 - 15:15
-  - Quick coffee break and room changeover
+  - Coffee break
 - - 15:15 - 16:15
   - Lightning talks
 - - 16:15 - 16:45
