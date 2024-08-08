@@ -2,18 +2,19 @@
 
 ## Accelerating secure digital science through community collaboration
 
+:Date: [Monday 2nd September 2024](https://arewemeetingyet.com/London/2024-09-02/09:30/UK%20TRE%20Community%20meeting)
+:Time: 09:30 - 17:00
+:Registration: https://lu.ma/icjl9wmb
+:Location: In person at [RSECon24](https://rsecon24.society-rse.org/venue/) and online
+
 <div style="text-align:center; font-weight:bold;">Sponsored by</div>
 
 ```{image} dare_uk_logo.png
 :alt: DARE UK
 :width: 300px
 :align: center
+:target: https://dareuk.org.uk/
 ```
-
-:Date: [Monday 2nd September 2024](https://arewemeetingyet.com/London/2024-09-02/09:30/UK%20TRE%20Community%20meeting)
-:Time: 09:30 - 17:00
-:Registration: https://lu.ma/icjl9wmb
-:Location: In person at [RSECon24](https://rsecon24.society-rse.org/venue/) and online
 
 ## Background
 
