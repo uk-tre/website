@@ -14,9 +14,12 @@ structure/index
 :class: attention
 
 [Register for the UK-TRE September 2024 meeting](https://lu.ma/icjl9wmb) (09:30 - 17:00 Monday 2nd September in Newcastle) now!
+[⏰&nbsp;Agenda](events/wg_workshops/2024-09-02-september-meeting/index).
+
+Thanks to [DARE UK](https://dareuk.org.uk/) for sponsoring the meeting.
 ```
 
-Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
+Welcome to the site! This site contains resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
 
 This group consists of RSEs, researchers, TRE users, developers and enthusiasts sharing best practice and knowledge within the TRE space.
 

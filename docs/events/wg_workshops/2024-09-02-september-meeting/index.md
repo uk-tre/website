@@ -7,6 +7,15 @@
 :Registration: https://lu.ma/icjl9wmb
 :Location: In person at [RSECon24](https://rsecon24.society-rse.org/venue/) and online
 
+<div style="text-align:center; font-weight:bold;">Sponsored by</div>
+
+```{image} dare_uk_logo.png
+:alt: DARE UK
+:width: 300px
+:align: center
+:target: https://dareuk.org.uk/
+```
+
 ## Background
 
 Trusted research environments and datasets are fundamental to digital science, but work is often delayed due to the time and effort required to set up a secure project, get access to the right approved data, and to sign legal agreements.
