@@ -36,4 +36,4 @@ jobs:
       - name: Link check
         run: |
           cd docs
-          make linkcheck
+          make SPHINXOPTS="--color --keep-going" linkcheck
