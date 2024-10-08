@@ -60,9 +60,13 @@ linkcheck_ignore = [
     r"https://www.turing.ac.uk/.*",
     r"https://www.hpe.com/.*",
     r"https://csrc.nist.gov/.*",
-    # Currently down
+    r"https://digital.nhs.uk/services/secure-data-environment-service",
+    # Redirects to Confluence which seems to block the linkchecker
+    r"https://www.dundee.ac.uk/corporate-information/standard-operating-procedures-hic",
+    # Currently down or broken
     r"https://www.goldacrereview.org/",
     r"https://www.rd-alliance.org/trusted-research-environments-sensitive-data-fairness-closed-data-and-processes",
+    r"https://www.datashield.org/about/about-datashield-collated",
 ]
 
 # These pages use in-page JavaScript anchors which aren't seen by the link checker
