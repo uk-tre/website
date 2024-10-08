@@ -16,6 +16,14 @@
 :target: https://dareuk.org.uk/
 ```
 
+```{toctree}
+:maxdepth: 1
+:hidden: true
+
+wg-cybersecurity-risks
+wg-satre
+```
+
 ## Background
 
 Trusted research environments and datasets are fundamental to digital science, but work is often delayed due to the time and effort required to set up a secure project, get access to the right approved data, and to sign legal agreements.
