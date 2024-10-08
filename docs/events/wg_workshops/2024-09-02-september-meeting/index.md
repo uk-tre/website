@@ -20,7 +20,12 @@
 :maxdepth: 1
 :hidden: true
 
+keynote-accelerating-digital-science
+discussion-accelerating-digital-science
+
+wg-extending-control
 wg-cybersecurity-risks
+wg-funding-sustainability
 wg-satre
 ```
 
