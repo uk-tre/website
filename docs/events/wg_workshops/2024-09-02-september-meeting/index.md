@@ -174,23 +174,29 @@ A panel made up of Peter McCallum (Chief Technical Officer, Elixir), Emily Jeffe
 
 The overall sense in the room was that the UK TRE community has matured and discussions on federation have moved on since the Swansea meeting in 2023 to a position where organisations are really starting to talk to one another to make this happen.
 
+[Questions](keynote-accelerating-digital-science)
+
 ### Breakout session 1: Accelerating digital science: Focused discussion breakouts
+
+[Notes](discussion-accelerating-digital-science)
 
 ### Breakout session 2: Working Groups
 
 Each Working Group ran a breakout discussion for community input into how they are contributing to our common challenges :
 
-- SATRE: An accreditation and specification for generic SDE/TRE facilities is needed. How these adapt to cover the different parts of a digital science platform remains a central need, helping the federation of datasets to projects.
+- [SATRE](wg-satre): An accreditation and specification for generic SDE/TRE facilities is needed. How these adapt to cover the different parts of a digital science platform remains a central need, helping the federation of datasets to projects.
 
 - SDE/TRE terminology & the TRE Glossary: Developing the community language for the digital science platform will make sure the parts join up and projects can be provisioned.
 
-- Extending Control: How the technology works with and enables information governance. So helping the federation of datasets to projects.
+- [Extending Control](wg-extending-control): How the technology works with and enables information governance. So helping the federation of datasets to projects.
 
-- Cybersecurity risk: A base capability for any digital science platform, and how these risks change with new approaches and tools (e.g. AI/ML) is an ever emerging factor.
+- [Cybersecurity risks](wg-cybersecurity-risks): A base capability for any digital science platform, and how these risks change with new approaches and tools (e.g. AI/ML) is an ever emerging factor.
 
 - Citizen Agency: Digital science is all about collaboration with people. Failure will result unless it is ensured that they remain connected to the platform and support science that is consent based as well as population.
 
 - Glossary: Focused on developing a shared lexicon for TREs to support interoperability and federation.
+
+- [Funding & Sustainability](wg-funding-sustainability)
 
 ### Lightning talks
 
