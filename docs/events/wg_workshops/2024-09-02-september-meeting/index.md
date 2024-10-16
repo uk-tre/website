@@ -73,6 +73,10 @@ The UK TRE community has already setup several working groups to look at some of
 
 ```
 
+## Video
+
+[Watch the full recording of the day](https://www.youtube.com/watch?v=53CqCUh8YwM)
+
 ## Summary of the day
 
 ### Community management updates and announcements: bid for funding
@@ -154,8 +158,7 @@ A panel made up of Peter McCallum (Chief Technical Officer, Elixir), Emily Jeffe
 
 #### European Perspective
 
-- The European model, such as the European Open Science Cloud, emphasizes setting common standards without full governmental control, highlighting an alternative approach to federation through treaties or defacto standards.
-- Maturity and Opportunities
+- The European model, such as the European Open Science Cloud, emphasizes setting common standards without full governmental control, highlighting an alternative approach to federation through treaties or de facto standards.
 
 #### Data Controllers and Governance
 
@@ -199,6 +202,13 @@ Each Working Group ran a breakout discussion for community input into how they a
 - [Funding & Sustainability](wg-funding-sustainability)
 
 ### Lightning talks
+
+<!--
+Myst incorrectly escapes the &t=7050 query parameter, so use raw HTML instead
+https://github.com/executablebooks/MyST-Parser/issues/760
+-->
+
+<a href="https://youtu.be/53CqCUh8YwM?si=UjtHdeN9ke7N5q27&t=7050">Watch the lightning talks starting at 1:57:30</a>
 
 ### DARE UK Phase 2 presentation (Fergus McDonald, Deputy Director DARE UK; Emily Jefferson, Interim Director DARE UK)
 
