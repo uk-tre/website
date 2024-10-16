@@ -9,7 +9,7 @@
 
 <div style="text-align:center; font-weight:bold;">Sponsored by</div>
 
-```{image} dare_uk_logo.png
+```{image} dare_uk_logo.svg
 :alt: DARE UK
 :width: 300px
 :align: center
