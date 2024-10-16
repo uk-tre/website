@@ -52,7 +52,7 @@ The UK TRE community has already setup several working groups to look at some of
 - - 11:00 - 12:15
   - Federation: Accelerating digital science Panel
     - Keynote 1: James Fleming, Chief Information Officer, Francis Crick Institute
-    - Darren Bell, Director of Technical Services, UK Data Service
+    - Keynote 2: Darren Bell, Director of Technical Services, UK Data Service
     - Panel discussion + Q&A
 - - 12:15 - 12:55
   - Accelerating digital science: Focused discussion breakouts
@@ -80,11 +80,11 @@ The UK TRE community has already setup several working groups to look at some of
 UK TRE community co-chairs David Sarmiento and Simon Li set the context and background of the UK TRE community and its growth over the past couple of years. Some of the key points covered were:
 
 - **Emphasis on the grassroots nature of the UK Trusted Research Environments (TRE) community**, which relies on volunteers and is open to more co-chairs and informal help.
-- **TRE community expansion**: originally coming out of the research software engineer community, membership has expanded to include data management, information governance, and funding stakeholders. The community has grown significantly, from an initial 30 members to over 300, with over 100 organizations involved. A number of **Working Groups** have also been established
+- **TRE community expansion**: originally coming out of the research software engineering community, membership has expanded to include data management, information governance, and funding stakeholders. The community has grown significantly, from an initial 30 members to over 300, with over 100 organizations involved. A number of **Working Groups** have also been established
 - There is strong emphasis on flexibility and adapting to community needs and feedback.
-- **Governance and Community Participation**: Emphasis on "lazy consensus," where community members are encouraged to take initiative unless there is opposition. Governance charters and working groups are in place, and transparency is a core principle.The group has formalized governance processes to prepare for growth but retains a focus on community-driven initiatives.
+- **Governance and Community Participation**: Emphasis on "lazy consensus", where community members are encouraged to take the initiative unless there is opposition. Governance charters and working groups are in place, and transparency is a core principle.The group has formalized governance processes to prepare for growth but retains a focus on community-driven initiatives.
 
-**Key community prioirites identified in the introductory section**:
+#### Key community priorities identified in the introductory section
 
 - **Federation**: probably the most critical topic identified for the day - given we want a distributed network, how can we enable analysis on data held across different TREs?
 - **Data Quality**: Desire for better quality and more standardized data.
@@ -129,7 +129,7 @@ UK TRE community co-chairs David Sarmiento and Simon Li set the context and back
 
 - **Challenges with current practices:** Many repositories are currently small, isolated, and follow their own data classification systems. This lack of consistency creates inefficiencies for researchers trying to access and link data across platforms. There was a call for consolidation and stronger governance to enforce common standards.
 
-- **Researcher-centric focus:** A major focus of was on improving user experience for researchers, and not simply building infrastrucutre for its own sake. He envisioned a future where researchers could easily find, access, and use data through an intuitive, federated infrastructure, much like booking a flight online. However, this requires better metadata, particularly for data curation and privacy management.
+- **Researcher-centric focus:** A major focus was on improving user experience for researchers, and not simply building infrastructure for its own sake. He envisioned a future where researchers could easily find, access, and use data through an intuitive, federated infrastructure, much like booking a flight online. However, this requires better metadata, particularly for data curation and privacy management.
 
 - **Incentives and enforcement:** There was a call for clear incentives to encourage organizations to adopt federated standards, along with disincentives for non-compliance. Standardization won’t happen purely through consensus but will need to be enforced at a policy level, potentially by bodies like UKRI.
 
@@ -139,38 +139,40 @@ Overall, federation was presented as a necessary evolution in research infrastru
 
 ### Panel discussion
 
-A panel made up of Peter McCallum (Chief Technical Officer, Elixir), Emily Jefferson (CTO, HDR UK and Interim Director, DARE UK), Darren Bell (Director of Technical Services, UK Data Service) and James Fleming (CIO, Francis Crick Institute) came together for a discussion on federation, standards, governance, and citizen involvement in the controlling the use of their data.
+A panel made up of Peter McCallum (Chief Technical Officer, Elixir), Emily Jefferson (CTO, HDR UK and Interim Director, DARE UK), Darren Bell (Director of Technical Services, UK Data Service) and James Fleming (CIO, Francis Crick Institute) came together for a discussion on federation, standards, governance, and citizen involvement in controlling the use of their data.
 
-**Federation**
+#### Federation
 
 - Federation was described as collaboration with shared rules and mutual benefits, but also obligations. There was consensus that a clear, unified definition is lacking, which poses a barrier to effective data federation.
 - Federation requires both technological and social solutions, standards, and strategy considerations.
 - Avoiding Single Points of Failure: Centralizing all data into one TRE is not feasible or desirable due to innovation challenges and data custodians’ reluctance. Instead, a federated approach with multiple specialized TREs across domains and regions is generally preferred.
 
-**Challenges of Standards:**
+#### Challenges of Standards
 
 - There are many fragmented standards across different sectors (e.g., healthcare, biomedical data), leading to inconsistent data entry and quality. Harmonizing these standards is critical for successful federation.
 - A balance between flexibility for individual organizations and shared constraints for mutual benefit is needed.
 
-**European Perspective:**
+#### European Perspective
 
-- The European model, such as the European Open Science Cloud, emphasizes setting common standards without full governmental control, highlighting an alternative approach to federation through treaties or de facto standards.
+- The European model, such as the European Open Science Cloud, emphasizes setting common standards without full governmental control, highlighting an alternative approach to federation through treaties or defacto standards.
 - Maturity and Opportunities
 
-**Data Controllers and Governance**:
+#### Data Controllers and Governance
 
 - A tension exists between data controllers' individual requirements and the need for unified federation. In the future, models that engage individuals (citizen agency) will likely play a more significant role in data governance, moving beyond current legislation-based control.
 - Balancing transparency about data risks with the needs of research is crucial. Tools for clearer empirical risk assessments would help reassure data owners, facilitating more open data sharing.
 
-**Incentives**:
+#### Incentives
 
 - Research councils should play an active role in encouraging federation by funding and setting enforceable standards. There is some reluctance to take on this role, but it is crucial for driving progress.
 
-**Citizen Involvement**:
+#### Citizen Involvement
 
-- There is a growing need to involve patients and the public in decision-making about their data use. Current consent models (e.g., all-or-nothing) are blunt, and future systems should offer more granular control to individuals, enabling ongoing conversations about data use. There was some disagreement on the panel about the feasiblity of granular citizen control given the number of projects that could potentially be using data about a given individual.
+- There is a growing need to involve patients and the public in decision-making about their data use. Current consent models (e.g., all-or-nothing) are blunt, and future systems should offer more granular control to individuals, enabling ongoing conversations about data use. There was some disagreement on the panel about the feasibility of granular citizen control given the number of projects that could potentially be using data about a given individual.
 
-**The overall sense in the room was that the UK TRE community has matured and discussions on federation have moved on since the Swansea meeting in 2023 to a position where organisations are really starting to talk to one another to make this happen**.
+#### Overall feeling
+
+The overall sense in the room was that the UK TRE community has matured and discussions on federation have moved on since the Swansea meeting in 2023 to a position where organisations are really starting to talk to one another to make this happen.
 
 ### Breakout session 1: Accelerating digital science: Focused discussion breakouts
 
@@ -196,7 +198,7 @@ Each Working Group ran a breakout discussion for community input into how they a
 
 DARE UK Phase 2 is an £18.2m investment from UKRI over 2.5 years (reduced from the figure of £20.6m presented - reflecting adjustments in spending allocation for this financial year) that aims to revolutionize the use of cross-domain sensitive data in research by enhancing TRE capabilities, while maintaining public trust and benefiting researchers.
 
-**Core Activities:**
+#### Core Activities
 
 **Transformational Programs:** Phase 2 focuses on advancing the capabilities developed in Phase 1, working with early adopters to test, configure, and implement these solutions in real-world settings. The transformational programs focus on:
 
@@ -204,7 +206,7 @@ DARE UK Phase 2 is an £18.2m investment from UKRI over 2.5 years (reduced from 
 - Reference TRE standards and implementations
 - Federated analytics (both remote query and 'single-pane-of-glass' data view)
 
-**Next-generation proof-of-concepts:** Similar to Phase 1 Sprint Exemplar projects, this workstrema will provide funding to build prototypes of next-generation TRE capabilities
+**Next-generation proof-of-concepts:** Similar to Phase 1 Sprint Exemplar projects, this workstream will provide funding to build prototypes of next-generation TRE capabilities
 
 **Early testing of a national network of TREs:** Technology evaluation and feasibility test implementations for creating a connected national network of TREs
 
