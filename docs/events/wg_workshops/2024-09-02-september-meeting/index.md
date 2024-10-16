@@ -186,7 +186,7 @@ Each Working Group ran a breakout discussion for community input into how they a
 
 - [SATRE](wg-satre): An accreditation and specification for generic SDE/TRE facilities is needed. How these adapt to cover the different parts of a digital science platform remains a central need, helping the federation of datasets to projects.
 
-- SDE/TRE terminology & the TRE Glossary: Developing the community language for the digital science platform will make sure the parts join up and projects can be provisioned.
+- SDE/TRE terminology: Developing the community language for the digital science platform will make sure the parts join up and projects can be provisioned.
 
 - [Extending Control](wg-extending-control): How the technology works with and enables information governance. So helping the federation of datasets to projects.
 
