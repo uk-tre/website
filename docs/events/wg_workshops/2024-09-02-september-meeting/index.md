@@ -72,6 +72,7 @@ The UK TRE community has already setup several working groups to look at some of
   - Wrap up
 
 ```
+
 ## Summary of the day
 
 ### Community management updates and announcements: bid for funding
@@ -136,8 +137,8 @@ UK TRE community co-chairs David Sarmiento and Simon Li set the context and back
 
 Overall, federation was presented as a necessary evolution in research infrastructure, and should be driven by researcher-needs.
 
-
 ### Panel discussion
+
 A panel made up of Peter McCallum (Chief Technical Officer, Elixir), Emily Jefferson (CTO, HDR UK and Interim Director, DARE UK), Darren Bell (Director of Technical Services, UK Data Service) and James Fleming (CIO, Francis Crick Institute) came together for a discussion on federation, standards, governance, and citizen involvement in the controlling the use of their data.
 
 **Federation**
@@ -154,9 +155,8 @@ A panel made up of Peter McCallum (Chief Technical Officer, Elixir), Emily Jeffe
 **European Perspective:**
 
 - The European model, such as the European Open Science Cloud, emphasizes setting common standards without full governmental control, highlighting an alternative approach to federation through treaties or de facto standards.
-Maturity and Opportunities:
+- Maturity and Opportunities
 
- 
 **Data Controllers and Governance**:
 
 - A tension exists between data controllers' individual requirements and the need for unified federation. In the future, models that engage individuals (citizen agency) will likely play a more significant role in data governance, moving beyond current legislation-based control.
@@ -172,9 +172,10 @@ Maturity and Opportunities:
 
 **The overall sense in the room was that the UK TRE community has matured and discussions on federation have moved on since the Swansea meeting in 2023 to a position where organisations are really starting to talk to one another to make this happen**.
 
-### Breakout session 1:  Accelerating digital science: Focused discussion breakouts
+### Breakout session 1: Accelerating digital science: Focused discussion breakouts
 
 ### Breakout session 2: Working Groups
+
 Each Working Group ran a breakout discussion for community input into how they are contributing to our common challenges :
 
 - SATRE: An accreditation and specification for generic SDE/TRE facilities is needed. How these adapt to cover the different parts of a digital science platform remains a central need, helping the federation of datasets to projects.
@@ -198,14 +199,13 @@ DARE UK Phase 2 is an £18.2m investment from UKRI over 2.5 years (reduced from 
 **Core Activities:**
 
 **Transformational Programs:** Phase 2 focuses on advancing the capabilities developed in Phase 1, working with early adopters to test, configure, and implement these solutions in real-world settings. The transformational programs focus on:
+
 - Automation and AI capabilities in TREs: Developing new capabilities for secure AI model training and semi-automated disclosure control to reduce manual processing and accelerate research in TREs
 - Reference TRE standards and implementations
 - Federated analytics (both remote query and 'single-pane-of-glass' data view)
 
 **Next-generation proof-of-concepts:** Similar to Phase 1 Sprint Exemplar projects, this workstrema will provide funding to build prototypes of next-generation TRE capabilities
 
-**Early testing of a national network of TREs:** Technology evaluation and feasibility test implementations for creating a connected national network of TREs 
+**Early testing of a national network of TREs:** Technology evaluation and feasibility test implementations for creating a connected national network of TREs
 
 **Community Engagement and standards:** Phase 2 includes funding for community building, supporting information sharing, consensus building, and collaboration across domains.
-
-
