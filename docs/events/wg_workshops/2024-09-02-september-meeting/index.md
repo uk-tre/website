@@ -73,9 +73,11 @@ The UK TRE community has already setup several working groups to look at some of
 
 ```
 
-## Video
+## Presentations
 
-[Watch the full recording of the day](https://www.youtube.com/watch?v=53CqCUh8YwM)
+:Video recording: https://www.youtube.com/watch?v=53CqCUh8YwM
+:Slides from Keynotes: https://zenodo.org/records/13909022
+:Slides from lightning talks: https://zenodo.org/records/13908460
 
 ## Summary of the day
 
