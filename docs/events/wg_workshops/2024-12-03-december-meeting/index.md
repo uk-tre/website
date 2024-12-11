@@ -36,7 +36,7 @@ As always these notes were written collaboratively by multiple members of the co
 
 ### Glossary
 
-- Glossary v0 spreadsheet (incorporates content from various baseline sources): https://docs.google.com/spreadsheets/d/1qublBBkpYpNgwKm5HPFD1F7WPvaYaBpY/edit?gid=1421062944#gid=1421062944
+- Glossary v0 spreadsheet (incorporates content from various baseline sources): https://docs.google.com/spreadsheets/d/1qublBBkpYpNgwKm5HPFD1F7WPvaYaBpY/edit
 - Last set of minutes from November https://hackmd.io/zmrO0VBbR4Oo4JNqJ0cJQA
 - Group open to new members, meet every fortnight: _"Glossaries: what's not to like?!"_
 
