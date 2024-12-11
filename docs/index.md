@@ -10,11 +10,10 @@ background/index
 structure/index
 ```
 
-```{admonition} UK-TRE December 2024 online meeting
+```{admonition} Members survey
 :class: attention
 
-[Register for the UK-TRE December 2024 meeting](https://lu.ma/qzl407g2) (13:30 - 17:00 Tuesday 3rd December) now!
-[⏰&nbsp;Agenda](events/wg_workshops/2024-12-10-december-meeting/index).
+Please fill in our [UK TRE member's survey](https://docs.google.com/forms/d/e/1FAIpQLSecCwo4AeVi3TcvKMzu5b_1AVf1HozZ8pDjNzxPy5AXODWeQA/viewform) so we can make sure our future activities meet your needs.
 ```
 
 Welcome to the site! This site contains resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
