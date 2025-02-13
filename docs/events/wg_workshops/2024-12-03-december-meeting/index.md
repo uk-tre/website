@@ -16,7 +16,7 @@
 | 14:30 - 16:55 | What does the public want, how does PPIE help and what is good practice? Presentations and Panel Discussion |
 | 16:55 - 17:00 | Wrap up                                                                                                     |
 
-:Video recording: Coming soon
+:Video recording: https://www.youtube.com/watch?v=DgBm6Ibqir0
 :Slides: Coming soon
 
 As always these notes were written collaboratively by multiple members of the community.
