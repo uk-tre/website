@@ -13,6 +13,7 @@
 ```{toctree}
 :maxdepth: 1
 
+2025-03-26-march-meeting/index
 2024-12-03-december-meeting/index
 2024-09-02-september-meeting/index
 2024-06-05-june-meeting/index
