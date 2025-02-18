@@ -67,6 +67,7 @@ linkcheck_ignore = [
     r"https://www.goldacrereview.org/",
     r"https://www.rd-alliance.org/trusted-research-environments-sensitive-data-fairness-closed-data-and-processes",
     r"https://www.datashield.org/about/about-datashield-collated",
+    r"https://trenity.co.uk/?",
 ]
 
 # These pages use in-page JavaScript anchors which aren't seen by the link checker
