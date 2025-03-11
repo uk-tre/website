@@ -17,7 +17,7 @@
 | 16:55 - 17:00 | Wrap up                                                                                                     |
 
 :Video recording: https://www.youtube.com/watch?v=DgBm6Ibqir0
-:Slides: Coming soon
+:Slides: [UK TRE Community on Zenodo](https://doi.org/10.5281/zenodo.14990113)
 
 As always these notes were written collaboratively by multiple members of the community.
 
