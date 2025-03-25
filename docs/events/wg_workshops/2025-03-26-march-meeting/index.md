@@ -1,4 +1,4 @@
-# UK TRE Community meeting - March 2024
+# UK TRE Community meeting - March 2025
 
 :Date: [Wednesday 26th March 2025](https://arewemeetingyet.com/London/2025-03-26/09:30/UK%20TRE%20Community%20meeting)
 :Time: 09:30 - 13:00
