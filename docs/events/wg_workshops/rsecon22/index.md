@@ -401,4 +401,4 @@ After some discussion, it was agreed that we should:
 
 ## Contact
 
-If you have any questions, feedback, or thoughts to share, either about this report or anything else, please contact Hari Sood (hsood@turing.ac.uk)
+If you have any questions, feedback, or thoughts to share, either about this report or anything else, please contact Cassandra Gould van Praag [(cassandra.gouldvanpraag@rcmcooperative.com)](mailto:cassandra.gouldvanpraag@rcmcooperative.com)

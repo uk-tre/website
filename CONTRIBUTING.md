@@ -35,7 +35,7 @@ You can also read different issues in this repository and comment where you woul
 
 ## 📫 Contact
 
-For any queries or concerns, you can directly reach out to David Sarmiento [dsarmientoperez@turing.ac.uk](mailto:dsarmientoperez@turing.ac.uk) or Simon Li [s.p.li@dundee.ac.uk](mailto:s.p.li@dundee.ac.uk).
+For any queries or concerns, you can directly reach out to Cassandra Gould van Praag [cassandra.gouldvanpraag@rcmcooperative.com](mailto:cassandra.gouldvanpraag@rcmcooperative.com) or Simon Li [s.p.li@dundee.ac.uk](mailto:s.p.li@dundee.ac.uk).
 
 ## ♻️ License
 

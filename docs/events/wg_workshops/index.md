@@ -59,4 +59,4 @@ The meetings vary slightly from session to session, however they broadly follow 
 
 Sign-up for the mailing list to be kept up to date with the latest events, and more: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-COMM&A=1
 
-If you have any questions please email Hari Sood [(hsood@turing.ac.uk)](mailto:hsood@turing.ac.uk) or Simon Li [(spli@dundee.ac.uk)](mailto:s.p.li@dundee.ac.uk).
+If you have any questions please email Cassandra Gould van Praag [(cassandra.gouldvanpraag@rcmcooperative.com)](mailto:cassandra.gouldvanpraag@rcmcooperative.com) or Simon Li [(spli@dundee.ac.uk)](mailto:s.p.li@dundee.ac.uk).

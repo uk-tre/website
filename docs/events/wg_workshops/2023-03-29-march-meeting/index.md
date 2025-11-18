@@ -357,4 +357,4 @@ The community agreed that making efforts to ensure conversations around TREs are
 
 Volunteers to co-ordinate and contribute were called for! Your community needs you!
 
-_This write-up was authored by the wonderful Rob Baxter from DARE UK. For any questions about the above, please get in touch with Hari Sood [hsood@turing.ac.uk](mailto:hsood@turing.ac.uk)_
+_This write-up was authored by the wonderful Rob Baxter from DARE UK. For any questions about the above, please get in touch with Cassandra Gould van Praag [(cassandra.gouldvanpraag@rcmcooperative.com)](mailto:cassandra.gouldvanpraag@rcmcooperative.com)_
