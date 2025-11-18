@@ -33,4 +33,4 @@
 
 ## Get involved
 
-Email David (dsarmientoperez@turing.ac.uk) if you would like to be part of this working group!
+Email Cassandra Gould van Praag (cassandra.gouldvanpraag@rcmcooperative.com) if you would like to be part of this working group!
