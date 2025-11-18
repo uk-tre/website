@@ -17,5 +17,5 @@
   - [Open Research](https://the-turing-way.netlify.app/reproducible-research/open)
   - [Project Design](https://the-turing-way.netlify.app/project-design/project-design)
   - [Community coworking calls](https://the-turing-way.netlify.app/community-handbook/coworking)
-  - [Stakeholder engagement](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement)
+  - [Stakeholder engagement](https://book.the-turing-way.org/collaboration/stakeholder-engagement/)
 - [TRE Users report](https://zenodo.org/records/10066800)
